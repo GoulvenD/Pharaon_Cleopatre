@@ -3,7 +3,7 @@
 An elfennoù-se a zo bet kavet en ur patch FR, e-barzh an teuliad : pharaonfr-textes.7z
 Evit kavout ar patch FR : https://steamcommunity.com/sharedfiles/filedetails/?id=1522702617
 
-Evit lakaat ar c'hoari e brezhoneg :
+--> Evit lakaat ar c'hoari e brezhoneg :
 
 1/ Pellgargañ ar patch FR.
 
@@ -12,3 +12,11 @@ Evit lakaat ar c'hoari e brezhoneg :
 3/ Cheñch furmad ar restroù .xml e brezhoneg en .eng gant ar benveg-se : https://github.com/bvschaik/citybuilding-tools/releases/tag/engconverter-v0.4
 
 4/ Lakaat ar restroù .eng BR nevez e-barzh teuliad ar c'hoari
+
+--> Stad an treiñ :
+
+- pharaoh_mm.xml = troet betek 257
+- pharaoh_text_br.xml = troet betek 7163, adlennet betek 3519
+- eventmsg br = troet 100%, ret eo adlenn ha difaziañ
+
+Treiñ pharaoh_text_br.xml da gentañ.
