@@ -3709,7 +3709,7 @@
     </group>
     <group id="99">
         <string id="0">Etrepaouez</string>
-        <string id="1">Madoù ar c'henwerzh a rank bezañ lakaet en etrepaouezoù. Ar garavanennoù a bren hag a werzh o madoù er chanterioù. Ar madoù karget er dokoù a zeu deus an etrepaouezoù ivez.</string>
+        <string id="1">Madoù ar c'henwerzh a rank bezañ lakaet en etrepaouezoù. Ar madoù prenet pe gwerzhet gant ar garavanennoù pe dre an dokoù a dremen dreze ivez.</string>
         <string id="2">Urzhiadoù ispisial</string>
         <string id="3">Urzhiadoù an etrepaouez</string>
         <string id="4">KREGIÑ da c'houlloiñ an etrepaouez</string>
@@ -3720,9 +3720,9 @@
         <string id="9">O vont da gerc'hat ar madoù</string>
         <string id="10">O vont da gerc'hat boued</string>
         <string id="11">Kreizenn genwerzhel</string>
-        <string id="12">Cheñ ar greizenn genwerzhel</string>
+        <string id="12">Cheñch ar greizenn genwerzhel</string>
         <string id="13">DIWALLIT Leun eo an etrepaouez-mañ. Ne c'hall ket bezañ lakaet madoù all ennañ.</string>
-        <string id="14">DIWALLIT Kazi leun eo an etrepaouez-mañ. Ne c'hallit lakaat ennañ nemet madoù a zo stoket dija.</string>
+        <string id="14">DIWALLIT Kazi leun eo an etrepaouez-mañ. Ne c'hallit ouzhpennañ nemet madoù a zo stoket dija.</string>
         <string id="15">Hor c'harrigell emañ amañ, o c'hortoz urzhioù nevez.</string>
         <string id="16">O kas marc'hadourezhioù da lec'h-all emañ hor c'harrigell.</string>
         <string id="17">O tistreiñ emañ hor c'harrigell.</string>
@@ -3732,7 +3732,7 @@
         <string id="21">Goulloiñ</string>
         <string id="22">Goullo eo an etrepaouez-mañ.</string>
         <string id="23">blok</string>
-        <string id="24">blokoù</string>
+        <string id="24">blok</string>
         <string id="25">1/4</string>
         <string id="26">1/2</string>
         <string id="27">3/4</string>
@@ -3752,38 +3752,38 @@
         <string id="5">Ul lestr a savomp diwar c'houlenn ur c'hae deus ar gêr.</string>
         <string id="6">O kalafetiñ ul lestr emaomp.</string>
         <string id="7">Koad stoket,</string>
-        <string id="8">Koad hon eus ezhomm a-benn kalafetiñ ha sevel listri.</string>
+        <string id="8">Koad hon eus ezhomm evit kalafetiñ ha sevel listri.</string>
         <string id="9">N'hon eus ket koad a-walc'h evit echuiñ al lestr gourc'hemennet gant ur c'hae deus ar gêr.</string>
         <string id="10">Meur a lestr o deus ezhomm da vout kalafetet met koad a vank.</string>
     </group>
     <group id="101">
         <string id="0">Dok</string>
-        <string id="1">Listri kenwerzh o tont deus pep korn ar bed a vouilh amañ evit kas madoù enporzhet pe kargañ madoù da esporzhañ. Ar c'henwerzh tramor ne c'hall ket bezañ hepte.</string>
-        <string id="2">Ne c'hall ket bezañ graet war dro al lestr o paouez mouilhañ peogwir ne vez implijet doker ebet amañ.</string>
+        <string id="1">Listri kenwerzh deus pep lec'h er bed a vouilh amañ evit prenañ pe gwerzhañ madoù a bep seurt. Diazez ar c'henwerzh tramor int.</string>
+        <string id="2">Ne c'hall ket bezañ graet war dro al lestr mouilhet diwezhañ peogwir n'eus ket doker amañ.</string>
         <string id="3">War dro al lestr mouilhet e reomp met amzer a gemero peogwir n'omp ket niverus.</string>
-        <string id="4">War dro al lestr mouilhet e reomp met tud a vank amañ. Hiroc'h e vo eget raktreset.</string>
+        <string id="4">War dro al lestr mouilhet e reomp met tud a vank amañ. Hiroc'h e vo eget ar pezh a soñjemp.</string>
         <string id="5">War dro al lestr mouilhet e reomp. Echuet buan e rankfe bezañ gant hon holl dokerien.</string>
         <string id="6">Pep lestr a vouilho amañ ne gavo den evit ober war dro e gargad.</string>
         <string id="7">Nebeud-tre a zoker a labour amañ, kalz amzer e vo kemeret evit ober war dro al listri a vouilho.</string>
-        <string id="8">Dorn-implij a vank hag amzer e vo ret kaout evit ober war dro al listri a vouilho er porzh.</string>
+        <string id="8">Dorn-implij a vank hag ober war dro al listri a vouilho er porzh a gemero amzer.</string>
         <string id="9">Prest emañ hor skipailh evit ober war dro al listri a vouilho amañ.</string>
     </group>
     <group id="102">
         <string id="0">Kae</string>
-        <string id="1">Loc'hañ al lestrerezh a ra al listri evit dont betek amañ, degemer ur skipailh ha kregiñ gant ar pesketa en trowardroioù. Ul lestr a c'hallit stagañ war pep kae.</string>
+        <string id="1">Al listri a loc'h a lestrerezh evit mont d'ar c'haeoù. Ur bagad a lestro evit mont da besketa en trowardroioù. Ul lestr a c'hallit degemer war pep kae.</string>
         <string id="2">Gortoz a reomp e savfe al lestrerezh ur lestr pesketa evidomp.</string>
-        <string id="3">O vont da lec'h pesketa emañ hol lestr.</string>
+        <string id="3">Hol lestr az a da besketa.</string>
         <string id="4">O pesketa emañ hol lestr.</string>
         <string id="5">O tistreiñ d'ar porzh emañ hol lestr.</string>
         <string id="6">O prientiñ hol lestr emaomp evit ur veaj nevez e tu all hor bevennoù.</string>
         <string id="7">O tistreiñ deus ul lec'h pesketa gant kalz pesked emañ hol lestr.</string>
-        <string id="8">Spi o deus hor pesketaerien e vo kavet pesked er c'horn bro-mañ gant unan bennak peotramant o do mil boan o gounit o bara.</string>
+        <string id="8">Spi o deus hor pesketaerien e vo kavet pesked er c'horn bro-mañ dindan berr amzer. Peotramant o do mil boan evit gounit o bara pemdez.</string>
         <string id="9">Penn ar c'henwerzh en deus goulennet paouez ar pesketa.</string>
         <string id="10">N'ez aio ket hol lestr pesketa war an dourioù saotreet-se !</string>
     </group>
     <group id="103">
         <string id="0">Palez</string>
-        <string id="1">Ho lec'h annez eo unan eus ar chomelc'hioù droukc'hoantaetañ. Ur gopr a c'hallit resevout dre ho temeurañs lorc'hus.</string>
+        <string id="1">Ho lec'h annez eo unan eus ar chomelc'hioù droukc'hoantaetañ. Ur gopr a c'hallit resevout gant ho temeurañs lorc'hus.</string>
         <string id="2">bep miz</string>
         <string id="3">Gopr dean ar gêriadenn :</string>
         <string id="4">Gopr nobl ar gêriadenn :</string>
@@ -3799,14 +3799,14 @@
     </group>
     <group id="104">
         <string id="0">Kabined arkitektourien</string>
-        <string id="1">Doujet-tre e vez an arkitektourien Egiptad e klasket e vez war lerc'h o servijoù. Ne gouezho ket ken alies en o foull ar savadurioù kempennet gante.</string>
+        <string id="1">Doujet-tre e vez an arkitektourien Egiptad ha klasket e vez war o lerc'h. Ne gouezho ket ken alies en o foull ar savadurioù kempennet gante.</string>
         <string id="2">O labourat er maez emañ hon arkitekt.</string>
         <string id="3">En em brientiñ a ra hon arkitekt evit mont er-maez.</string>
         <string id="4">N'hon eus ket amzer evidomp. O labourat diehan war washadennoù pe oc'h evezhiañ savadurioù ar gêr emañ hon arkitektourien.</string>
-        <string id="5">Skuizh divi emañ hon arkitektourien. A-benn un devezh pe zaou e adkrogont en dro el labour.</string>
-        <string id="6">Tud a vank en hor skipailh hag ur sizhun a vo dav gortoz a-raok mar c'halljemp kas un arkitektour er-maez da labourat.</string>
-        <string id="7">Kalzig tud a vank en hor skipailh hag a wechoù e rank un arkitektour kemer div suzhunvezh evit ober e dro.</string>
-        <string id="8">Kalz-kalz tud a vank en hor skipailh. Tost ur miz a vez kemeret gant un arkitektour evit ober e dro.</string>
+        <string id="5">Skuizh divi eo hon arkitektourien. A-benn un devezh pe zaou e adkrogont en dro el labour.</string>
+        <string id="6">Tud a vank en hor skipailh hag ur sizhun a vo dav gortoz a-raok mar c'hallfemp kas un arkitektour er-maez da labourat.</string>
+        <string id="7">Kalzig tud a vank en hor skipailh hag a wechoù e rank un arkitektour kemer div sizhunvezh evit ober e droiad.</string>
+        <string id="8">Ur bern tud a vank en hor skipailh. Tost ur miz a vez kemeret gant un arkitektour evit ober e droiad.</string>
         <string id="9">N'eus arkitektour ebet o labourat amañ, ar savadur a c'hallfe kouezhañ en e boull.</string>
     </group>
     <group id="105">
@@ -7164,15 +7164,15 @@
         <string id="1">Ur wech bet staliet ho familh en This eo bet skoazellet ar c'hevredad thinit gant ho kourdad evit ma vefe unvanet an Egipt Uhel hag an Egipt Izel.</string>
         <string id="2">Er mojennoù e klever eo bet dizoloet gant ho klann teknologiezhioù nevez ha doareoù efedus d'implijout an dour-beuz.</string>
         <string id="3">Ho familh en deus ebarzhet istor an Egipt ur wech m'eo bet anvet unan eus ho kourdadoù da arkitektour ar rouantelezh gant Narmer.</string>
-        <string id="4">Votre famille a joué un rôle prédominant dans la fondation de la première capitale égyptienne et la construction du mastaba dans cette cité.</string>
-        <string id="5">D'après la légende, votre famille a ouvert à Timna des mines de kouevr qui ont fortement contribué à la réussite du pharaon Den lors de l'attaque bédouine.</string>
-        <string id="6">Pour la première fois, l'un de vos ancêtres a choisi les eaux plutôt que la terre ferme et a appris toutes les techniques maritimes, y compris celles liées à la guerre.</string>
-        <string id="7">Pour la première fois, l'un de vos ancêtres a choisi les eaux plutôt que la terre ferme et a appris toutes les techniques maritimes liées aux périodes de paix.</string>
-        <string id="8">Les habitants ont établi un avant-poste militaire important loin de la civilisation, ouvrant des routes de commerce vers l'Afrique qui servent toujours.</string>
-        <string id="9">En l'honneur du pharaon Nebka, votre famille a extrait les richesses minières de la première cataracte, sans lesquelles de nombreuses tombes n'auraient pas pu voir le deiz et de nombreux nobles n'auraient pas pu accéder au champ de korz.</string>
-        <string id="10">Votre ancêtre a fièrement achevé la vision du vizir Imhotep et construit la première pyramide de pierre pour y renfermer la balzamegenn de Djoser.</string>
-        <string id="11">Votre héroïque ancêtre a extrait des pierres précieuses et du kouevr du Sinaï sauvage et les féroces habitants de la région ont tout fait pour contrarier cet effort.</string>
-        <string id="12">La progression de votre clan est attestée par la tombe familiale qui se trouve à Meidoum, qui constitue aujourd'hui une preuve du rôle prépondérant de l'Egypte.</string>
+        <string id="4">Pouezus-kenañ eo bet ho familh evit diazezañ kentañ kêr-benn an Egipt hag evit sevel ar mastaba.</string>
+        <string id="5">Hervez ar vojenn en deus gellet ar faraon bout trec'h war ar Bedouined a-drugarez d'ho familh ha da mengleuzioù kouevr Timna.</string>
+        <string id="6">Evit ar wech kentañ en deus dibabet unan eus ho kourdadoù ar mor kentoc'h eget douar-ar-patatez ha desket en deus an holl teknikoù hag en-o-zouez, re ar brezel.</string>
+        <string id="7">Evit ar wech kentañ en deus dibabet unan eus ho kourdadoù ar mor kentoc'h eget douar-ar-patatez ha desket en deus an holl teknikoù pouezus da c'hoût en ur mare peoc'h.</string>
+        <string id="8">An annezidi o deus savet ur post milourel araokaet pouezus pell diouzh hor sevenadurezh. Digeriñ a ra hentoù kenwerzh betek an Afrika a chomo pouezus avat.</string>
+        <string id="9">En enor faraon Nebka he deus ho familh eztennet pinvidigezhioù kuzhet an douar hag ar roc'h er c'hatarakt kentañ. Kalzig bezioù ne vije ket bet savet hepte hag an tud nobl n'o dije ket gellet mont war ar park korz.</string>
+        <string id="10">Ho kourdad en deus echuet gant berzh huñvre ar vizir Imhotep ha savet en deus ar c'hentañ piramidenn vein evit lakaat balzamegenn Djoser enni.</string>
+        <string id="11">Ho kourdad, gwir haroz anezhañ, en deus eztennet mein prizius ha kouevr er Sinaï arvarus ha annezidi ar c'horn bro-se o graet o seizh gwellañ evit stankañ labour ho familh.</string>
+        <string id="12">Berzh ho klann a zo diskouezet gant ar bez familh e Meidoum. Un desteni eo deus plas hollbouezus an Egipt hiziv an deiz er bed.</string>
         <string id="13">La forteresse érigée à Buhen et l'habileté avec laquelle vos ancêtres ont repoussé l'ennemi dans cette région ont projeté le pouvoir de l'Egypte dans la seconde cataracte, sur un territoire revendiqué par la Nubie.</string>
         <string id="14">Tandis que d'autres étaient occupés à repousser les frontières ar rouantelezh, votre ancêtre a construit la tombe la plus magnifique jamais construite, la pyramide penchée de Snéfrou.</string>
         <string id="15">Même lorsque Snéfrou accueillit un héritier que les voyants considéraient comme un tyran, vos propres ancêtres construisirent la pyramide la mieux réussie du monde pour abriter les restes de ce pharaon.</string>
