@@ -479,7 +479,7 @@
         <string id="30">Kargit penn ar c'henwerzh d'o enporzhiañ.</string>
         <string id="31">Toullit ur vengleuz kouevr.</string>
         <string id="32">Savit un ti-feurm heiz.</string>
-        <string id="33">Sait un ti-feurm lin.</string>
+        <string id="33">Savit un ti-feurm lin.</string>
         <string id="34">Savit ur puñs pri.</string>
         <string id="35">Toullit ur vengleuz mein prizius.</string>
         <string id="36">A rank bezañ liammet gant ur chadouf klok evit mont en-dro</string>
@@ -4059,33 +4059,33 @@
         <string id="12">Kouevr lakaet er staliad,</string>
     </group>
     <group id="125">
-        <string id="0">Orfeberezh</string>
+        <string id="0">Orfebrerezh</string>
         <string id="1">Bravigoù lorc'hus (traezadoù lorc'h) a vez produet amañ diwar mein prizius gant an artizaned. Keodedourien zo a fell dezhe kaout bravigoù evite pe evit o gwerzhañ.</string>
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Paouezet eo bet produiñ bravigoù gant Penn ar c'henwerzh.</string>
         <string id="5">N'eus orfebrer ebet o labourat amañ. Paouezet eo ar produiñ.</string>
         <string id="6">Leun eo skipailh an orfebrerezh-mañ ha produiñ e vez kalz bravigoù (traezadoù lorc'h) a-galite.</string>
-        <string id="7">An orfebrerezh-mañ a glask war-lerc'h un nebeud-tre hag uhelaet e c'hallfe bout ar feur produiñ bravigoù (traezadoù lorc'h).</string>
-        <string id="8">N'eus ket dorn-labour a-walc'h amañ ha gorrekoc'h evit kustum emañ ar feur produiñ bravigoù (traezadoù lorc'h).</string>
+        <string id="7">Gant labourerien ouzhpenn e vefe uhelaet ar feur produiñ bravigoù (traezadoù lorc'h).</string>
+        <string id="8">N'eus ket dorn-labour a-walc'h amañ ha gorrekoc'h evit kustum eo ar feur produiñ bravigoù (traezadoù lorc'h).</string>
         <string id="9">N'eus nemet un nebeud tud o labourat amañ. Gorrek-tre eo ar produiñ bravigoù (traezadoù lorc'h).</string>
         <string id="10">N'eus tost orfebrer ebet o labourat amañ ha n'ez a ket war-raok ar produiñ. Nebeud-tre a vravigoù (traezadoù lorc'h) a vo produet ar bloaz-mañ.</string>
-        <string id="11">Resevout mein prizius digant perzh un etrepaouez pe ur vengleuz a vo ret d'an orfebrerezh-mañ evit produiñ bravigoù.</string>
+        <string id="11">An orfebrerezh-mañ a rank resevout mein prizius digant perzh un etrepaouez pe ur vengleuz evit produiñ bravigoù.</string>
         <string id="12">Mein prizius lakaet er staliad,</string>
     </group>
     <group id="126">
         <string id="0">Poderezh</string>
-        <string id="1">Amañ e vez graet podoù pri gant ar poderien evit ma vefe miret traoù gant ar c'heodedourien. Gwerzhit anezhe pe roit anezhe d'ho pazarioù evit ma c'hallfe oc'h annezidi sevel tiez gwelloc'h.</string>
+        <string id="1">Amañ e vez graet podoù pri gant ar poderien evit ma vefe miret traoù gant ar c'heodedourien. Gwerzhit anezhe pe roit anezhe d'ho pazarioù evit ma c'hallfe hoc'h annezidi sevel tiez gwelloc'h.</string>
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Paouezet eo bet ar produiñ podoù pri gant penn ar c'henwerzh.</string>
-        <string id="5">Ne vez ket implijet den ebet ebet ar boderezh-mañ. Paouezet eo ar produiñ.</string>
-        <string id="6">Leun eo skipailh an ataler-mañ. Evit o c'halite e vez brudet ar podoù pri graet amañ.</string>
-        <string id="7">N'eus ket oberourien a-walc'h en ataler-mañ. Un tamm gorrekaet emañ ar produiñ.</string>
+        <string id="5">Ne vez ket implijet den ebet er poderezh-mañ. Paouezet eo ar produiñ.</string>
+        <string id="6">Leun eo skipailh ar poderezh-mañ. Ar podoù graet amañ a vez brudet evit o c'halite.</string>
+        <string id="7">N'eus ket oberourien a-walc'h er boderezh-mañ. Un tamm gorrek eo ar produiñ.</string>
         <string id="8">Dorn labour a vank amañ ha kemeret e vo muioc'h amzer eget kustum evit produiñ podoù pri.</string>
         <string id="9">N'eus nemet un nebeud tud o labourat amañ. Gorrek-tre eo ar produiñ podoù pri.</string>
         <string id="10">Kazi paouezet eo ar produiñ podoù pri amañ peogwir n'eus tost den ebet evit labourat. Nebeud-tre a bodoù pri a vo produet ar bloaz-mañ.</string>
-        <string id="11">Resevout pri digant perzh un etrepaouez pe ur puñs pri a vo ret d'ar boderezh-mañ evit produiñ podoù pri.</string>
+        <string id="11">Ar boderezh-mañ a rank resevout pri digant perzh un etrepaouez pe ur puñs pri evit produiñ podoù.</string>
         <string id="12">Pri lakaet er staliad,</string>
     </group>
     <group id="127">
@@ -4112,12 +4112,12 @@
         <string id="20">annezad</string>
         <string id="21">re.</string>
         <string id="22">Lec'h dieub evit</string>
-        <string id="23">N'eo ket trement an tailhanter. An tailhoù n'int ket bet paeet</string>
+        <string id="23">N'eo ket trement an tailhanterour. An tailhoù n'int ket bet paeet</string>
         <string id="24">Dastumet</string>
         <string id="25">a dailhoù d'an deiz-mañ.</string>
         <string id="26">Torfed ebet bet disklêriet gant an annezidi.</string>
         <string id="27">Sioul eo ar c'harter-mañ.</string>
-        <string id="28">Un nebeud torfedoù bet disklêreiet, netra grevus.</string>
+        <string id="28">Un nebeud torfedoù bet disklêriet, netra grevus.</string>
         <string id="29">Ur gudenn eo an dorfederehz.</string>
         <string id="30">Ne gred ket an annezidi mont er maez deus o zi.</string>
         <string id="31">Dañjerus eo al lec'h-mañ. Spontet e vez an dud.</string>
@@ -4197,7 +4197,7 @@
         <string id="105">dizimplij</string>
         <string id="106">dizimplij</string>
         <string id="107">Ti kontammet evit</string>
-        <string id="108">An ti-mañ ne c'hall ket diorren. Traezadoù lorc'h a rank resevout evel da skouer</string>
+        <string id="108">An ti-mañ ne c'hall ket diorren. Traezadoù lorc'h a rank resevout, evel da skouer</string>
         <string id="109">Kontammet gant raned evit</string>
         <string id="110">An ti-mañ a zigresko a-benn nebeud peogwir emañ-he pourvezet gant un doare traezad lorc'h nemetken</string>
         <string id="111">ha klemmañ a reont he annezidi abalamour d'an dibab reuzeudig-se.</string>
@@ -4209,8 +4209,8 @@
     </group>
     <group id="128">
         <string id="0">Tachenn da sevel</string>
-        <string id="1">Den n'en deus teurvezet en em staliañ amañ met enbroidi a rankfe erruout a-benn nebeud e kêr m'emañ kinniget boued ha postoù labour enni.</string>
-        <string id="2">Den ne zeuio da vevañ emañ peogwir n'eus tamm hent ebet e-kichen. Ma ne ziskoulmit ket ar gudenn-se ez aio en dro da ouez an dachenn-mañ.</string>
+        <string id="1">Den ebet n'en deus teurvezet en em staliañ amañ met enbroidi a rankfe erruout a-benn nebeud e kêr m'emañ kinniget boued ha postoù labour.</string>
+        <string id="2">Den ebet ne zeuio da vevañ emañ peogwir n'eus tamm hent ebet e-kichen. Ma ne ziskoulmit ket ar gudenn-se ez aio en dro da ouez an dachenn-mañ.</string>
     </group>
     <group id="129">
         <string id="0">a</string>
@@ -4248,7 +4248,7 @@
         <string id="1">Is this entry used anywhere?</string>
     </group>
     <group id="133">
-        <string id="0">Cultures de base</string>
+        <string id="0">Sevenadurezhioù diazez</string>
         <string id="1">This entry is probably unused.</string>
     </group>
     <group id="134">
@@ -4258,7 +4258,7 @@
     <group id="135">
         <string id="0">Akademiezh milourel</string>
         <string id="1">Ur wech m'o deus ar soudarded nevez echuet o stummadur er c'hreizenn duta e rankont klotaat anezhi en akademiezh milourel met ret eo tizhout kota an izili.</string>
-        <string id="2">Ne c'hallomp ket stummañ soudarded nevez ar gêr peogwir e vank implijidi. Rankout a reont mont er c'hreñvlec'h war eeun.</string>
+        <string id="2">Ne c'hallomp ket stummañ soudarded nevez peogwir e vank implijidi. Rankout a reont mont er c'hreñvlec'h war eeun.</string>
         <string id="3">Kinnig a reomp ar stummadur ret d'ar soudarded nevez evit ebarzhiñ ul lu Egiptek modern.</string>
     </group>
     <group id="136">
@@ -4303,9 +4303,9 @@
         <string id="16">En em gannañ gant an enebourien nesañ</string>
         <string id="17">Gant an urzh-mañ ez aio ar gompagnunezh da lazhañ an holl enebourien sot a-walc'h evit tostaat.</string>
         <string id="18">Skubadenn</string>
-        <string id="19">Gant an urzh-mañ e torro ar gompagnunezh he stummadur ha mont a raio da glask war lerc'h an enebourien.</string>
+        <string id="19">Gant an urzh-mañ e dorro ar gompagnunezh he stummadur ha mont a raio da glask war lerc'h an enebourien.</string>
         <string id="20">Argad</string>
-        <string id="21">Klask terriñ renkennadoù an enebourien a glasko ar gompagnunezh.</string>
+        <string id="21">Klask a raio ar gompagnunezh terriñ renkennadoù an enebourien.</string>
         <string id="22">Pa vez urzhiet dezhi ez aio kuit ar gompagnunezh diouzh an dachenn emgann evit erlec'hiañ ar soudarded marv ha diskuizhañ.</string>
         <string id="23">Soudarded ar gompagnunezh</string>
         <string id="24">Yec'hed ar soudarded</string>
