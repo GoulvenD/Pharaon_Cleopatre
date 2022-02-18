@@ -16,7 +16,7 @@ Evit kavout ar patch FR : https://steamcommunity.com/sharedfiles/filedetails/?id
 --> Stad an treiñ :
 
 - pharaoh_mm.xml = troet betek 257
-- pharaoh_text_br.xml = troet betek 7175, adlennet betek 5094
+- pharaoh_text_br.xml = troet betek 7175, adlennet betek 5661
 - eventmsg br = troet 100%, ret eo adlenn ha difaziañ
 
 Treiñ pharaoh_text_br.xml da gentañ.
