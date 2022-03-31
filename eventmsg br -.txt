@@ -573,8 +573,8 @@ PHRASE_bedouin_attacks_you_no_reason_C	  ""
 
 ;*****Gifts******************************************
 
-PHRASE_gift_title_P 				"Un donezon a-berzh Faraon"
-PHRASE_gift_title_C 				"Un donezon a-berzh un amezeg"
+PHRASE_gift_title_P 				"Donezon a-berzh Faraon"
+PHRASE_gift_title_C 				"Donezon a-berzh un amezeg"
 PHRASE_gift_granted_P				"[greeting] [player_name], [reason_phrase] dibabet en deus ar faraon profañ deoc'h [amount] karrigellad [item] deus [city_name]."
 PHRASE_gift_granted_C				"[greeting] [player_name], [reason_phrase] [city_name] a fell dezhi profañ deoc'h [amount] karrigellad [item]."
 PHRASE_gift_cash_granted_P			"[greeting] [player_name], [reason_phrase] dibabet en deus ar faraon profañ deoc'h [amount] deben o tont deus kêr [city_name]."

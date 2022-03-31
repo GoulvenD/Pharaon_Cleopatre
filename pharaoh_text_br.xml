@@ -62,7 +62,7 @@
         <string id="8">Rekedoù ar faraon</string>
         <string id="9">N'ho peus ket danvezioù a-walc'h</string>
         <string id="10">Rekedoù ar faraon</string>
-        <string id="11">N'ho peus tamm kompagnunezh ebet da gas</string>
+        <string id="11">N'ho peus ket tamm kompagnunezh ebet da gas</string>
         <string id="12">Rekedoù ar faraon</string>
         <string id="13">Lakait ho penn milourel da gas ar c'hompagnunezhioù prest da servijout ar rouantelezh.</string>
         <string id="14">Rekedoù ar faraon</string>
@@ -2388,7 +2388,7 @@
         <string id="13">Dale a vez lakaet war ziorren karterioù zo gant an diouer a salioù balzamañ.</string>
         <string id="14">Ar c'heodedourien a c'houlenn groñs kaout muioc'h a salioù balzamañ evit prientiñ gwelloc'h o beaj en anaon.</string>
         <string id="15">Evit poent n'eus tamm goulenn servijoù yec'hed ebet. A-hed kresk ar boblañs e vo goulennet servijoù yec'hed, dentourien hag ensavadurioù all !</string>
-        <string id="16">Ho trevadenn vihan n'he deus bet kudenn yec'hedel ebet evit poent.</string>
+        <string id="16">Ho trevadenn vihan n'he deus bet kudenn yec'hedel ebet betek poent.</string>
         <string id="17">Heugus eo ar yec'hed en ho kêr, dibrubuilh en em liesont an hadennoù hag ar virusoù.</string>
         <string id="18">Spontus eo ar yec'hed en ho kêr ! Ne c'hallo ket bezañ tremenet e-biou ar c'hleñvedoù-red.</string>
         <string id="19">Fall-tre eo ar yec'hed en ho kêr. Gant muioc'h a arbennigourien e c'hallfe bout gwellaet ar jeu.</string>
@@ -2477,7 +2477,7 @@
         <string id="6">N.D.</string>
         <string id="7">Ezhommoù simpl o deus ho keodedourien hag an dudioù n'int ket ur briorelezh. Koulskoude, a-hed m' az aio ho kêr war ziorren e c'houlennont dudioù evit disoñjal o buhez pemdez.</string>
         <string id="8">Dic'hoantaet eo ar c'heodedourien o doa ezhomm da vezañ dudiet. Koulskoude, a-hed m'az aio ho kêr war ziorren e vo ret liesaat ha niverusaat ar c'hinnig dudioù !</string>
-        <string id="9">Hervez keodedourien zo n'eo ket lies a-walc'h ar c'ginnig dudioù. Tachennoù kêr zo o deus ezhomm da gaout ensavadurioù dudiañ liesoc'h ha niverusoc'h evit mont war ziorren.</string>
+        <string id="9">Hervez keodedourien zo n'eo ket lies a-walc'h ar c'hinnig dudioù. Tachennoù kêr zo o deus ezhomm da gaout ensavadurioù dudiañ liesoc'h ha niverusoc'h evit mont war ziorreiñ.</string>
         <string id="10">Tachennoù kêr zo a glemm peogwir n'eus ket a savadurioù dudiañ enne. Sevel savadurioù giz-se a sikouro ar c'harterioù-se da vont war wellaat.</string>
         <string id="11">Keodedourien zo a glemm peogwir n'eus ket a savadurioù dudiañ en o c'harter. Ur c'hinnig dudioù pinvidikoc'h a vefe mat da ginnig dezhe. Sevel muioc'h a skolioù arzourien a c'hallit ober ivez evit ma vefe implijet ar savadurioù dudiañ.</string>
         <string id="12">Mankout a ra sonerien pe janglerien e savadurioù zo neuze n'int ket efedus da vat. Ret e vefe kaout muioc'h a arzourien evit luskañ an tachennoù kêr hep dudioù.</string>
@@ -2860,7 +2860,7 @@
     </group>
     <group id="63">
         <string id="0">Kemennadennoù</string>
-        <string id="1">Temm kemennadenn ebet o c'hortoz. Kemennadennoù a vez diskouezet amañ e-pad diorroadur ar gêr ha pa vez goulennet madoù gant ar c'herioù-all.</string>
+        <string id="1">Tamm kemennadenn ebet o c'hortoz. Kemennadennoù a vez diskouezet amañ e-pad diorroadur ar gêr ha pa vez goulennet madoù gant ar c'herioù-all.</string>
         <string id="2">Deiziad</string>
         <string id="3">Sujet</string>
         <string id="4">Klikit war ur gemennadenn evit lenn anezhi. Klikit dehou warnañ evit dilemel anezhi.</string>
@@ -2995,7 +2995,7 @@
         <string id="9">Tremenet eo un douger dour n'eus ket pell e-kichen an ti-mañ. Ur mirad dour mat da evañ bras a-walc'h he deus.</string>
         <string id="10">An ti-mañ he deus miradoù dour mat da evañ bras a-walc'h.</string>
         <string id="11">An ti-mañ he deus un ezhomm mallus a zour mat da evañ hag a rank bezañ gweladennet gant un douger dour.</string>
-        <string id="12">An ti-mañ n'emañ liammet ouzh templ ebet.</string>
+        <string id="12">An ti-mañ n'eo ket liammet ouzh an temploù.</string>
         <string id="13">An ti-mañ emañ liammet ouzh templ un doue nemetken.</string>
         <string id="14">An ti-mañ emañ liammet ouzh temploù daou zoue.</string>
         <string id="15">An ti-mañ emañ liammet ouzh temploù tri doue.</string>
@@ -3041,13 +3041,13 @@
         <string id="55">Ar savadur-mañ a zo brall-divrall.</string>
         <string id="56">Ar savadur-mañ a zo brall-divrall ha leun a frailhoù.</string>
         <string id="57">Ar savadur-mañ a chom a sav peogwir n'eus ket avel hiziv.</string>
-        <string id="58">Doujus-tre ouzh al lezennoù eo ar c'harter-mañ ha trofed ebet a zo bet disklêriet.</string>
+        <string id="58">Doujus-tre ouzh al lezennoù eo ar c'harter-mañ ha torfed ebet a zo bet disklêriet.</string>
         <string id="59">N'eo ket uhel an dorfederezh er c'harter-mañ.</string>
         <string id="60">N'eo ket arvarus ar c'harter-mañ met keodedourien zo o deus savet ur c'hlemm diwar-benn an diouer a surentez er straedoù.</string>
         <string id="61">Un nebeud kudennoù a zo bet disklêriet n'eus ket pell er c'harter-mañ met dre vraz e vez sioul ar straedoù.</string>
         <string id="62">Danjerus eo ar c'harter-mañ. Fuloret eo an annezidi hag ar straedoù n'int sur e-pad an noz.</string>
         <string id="63">Ur wir porzh burzhudus eo ar c'harter-mañ ! Dichadennet eo an torfed ha santout a reer an emsav o tont.</string>
-        <string id="64">An demeurañs-mañ n'emañ liammet ouzh tamm dudi ebet.</string>
+        <string id="64">An demeurañs-mañ n'eo ket liammet ouzh an dudioù.</string>
         <string id="65">Diaes-tre eo d'an demeurañs-mañ kavout lec'hioù dudiañ.</string>
         <string id="66">Diaes eo d'an demeurañs-mañ kavout lec'hioù dudiañ.</string>
         <string id="67">Berr eo moned an demeurañs-mañ d'al lec'hioù dudiañ.</string>
@@ -3113,7 +3113,7 @@
         <string id="127">Ar savadur-mañ a zo yac'hus mat ha naet.</string>
         <string id="128">Ar savadur-mañ en deus kudennigoù yac'husted ha naetder.</string>
         <string id="129">Ar savadur-mañ n'eo ket yac'hus mat na naet kenañ.</string>
-        <string id="130">Ar savadur-mañ n'eo na yac'hus na naet.</string>
+        <string id="130">Ar savadur-mañ n'eo ket yac'hus na naet.</string>
         <string id="131">Ar savadur-mañ a zo lous ha leun a gleñvedoù ennañ.</string>
         <string id="132">N'emañ ket liammet ouzh predervaoù.</string>
         <string id="133">Medisin ebet a zo tremenet abaoe pell e-kichen an ti-mañ.</string>
@@ -3147,7 +3147,7 @@
         <string id="161">An ti-mañ n'eo ket bet gweladennet gant ur reizhaouer abaoe pell. A-benn nebeud ne vo ket liammet ken ouzh ul lez-varn.</string>
         <string id="162">Ul lec'h e-touez gwashañ re ar gêr eo.</string>
         <string id="163">N'eus den ebet a zibabfe bevañ amañ met lec'hioù gwashoc'h a zo.</string>
-        <string id="164">Ne vez ket plijet an dud gant al lec'h-mañ.</string>
+        <string id="164">N'int ket plijet an dud gant al lec'h-mañ.</string>
         <string id="165">Gwelloc'h eo al lec'h-mañ evit reoù-all met n'eo ket dedennus-tre.</string>
         <string id="166">Lodenn vrasañ an dud a vez plijet gant al lec'h-mañ.</string>
         <string id="167">Unan eus ar chomlec'hioù brudetañ eo en ho kêr.</string>
@@ -3484,7 +3484,7 @@
     <group id="71">
         <string id="0">Kiosk</string>
         <string id="1">An dud a zeu amañ evit sellout ouzh ar janglerien ha selaou sonerezh.</string>
-        <string id="2">Ne vez ket implijet ar blasenn-mañ evit arvestoù. Ret eo dezhi degemer janglerien ha sonerien warni.</string>
+        <string id="2">Ne implijer ar blasenn-mañ evit arvestoù. Ret eo dezhi degemer janglerien ha sonerien warni.</string>
         <string id="3">Ar blasenn-mañ a ginnig d'ar gumuniezh arvestoù janglerien dibar ha sonerien eus ar vro.</string>
         <string id="4">War ar blasenn-mañ e vez dudius ar sonerien evit ar gumuniezh lec'hel. Klasket e vez war-lerc'h janglerien evit ma kinnigfent arvestoù.</string>
         <string id="5">Janglerien emañ amañ. An arvesterien a zo laouen met gwelloc'h e vefe gant sonerien.</string>
@@ -3682,7 +3682,7 @@
     </group>
     <group id="97">
         <string id="0">Bazar</string>
-        <string id="1">Hor bazarioù a ginnig teñzorioù ar rouantelezh d'ar c'heodedourien enep ur sammadig arc'hant. An holl tiez a rank bezañ liammet ouzh ur bazar. Met n'eus den ebet plijet da vevañ re dost oute.</string>
+        <string id="1">Hor bazarioù a ginnig teñzorioù ar rouantelezh d'ar c'heodedourien enep ur sammadig arc'hant. An holl tiez a rank bezañ liammet ouzh ur bazar. Met n'eus den ebet a blij dezhañ bevañ re dost dioute.</string>
         <string id="2">Ar bazar-mañ n'ez a ket en dro. N'eo ket talvoudus evit ho keodedourien.</string>
         <string id="3">Ar bazar-mañ az a mat en-dro.</string>
         <string id="4">Marc'hadourien a zo o paouez erruout er bazar hag e klaskont boued pe madoù da werzhañ.</string>
@@ -3748,7 +3748,7 @@
         <string id="1">Gant oberourien a-walc'h e c'hall al lestrerezh-mañ sevel listri evit holl kaeoù ar gêr.</string>
         <string id="2">Produerezh erruet da</string>
         <string id="3">echuet.</string>
-        <string id="4">Kae ebet en deus ezhomm deus hol listri.</string>
+        <string id="4">Kaeoù ar gêr n'o deus ket ezhomm deus hol listri.</string>
         <string id="5">Ul lestr a savomp diwar c'houlenn ur c'hae deus ar gêr.</string>
         <string id="6">O kalafetiñ ul lestr emaomp.</string>
         <string id="7">Koad stoket,</string>
@@ -3759,7 +3759,7 @@
     <group id="101">
         <string id="0">Dok</string>
         <string id="1">Listri kenwerzh deus pep lec'h er bed a vouilh amañ evit prenañ pe gwerzhañ madoù a bep seurt. Diazez ar c'henwerzh tramor int.</string>
-        <string id="2">Ne c'hall ket bezañ graet war dro al lestr mouilhet diwezhañ peogwir n'eus ket doker amañ.</string>
+        <string id="2">Ne c'hall ket bezañ graet war dro al lestr mouilhet peogwir n'eus ket dokerien amañ.</string>
         <string id="3">War dro al lestr mouilhet e reomp met amzer a gemero peogwir n'omp ket niverus.</string>
         <string id="4">War dro al lestr mouilhet e reomp met tud a vank amañ. Hiroc'h e vo eget ar pezh a soñjemp.</string>
         <string id="5">War dro al lestr mouilhet e reomp. Echuet buan e rankfe bezañ gant hon holl dokerien.</string>
@@ -3826,7 +3826,7 @@
         <string id="7">Tud a vank en hor skipailh hag ur sizhunvezh a vo dav gortoz a-raok ma ne adkemerfe an tailhanterien o zroioù.</string>
         <string id="8">Kalz-kalz tud a vank en hor skipailh ha div sizhunvezh a vo dav gortoz a-raok dastum an tailhoù.</string>
         <string id="9">Dre ma vank kalz tud en hor skipailh e vo gorrekoc'h hol labour.</string>
-        <string id="10">Tailhanter ebet ne labour amañ ha santet e vo e-barzh kontoù ar gêr.</string>
+        <string id="10">Tailhanter ebet a labour amañ ha santet e vo e-barzh kontoù ar gêr.</string>
         <string id="11">Ur palez a rankit sevel evit dastum an tailhoù.</string>
         <string id="12">Ur palez oberiant a rankit kaout en ho kêr evit dastum an tailhoù.</string>
     </group>
@@ -3842,8 +3842,8 @@
         <string id="2">Digudenn e vez pourvezet dour d'ar c'heodedourien.</string>
         <string id="3">Dougerien dour a vank. A-wechoù e dremen un devezh pe zaou hep dour pourvezet.</string>
         <string id="4">Kalzig dougerien a vank en hor skipailh hag a wechoù e dremen ur sizhunvezh hep dour pourvezet.</string>
-        <string id="5">Kalz kalz dougerien a vank en hor skipailh. A-wechoù ne vez ket pourvezet an dour e-pad div sizhunvezh.</string>
-        <string id="6">Re nebeud a zougerien a implijomp. A-wechoù ne vez ket pourvezet dour e-pad ur sizhunvezh.</string>
+        <string id="5">Ur bern dougerien a vank en hor skipailh. A-wechoù n'eo ket pourvezet an dour e-pad div sizhunvezh.</string>
+        <string id="6">Re nebeud a zougerien a implijomp. A-wechoù n'eo ket pourvezet dour e-pad ur sizhunvezh.</string>
         <string id="7">Hep dougerien ne servij da netra ar savadur-mañ.</string>
     </group>
     <group id="109">
@@ -3866,9 +3866,9 @@
         <string id="2">Eostad :</string>
         <string id="3">echuet.</string>
         <string id="4">Goulennet eo bet paouez labour an edaj gant penn ho kenwerzh.</string>
-        <string id="5">Ne vez ket implijet den ebet en ti-feurm-mañ. En fraost emañ e barkoù.</string>
+        <string id="5">Ne implijer den ebet en ti-feurm-mañ. En fraost emañ e barkoù.</string>
         <string id="6">Amañ e vez implijet an holl dud a zo ezhomm. Al lusk produiñ emañ en e uhelañ.</string>
-        <string id="7">Ne vez ket implijet tud a-walc'h amañ. Gwelloc'h e c'hallfe bout ar produiñ gant muioc'h a zorn labour.</string>
+        <string id="7">Ne implijer ket tud a-walc'h amañ. Gwelloc'h e c'hallfe bout ar produiñ gant muioc'h a zorn labour.</string>
         <string id="8">Dorn labour a vank en ti-feurm-mañ hag izelaat a ra e feur produiñ.</string>
         <string id="9">Dre mard int re nebeud ar beizanted eo gorrek ar produiñ edaj.</string>
         <string id="10">Tost paouezet eo ar produiñ peogwir n'eus ket labourerien a-walc'h.</string>
@@ -3883,7 +3883,7 @@
         <string id="2">Eostad :</string>
         <string id="3">echuet.</string>
         <string id="4">Goulennet eo bet paouez labour al letuz gant penn ho kenwerzh.</string>
-        <string id="5">Ne vez ket implijet den ebet amañ. Netra a zo bet hadet.</string>
+        <string id="5">Ne implijer den ebet amañ. Netra a zo bet hadet.</string>
         <string id="6">Tud a walc'h emañ en ti-feurm-mañ. Kalz letuz emañ o kreskiñ.</string>
         <string id="7">N'emañ ket an ti-feurm-mañ en e uhelañ ha gorrekaet eo bet ar produiñ letuz.</string>
         <string id="8">Tud a vank er skipailh. Ar produiñ letuz a gemero muioc'h amzer eget boaz.</string>
@@ -3900,7 +3900,7 @@
         <string id="2">Eostad :</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ho kenwerzh en deus goulennet paouez labour ar c'hreunavaloù.</string>
-        <string id="5">Ar werjez-mañ n'eus ket den ebet enni. Paouezet eo bet ar produiñ.</string>
+        <string id="5">Ar werjez-mañ n'eus den ebet enni. Paouezet eo bet ar produiñ.</string>
         <string id="6">Implijidi a-walc'h a zo er werjez-mañ. Pleget emañ ar wezennoù gant pouez ar frouezh.</string>
         <string id="7">N'emañ ket en e uhelañ feur produiñ ar werjez-mañ ha gorrekaet e vez ar produiñ greunavaloù.</string>
         <string id="8">Tud a vank er werjez-mañ. Ne ra ket greunavaloù ken buan ha ma c'hallfe.</string>
@@ -3917,7 +3917,7 @@
         <string id="2">Eostad :</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ho kenwerzh en deus goulennet paouez labour al lin.</string>
-        <string id="5">Ne vez ket implijet den ebet en ti-feurm-mañ. Paouezet eo ar produiñ lin.</string>
+        <string id="5">Ne implijer den ebet en ti-feurm-mañ. Paouezet eo ar produiñ lin.</string>
         <string id="6">Implijidi a-walc'h emañ amañ. Leun emañ ar parkoù gant greun al lin glas.</string>
         <string id="7">N'emañ ket en e uhelañ feur labour an ti-feurm-mañ. Diorroet e c'hallfe bout ar produiñ lin gant muioc'h a implijidi.</string>
         <string id="8">Tud a vank en ti-feurm-mañ. Gorrekaat a ra ar produiñ lin.</string>
@@ -3934,7 +3934,7 @@
         <string id="2">Korz miret</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ho kenwerzh en deus urzhiet paouez ar c'horzata.</string>
-        <string id="5">Ne vez ket implijet dastumer korz ebet amañ.</string>
+        <string id="5">Ne implijer dastumer korz ebet amañ.</string>
         <string id="6">Impliji a-walc'h a zo amañ. Ne vo ket laosket korz a-gostez.</string>
         <string id="7">Al live dorn-labour a zo izel ha gorrekaat a ra ar c'horzata.</string>
         <string id="8">Mankout a ra tud amañ ha gorrek eo ar c'horzata.</string>
@@ -3951,7 +3951,7 @@
         <string id="2">Produerezh :</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ho kenwerzh en deus urzhiet paouez gant ar sevel chatal.</string>
-        <string id="5">Ne vez ket implijet den ebet amañ hag an holl loened o deus tec'het pe a zo marv.</string>
+        <string id="5">Ne implijer den ebet amañ hag an holl loened o deus tec'het pe a zo marv.</string>
         <string id="6">Implijidi a-walc'h a zo amañ. Ar produiñ kig a c'hallfe bout gwellaet gant plouz.</string>
         <string id="7">An ti-feurm magañ chatal-mañ a rank goprañ tud all evit uhelaat e broduiñ boued.</string>
         <string id="8">Tud a vank en ti-feurm-mañ. Gorrekaet e vez ar produiñ.</string>
@@ -3980,7 +3980,7 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ho kenwerzh en deus goulennet paouez ar greanterezh-se.</string>
-        <string id="5">N'eus ket den ebet o vezañ implijet er savadur-mañ. Paouezet eo ar produiñ mein-raz.</string>
+        <string id="5">N'eus den ebet o vezañ implijet er savadur-mañ. Paouezet eo ar produiñ mein-raz.</string>
         <string id="6">An holl implijidi a zo ezhomm emaint er savadur-mañ ha produiñ a ra kalz.</string>
         <string id="7">Ne labour ket ar savadur-mañ gant e lusk wellañ. Gant muioc'h a zorn labour e vefe produet un tamm muioc'h.</string>
         <string id="8">Tud a vank er savadur-mañ. Ar produiñ blokoù mein-raz a zo gorrekoc'h evit al lusk raktreset.</string>
@@ -4006,7 +4006,7 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ho kenwerzh en deus goulennet e vefe paouezet an eztennañ pri.</string>
-        <string id="5">Ne vez ket implijet den ebet er puñs pri-mañ. Ne vez ket produet.</string>
+        <string id="5">Ne implijer den ebet er puñs pri-mañ. Ne vez ket produet.</string>
         <string id="6">An holl dorn labour ret a zo er savadur-mañ. Produet e vez kalz.</string>
         <string id="7">N'eus ket implijidi a-walc'h er puñs pri-mañ. Un tamm gorrekaet e vez ar produiñ.</string>
         <string id="8">Mankout a ra tud er puñs pri-mañ ha kemeret e vez muioc'h amzer evit boaz evit eztennañ pri.</string>
@@ -4049,7 +4049,7 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Difennet eo bet aozañ armoù gant penn ho henwerzh .</string>
-        <string id="5">Ne vez ket implijet den ebet en armerezh-mañ. Paouezet eo ar produiñ.</string>
+        <string id="5">Ne implijer den ebet en armerezh-mañ. Paouezet eo ar produiñ.</string>
         <string id="6">Leun eo skipailh an armerezh-mañ ha produet e vez kalz armoù a-galite.</string>
         <string id="7">N'eus ket tud a-walc'h en armerezh-mañ. Un tamm gorrekaet e vo ar produiñ.</string>
         <string id="8">Tud a vank en armerezh-mañ hag hiroc'h evit kustum e vo ar produiñ armoù.</string>
@@ -4079,7 +4079,7 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Paouezet eo bet ar produiñ podoù pri gant penn ar c'henwerzh.</string>
-        <string id="5">Ne vez ket implijet den ebet er poderezh-mañ. Paouezet eo ar produiñ.</string>
+        <string id="5">Ne implijer den ebet er poderezh-mañ. Paouezet eo ar produiñ.</string>
         <string id="6">Leun eo skipailh ar poderezh-mañ. Ar podoù graet amañ a vez brudet evit o c'halite.</string>
         <string id="7">N'eus ket oberourien a-walc'h er boderezh-mañ. Un tamm gorrek eo ar produiñ.</string>
         <string id="8">Dorn labour a vank amañ ha kemeret e vo muioc'h amzer eget kustum evit produiñ podoù pri.</string>
@@ -4112,7 +4112,7 @@
         <string id="20">annezad</string>
         <string id="21">re.</string>
         <string id="22">Lec'h dieub evit</string>
-        <string id="23">N'eo ket trement an tailhanterour. An tailhoù n'int ket bet paeet</string>
+        <string id="23">N'eo ket tremenet an tailhanterour. An tailhoù n'int ket bet paeet</string>
         <string id="24">Dastumet</string>
         <string id="25">a dailhoù d'an deiz-mañ.</string>
         <string id="26">Torfed ebet bet disklêriet gant an annezidi.</string>
@@ -4184,7 +4184,7 @@
         <string id="92">An ti-mañ ne c'hall ket diorren peogwir emañ-hi liammet ouzh temploù daou zoue nemetken. Tud uheloc'h o renk sokial a fell azeuliñ doueed all.</string>
         <string id="93">An ti-mañ ne c'hall ket diorren peogwir n'eo ket liammet ouzh un dentour.</string>
         <string id="94">An ti-mañ ne c'hall ket diorren peogwir n'emañ ket liammet ouzh servijoù yec'hed. N'emañ ket-hi liammet ouzh ur medisin pe ur sal balzamañ.</string>
-        <string id="95">An ti-mañ ne c'hall ket diorren peogwir e rank kaout ur yec'hed gwelloc'h. Liammet eo ouzh medisined a-walc'h met ouzh sal balzamañ ebet.</string>
+        <string id="95">An ti-mañ ne c'hall ket diorren peogwir e rank kaout ur yec'hed gwelloc'h. Liammet eo ouzh medisined a-walc'h met pas ouzh ur sal balzamañ.</string>
         <string id="96">An ti-mañ ne c'hall ket diorrenpeogwir e rank kaout ur yec'hed gwelloc'h. Liammet eo ouzh ur sal balzamañ met ret e vefe sevel un apotikerezh er c'hornad.</string>
         <string id="97">An ti-mañ ne c'hall ket diorren. Ret eo dezhi resevout lien digant perzh he bazar nesañ evit ma teufe da vevañ tud uheloc'h o renk sokial.</string>
         <string id="98">dizimplij</string>
@@ -4209,8 +4209,8 @@
     </group>
     <group id="128">
         <string id="0">Tachenn da sevel</string>
-        <string id="1">Den ebet n'en deus teurvezet en em staliañ amañ met enbroidi a rankfe erruout a-benn nebeud e kêr m'emañ kinniget boued ha postoù labour.</string>
-        <string id="2">Den ebet ne zeuio da vevañ emañ peogwir n'eus tamm hent ebet e-kichen. Ma ne ziskoulmit ket ar gudenn-se ez aio en dro da ouez an dachenn-mañ.</string>
+        <string id="1">N'en deus teurvezet den ebet en em staliañ amañ met enbroidi a rankfe erruout a-benn nebeud e kêr m'emañ kinniget boued ha postoù labour.</string>
+        <string id="2">Ne zeuio den ebet da vevañ emañ peogwir n'eus tamm hent ebet e-kichen. Ma ne ziskoulmit ket ar gudenn-se ez aio en dro da ouez an dachenn-mañ.</string>
     </group>
     <group id="129">
         <string id="0">a</string>
@@ -4263,10 +4263,10 @@
     </group>
     <group id="136">
         <string id="0">Kreizenn tuta</string>
-        <string id="1">Ne c'hall ket den ebet ebarzhiñ an arme hep heuliañ ur stummadur amañ ; kreizenn stummañ an nevez soudarded eo.</string>
+        <string id="1">Ne c'hall den ebet ebarzhiñ an arme hep heuliañ ur stummadur amañ ; kreizenn stummañ an nevez soudarded eo.</string>
         <string id="2">Mirad armoù</string>
         <string id="3">Hep implijidi ne c'hallomp ket stummañ ar soudarded nevez. Ra vimp sikouret gant Seth da vare ar brezel !</string>
-        <string id="4">Ne stummomp ket den ebet peogwir n'eus ket ezhomm a soudarded nevez e kreñvlec'hioù pe tourioù ar gêr.</string>
+        <string id="4">Ne stummomp den ebet peogwir n'eus ket ezhomm a soudarded nevez e kreñvlec'hioù pe tourioù ar gêr.</string>
         <string id="5">Gwaregerien a c'hallomp stummañ buan met armoù hon eus ezhomm da gaout evit ouzhpennañ troadeien pe bleinerien kirri e kompagnunezhioù ar gêr.</string>
         <string id="6">Gorrekoc'h e stummomp ar soudarded nevez peogwir e vank implijidi en hor skipailhoù. Ne c'hallomp ket stummañ troadeien pe bleinerien kirri hep miradoù armoù kennebeut.</string>
         <string id="7">Implijidi a vank ha goullo eo hor miradoù armoù ! Gwaregerien a c'hallomp stummañ, met gorrek a-walc'h.</string>
@@ -4294,8 +4294,8 @@
         <string id="7">"Ar c'hwiled"</string>
         <string id="8">"Ar chakaled"</string>
         <string id="9">"Ar wibered"</string>
-        <string id="10">N'eus ket soudarded ebet er gompagnunezh-mañ evit ar mare. Ur gevrenn emgann a vo ur wech ma erruo soudarded nevez stummet.</string>
-        <string id="11">N'eus ket soudarded ebet er gompagnunezh-mañ. Bout 'zo anezhi dre he anv nemetken. Ne vo ket soudarded er gompagnunezh-mañ hep ur greizenn duta.</string>
+        <string id="10">N'eus soudarded ebet er gompagnunezh-mañ evit ar mare. Ur gevrenn emgann a vo ur wech ma erruo soudarded nevez stummet.</string>
+        <string id="11">N'eus soudarded ebet er gompagnunezh-mañ. Bout 'zo anezhi dre he anv nemetken. Ne vo ket soudarded er gompagnunezh-mañ hep ur greizenn duta.</string>
         <string id="12">En em stummañ stank</string>
         <string id="13">En em gannañ a raio ar gompagnunezh ur wech ma vo hi taget nemetken. Kreñv eo he soudarded e-barzh an emgann met gwan int a-enep an tagadennoù a-bell.</string>
         <string id="14">En em stummañ distank</string>
@@ -4740,7 +4740,7 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Diwar urzh penn ar c'henwerzh eo bet paouez al labour amañ.</string>
-        <string id="5">Ne vez ket implijet den ebet er pavilhon-mañ. Nullet eo bet an hemolc'hadeg.</string>
+        <string id="5">Ne implijer den ebet er pavilhon-mañ. Nullet eo bet an hemolc'hadeg.</string>
         <string id="6">Leun eo skipailh ar pavilhon-mañ. Redet e vez war-lerc'h an holl jiboezoù a vez gwelet.</string>
         <string id="7">N'ez a ket ar pavilhon-mañ gant e lusk wellañ. Neuze e vo un tamm gorrekaet an dastum boued.</string>
         <string id="8">N'eus ket implijidi a-walc'h er pavilhon-mañ. Gorrekoc'h eget kustum e vez an dastum boued.</string>
@@ -4842,7 +4842,7 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Goulennet eo bet paouez eztennañ aour gant penn ar c'henwerzh.</string>
-        <string id="5">Ne vez ket implijet den ebet er mengleuz-mañ. Ne vez produet netra.</string>
+        <string id="5">Ne implijer den ebet er mengleuz-mañ. Ne vez produet netra.</string>
         <string id="6">An holl dorn-labour ret emañ er mengleuz-mañ hag eztennet e vez kalz aour.</string>
         <string id="7">N'ez a ket ar mengleuz-mañ diouzh he lusk wellañ. Produiñ un tamm muioc'h a c'hallfe gant muioc'h a implijidi.</string>
         <string id="8">N'eus ket implijid a-walc'h amañ. Izeloc'h eo an eztennañ aour eget raktreset.</string>
@@ -4855,7 +4855,7 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ar c'henwerzh en deus disklêriet ez eus mein prizius a-walc'h e kêr neuze e oa ret paouez gant an eztennañ.</string>
-        <string id="5">Ne vez ket implijet den ebet en mengleuz-mañ. Ne vez produet netra.</string>
+        <string id="5">Ne implijer den ebet er mengleuz-mañ. Ne vez produet netra.</string>
         <string id="6">An holl dorn-labour ret emañ er mengleuz-mañ hag eztennet e vez kalz mein prizius.</string>
         <string id="7">N'ez a ket ar mengleuz-mañ diouzh he lusk wellañ. Produiñ un tamm muioc'h a c'hallfe gant muioc'h a implijidi.</string>
         <string id="8">N'eus ket implijid a-walc'h amañ. Izeloc'h eo an eztennañ mein prizius eget raktreset.</string>
@@ -4910,7 +4910,7 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Urzhiet en deus penn ho kenwerzh prennañ ar gild-mañ</string>
-        <string id="5">Ne vez ket implijet den ebet ar gild-mañ. Paouezet eo ar produiñ.</string>
+        <string id="5">Ne implijer den ebet er gild-mañ. Paouezet eo ar produiñ.</string>
         <string id="6">An holl dorn-labour ret a zo implijet er gild-mañ. Produiñ a ra kalz.</string>
         <string id="7">Dindan he lusk gwellañ ez a produerezh ar gild-mañ. Un tamm gorrekaet eo ar produiñ neuze.</string>
         <string id="8">N'emañ ket leun skipailhoù ar gild-mañ. N'eus ket kement a vunuzer eget ar pezh raktreset.</string>
@@ -4925,12 +4925,12 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Goulennet eo bet gant penn ho kenwerzh prennañ ar gild-mañ</string>
-        <string id="5">Ne vez ket implijet den ebet ar gild-mañ. Paouezet eo ar produiñ brikennoù.</string>
+        <string id="5">Ne implijer den ebet er gild-mañ. Paouezet eo ar produiñ brikennoù.</string>
         <string id="6">An holl dorn-labour ret a zo er gild-mañ. Efedus tre eo ar mañsonerien.</string>
         <string id="7">Dindan he lusk gwellañ ez a produerezh ar gild-mañ. Un tamm gorrekaet eo ar produiñ neuze.</string>
         <string id="8">N'emañ ket leun skipailhoù ar gild-mañ. Mankout a ra mañsonerien.</string>
         <string id="9">N'eus ket implijidi a-walc'h o labourat amañ. Gortozet-tre emañ servijoù ar mañsonerien.</string>
-        <string id="10">N'eus ket implijidi a-walc'h o labourat amañ. N'eus kazi mañsoner dieub ebet amañ.</string>
+        <string id="10">N'eus ket implijidi a-walc'h o labourat amañ. N'eus mañsoner dieub ebet amañ.</string>
         <string id="11">Evit labourat e rank an atalier-mañ resevout koad.</string>
         <string id="12">Brikennoù er staliad</string>
     </group>
@@ -4940,7 +4940,7 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ho kenwerzh en deus urzhiet prennañ ar gild-mañ</string>
-        <string id="5">Ne vez ket implijet den ebet ar gild-mañ. Neuze eo bet paouezet benañ mein.</string>
+        <string id="5">Ne implijer den ebet er gild-mañ. Neuze eo bet paouezet benañ mein.</string>
         <string id="6">An holl dorn-labour ret a zo er gild-mañ. Efedus tre eo an artizaned.</string>
         <string id="7">Dindan he lusk gwellañ ez a produerezh ar gild-mañ. Un tamm gorrekaet eo al labour.</string>
         <string id="8">N'emañ ket leun skipailhoù ar gild-mañ. N'eus ket artizaned a-walc'h.</string>
@@ -5150,7 +5150,7 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ho kenwerzh en deus goulennet paouez ar produiñ brikennoù.</string>
-        <string id="5">Ne vez ket implijet den ebet amañ. Paouezet eo ar produiñ.</string>
+        <string id="5">Ne implijer den ebet amañ. Paouezet eo ar produiñ.</string>
         <string id="6">An holl dorn-labour a zo ezhomm emañ amañ. Produet e vez kalz brikennoù.</string>
         <string id="7">Dindan he lusk gwellañ e labour ar brikennerezh-mañ. Un tamm gorrekaet emañ ar produiñ brikennoù.</string>
         <string id="8">N'eus ket implijid a-walc'h er brikennereh-mañ. Gorrek-tre eo ar produiñ brikennoù.</string>
@@ -5167,7 +5167,7 @@
         <string id="2">Eostad :</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ho kenwerzh en deus goulennet paouez labour an heiz.</string>
-        <string id="5">Ne vez ket implijet den ebet en ti-feurm-mañ. Dilezet eo ar parkoù.</string>
+        <string id="5">Ne implijer den ebet en ti-feurm-mañ. Dilezet eo ar parkoù.</string>
         <string id="6">An holl dorn-labour ret emañ en ti-feurm-mañ. Produet e vez kalz.</string>
         <string id="7">N'eus ket implijidi a-walc'h en ti-feurm-mañ. Gant ur skipailh implijidi leun e c'hallfe bezañ produiet muioc'h.</string>
         <string id="8">N'eus ket implijidi a-walc'h en ti-feurm-mañ. Gant implijidi ouzhpenn e c'hallfe bezañ produet muioc'h a heiz.</string>
@@ -5184,7 +5184,7 @@
         <string id="2">Eostad :</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ho kenwerzh en deus goulennet paouez labour ar piz-sisez.</string>
-        <string id="5">Ne vez ket implijet den ebet en ti-feurm-mañ. Dilezet eo ar parkoù.</string>
+        <string id="5">Ne implijer den ebet en ti-feurm-mañ. Dilezet eo ar parkoù.</string>
         <string id="6">An holl dorn-labour ret emañ en tiz-feurm-mañ. Produet e vez kalz.</string>
         <string id="7">N'eus ket implijidi a-walc'h en ti-feurm-mañ. Gant ur skipailh implijidi leun e c'hallfe bezañ produiet muioc'h.</string>
         <string id="8">N'eus ket implijidi a-walc'h en ti-feurm-mañ. Gant implijidi ouzhpenn e c'hallfe bezañ produet muioc'h a biz-sisez.</string>
@@ -5201,7 +5201,7 @@
         <string id="2">Eostad :</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ho kenwerzh en deus goulennet paouez labour ar fiez.</string>
-        <string id="5">Ne vez ket implijet den ebet en ti-feurm-mañ. Dilezet eo ar parkoù.</string>
+        <string id="5">Ne implijer den ebet en ti-feurm-mañ. Dilezet eo ar parkoù.</string>
         <string id="6">An holl dorn-labour ret emañ en ti-feurm-mañ. Produet e vez kalz.</string>
         <string id="7">N'eus ket implijidi a-walc'h en ti-feurm-mañ. Gant ur skipailh implijidi leun e c'hallfe bezañ produiet muioc'h.</string>
         <string id="8">N'eus ket implijidi a-walc'h en ti-feurm-mañ. Gant implijidi ouzhpenn e c'hallfe bezañ produet muioc'h a fiez.</string>
@@ -5255,7 +5255,7 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ho kenwerzh en deus urzhiet paouez an aozañ kirri.</string>
-        <string id="5">Ne vez ket implijet den ebet er c'harrerezh-mañ. Ne vo ket produet kirri.</string>
+        <string id="5">Ne implijer den ebet er c'harrerezh-mañ. Ne vo ket produet kirri.</string>
         <string id="6">An holl implijid ret a labour amañ. Produet e vez ar muiañ a c'haller hag ar gwellañ a c'haller.</string>
         <string id="7">Gwelloc'h e vefe al lusk produiñ ma vije muioc'h a dud o labourat amañ.</string>
         <string id="8">N'eus ket implijidi a-walc'h er c'harrerezh-mañ. Gorrekaet eo al lusk produiñ.</string>
@@ -5294,7 +5294,7 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ho kenwerzh en deus goulennet paouez ar produiñ papiruz.</string>
-        <string id="5">Ne vez ket implijet den ebet er bapiruserezh-mañ. Neuze ne broduo ket papiruz.</string>
+        <string id="5">Ne implijer den ebet er bapiruserezh-mañ. Neuze ne broduo ket papiruz.</string>
         <string id="6">An holl dorn-labour ret a gaver er bapiruserezh-mañ. Fonnus hag a-galite eo an danvezioù produet.</string>
         <string id="7">Gwelloc'h e vefe feur produiñ ar bapiruserezh-mañ ma vefe leun skipailh an implijidi.</string>
         <string id="8">N'eo ket leun skipailh implijidi ar bapiruserezh-mañ. Gorrekaet eo al lusk produiñ.</string>
@@ -5313,7 +5313,7 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ho kenwerzh en deus goulennet d'ar greanterezh-mañ paouez da broduiñ.</string>
-        <string id="5">Ne vez ket implijet den ebet er savadur-mañ. Ne vez ket produet ken.</string>
+        <string id="5">Ne implijer den ebet er savadur-mañ. Ne vez ket produet ken.</string>
         <string id="6">An holl dorn-labour a zo ezhomm emañ er savadur-mañ. Fonnus eo ar produiñ greunit.</string>
         <string id="7">Dindan e lusk gwellañ emañ feur produiñ ar savadur-mañ. Gwelloc'h e vefe e lusk produiñ gant implijidi ouzhpenn.</string>
         <string id="8">N'eus ket implijidi a-walc'h er mengleuz-mañ. Gorrekaet eo al lusk produiñ.</string>
@@ -5326,7 +5326,7 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Urzhiet en deus penn ar c'henwerzh e baouezfe ar greanterezh-mañ da broduiñ.</string>
-        <string id="5">Ne vez ket implijet den ebet er mengleuz-mañ. Ne vez produet netra.</string>
+        <string id="5">Ne implijer den ebet er mengleuz-mañ. Ne vez produet netra.</string>
         <string id="6">Ar mengleuz-mañ he deus an holl dud a zo ezhomm enni. Puilh eo ar produiñ kouevr.</string>
         <string id="7">N'emañ ar mengleuz-mañ o labourat diouzh he lusk gwellañ. Gant dorn-labour ouzhpenn e vefe gwellaet ar feur produiñ.</string>
         <string id="8">Mankout a ra dorn-labour er mengleuz-mañ. Gorrekaet eo bet ar produiñ kouevr.</string>
@@ -5339,7 +5339,7 @@
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
         <string id="4">Penn ar c'henwerzh en deus urzhiet arsav produerezh ar greanterezh-mañ.</string>
-        <string id="5">Ne vez ket implijet den ebet er mengleuz-mañ. Paouezet eo bet produiñ.</string>
+        <string id="5">Ne implijer den ebet er mengleuz-mañ. Paouezet eo bet produiñ.</string>
         <string id="6">Ar mengleuz-mañ he deus an holl dud a zo ezhomm enni. Puilh eo ar produiñ mein-krag.</string>
         <string id="7">N'emañ ar mengleuz-mañ o labourat diouzh he lusk gwellañ. Gant dorn-labour ouzhpenn e vefe gwellaet ar feur produiñ.</string>
         <string id="8">Mankout a ra dorn-labour er mengleuz-mañ. Gorrekaet eo al lusk produiñ.</string>
@@ -5660,60 +5660,60 @@
     <group id="207">
         <string id="0">Diwallit ouzh ar vosenn ! Ra chomo-hi e karterioù paour ar ger !</string>
         <string id="1">Ur sav-kalon eo gwelout un den deus ma renk ken marnaoniek !</string>
-        <string id="2">Ne gredan ket e c'hallfe ar gêr-mañ talañ ouzh un arsailh ha kalzig am eus da goll.</string>
-        <string id="3">Gant un dorn-labour ken ral biken ne vo bastet ouzh ma ezhommoù !</string>
-        <string id="4">Gwelloc'h e vez graet war ma zro eget war dro an doueed ! Emichañs n'emañ tagadenn ebet o tont.</string>
-        <string id="5">Mezh emañ warnon da vevañ amañ. Ra ne brofito ket hon enebourien deus hor brud !</string>
+        <string id="2">Ne gredan ket e c'hallfe ar gêr-mañ talañ ouzh un arsailh ha kalzig traoù am eus da goll.</string>
+        <string id="3">Biken ne vo bastet ouzh ma ezhommoù gant un dorn-labour ken ral !</string>
+        <string id="4">Gwelloc'h e vez graet war ma zro eget war dro an doueed ! Emichañs ne vimp ket pinijennet.</string>
+        <string id="5">Mezh emañ warnon da vevañ amañ. Ra ne brofito ket hon enebourien deus hor brud fall !</string>
         <string id="6">Sellit ouzh ar oisifeion-se ! Perak ne gavont ket ul labour ?</string>
         <string id="7">Ne c'hallan ket bevañ en un doare chik ha cheuc'h hep dudioù azas !</string>
-        <string id="8">Amgrediñ a ran eo jaojapl ar gêr-mañ.</string>
+        <string id="8">Krediñ a ran eo jaojapl ar gêr-mañ.</string>
         <string id="9">Ne c'haller ket huñvreal en ur gêr welloc'h !</string>
         <string id="10">Kalz gwelloc'h e vefe al lidoù-se ma vefent war pedadennoù nemetken.</string>
     </group>
     <group id="208">
-        <string id="0">Ne c'hallo ket tec'hout an antiloped dirazomp!</string>
-        <string id="1">Fenoz, steak evit an neb a garo !</string>
+        <string id="0">Ne c'hallo ket an antiloped tec'hout dirazomp!</string>
+        <string id="1">Fenoz, steak evit an neb a fell !</string>
     </group>
     <group id="209">
         <string id="0">Diaes eo gwelout ar strujkañvaled pa lakaont o fenn e-barzh an traezh.</string>
-        <string id="1">Na morzhedoù yar brav !</string>
+        <string id="1">Na kig yar brav !</string>
     </group>
     <group id="210">
         <string id="0">Fin eo al laboused. Tec'hout a reont pa zeuomp re dost.</string>
-        <string id="1">Bezit estlammet dirak laboused ken brav ,prest da vout debret !</string>
+        <string id="1">Estlammet on dirak laboused ken brav... prest da vout debret !</string>
     </group>
     <group id="211">
-        <string id="0">C'hoazh un devezh pesketa a-feson o tont. Emichañs e vo an dapadenn ken vat ha kustum.</string>
+        <string id="0">C'hoazh un devezh pesketa a-feson. Emichañs e vo mat an dapadenn, evel boaz.</string>
         <string id="1">Eus ar c'haerañ eo an dapadenn-se met n'eo ket ken dreist eget ar wech ziwezhañ !</string>
-        <string id="2">Buanoc'h ! Ne c'hallomp ket adkregiñ gant al labour a-raok ma vefe echuet an diskargañ.</string>
+        <string id="2">Hastit buan ! Ne c'hallomp ket adkregiñ gant al labour a-raok ma vefe echuet an diskargañ.</string>
     </group>
     <group id="212">
         <string id="0">Kalzig tud az a da glañv. Emichañs ez aio war wellaat.</string>
-        <string id="1">Marnaoniek on. Diaes eo labourat gant ar c'hof goulo.</string>
-        <string id="2">Emichañs ne fell ket d'hon enebourien hon tagañ peotramant e vefemp kollet.</string>
-        <string id="3">Klasket e vez war-lerc'h dorn-labour e pep lec'h ! Marteze ez eus ur plas pomper dieub !</string>
+        <string id="1">Marnaoniek on. Diaes eo labourat ar c'hof goulo.</string>
+        <string id="2">Emichañs n'o deus ket raktreset hon enebourien dont d'omp lazhañ, kollet e vefemp !</string>
+        <string id="3">Klask a reomp war-lerc'h dorn-labour e pep lec'h ! Marteze ez eus ur plas pomper dieub !</string>
         <string id="4">Emichañs e vo trugarezus an doueed.</string>
-        <string id="5">War a seblant emañ fall brud ar gêr. Taget e c'hallfemp bout !</string>
-        <string id="6">Chañs am eus da gellout labourat ha n'eo ket memes tra evit an holl.</string>
-        <string id="7">Ma amzer a-bezh a dremenan o labourat. N'eus netra al ld'ober amañ.</string>
-        <string id="8">Mat en em sentan amañ met e c'hallfen kavout gwelloc'h d'am soñj.</string>
+        <string id="5">War a seblant emañ fall brud ar gêr. Arsailhet e c'hallfemp bout !</string>
+        <string id="6">Chañs am eus da labourat ha n'eo ket memes tra evit an holl.</string>
+        <string id="7">Tremen a ran tout ma amzer o labourat. N'eus netra all d'ober amañ.</string>
+        <string id="8">En em santout a ran mat amañ met gallout a rafen bezañ gwelloc'h d'am soñj.</string>
         <string id="9">Emichañs e chomin amañ ma buhez-pad !</string>
         <string id="10">(not used)</string>
-        <string id="11">Prest on da labourat met ne zeuan ket a-benn da dizhout an ti-feurm !</string>
-        <string id="12">Beuzet eo ma farkoù, labourat a ran evit chom dornet dis.</string>
+        <string id="11">Prest on da labourat met ne zeuan ket a-benn da dizhout ar park !</string>
+        <string id="12">Beuzet eo ma farkoù, labourat a ran evit chom oberiant.</string>
     </group>
     <group id="213">
         <string id="0">Tout an dud a zo klañv. Diwallit ouzh ar vosenn !</string>
-        <string id="1">Mervel a ran gant an naon. Pouezusoc'h eo ar boued evit an dorn-labour.</string>
-        <string id="2">Arsailhet e c'hallfe bout hor gêr. Neuze e c'hoprin kentoc'h estrenien eget Egiptiz.</string>
+        <string id="1">Mervel a ran gant an naon. Evidon eo pouezusoc'h ar boued evit an dorn-labour.</string>
+        <string id="2">Arsailhet e c'hallfe bout hor gêr. Goprañ a rin estrenien ha pas Egiptiz.</string>
         <string id="3">Hep dorn-labour ne c'hallan ket labourat.</string>
         <string id="4">Emichañs ne vimp ket kastizet gant an doueed. Rankout a rankomp ober muioc'h war-o-zro.</string>
-        <string id="5">Forzh pegoulz e c'hallomp bout arsailhet gant hon enebourien. Den n'eus doujañs ouzhomp.</string>
-        <string id="6">Gant an holl tud dilabour-se e rankfe bout aes ma labour.</string>
+        <string id="5">Forzh pegoulz e c'hallomp bout arsailhet gant hon enebourien. N'eus den o toujañ oute.</string>
+        <string id="6">Gant an holl dud dilabour-se ne rankfe ket bout luziet ma labour.</string>
         <string id="7">Enoeus eo al lec'h-mañ. Muioc'h a arzourien a rankfen kavout.</string>
         <string id="8">Plijet on gant al lec'h-mañ. Gwasoc'h e c'hallfe bout ar jeu.</string>
         <string id="9">Bravañ kêr ar bed eo !</string>
-        <string id="10">Anavezet on gant tout an dud. Kalz int o c'houlenn labour diganin.</string>
+        <string id="10">Anavezet on gant tout an dud. Kalz tud a c'houlenn labour diganin.</string>
         <string id="11">Kalz kinnigoù labour a skignan met n'eus den ebet dieub.</string>
     </group>
     <group id="214">
@@ -5722,28 +5722,28 @@
     </group>
     <group id="215">
         <string id="0">Yeunoù. Ar c'horz a gresk er yeunoù nemetken.</string>
-        <string id="1">Papiruz a-galite a vo graet gant ar korz-se.</string>
+        <string id="1">Papiruz a-galite a vo graet gant ar c'horz-se.</string>
     </group>
     <group id="216">
-        <string id="0">Gortozet e vez ma servijoù er monumant !</string>
+        <string id="0">Gortozet a reont ma barregezhioù er monumant !</string>
         <string id="1">Hep ma chanterioù ha chafodoù e vefe gwall izel ar monumant-mañ.</string>
     </group>
     <group id="217">
-        <string id="0">Tout an dud dar monumant evit staliañ brikennoù !</string>
-        <string id="1">Kalet-tre e vo ar monumant a-drugarez d'am brikennoù.</string>
+        <string id="0">Tout an dud d'ar monumant evit staliañ brikennoù !</string>
+        <string id="1">Kalet-tre e vo ar monumant gant ma brikennoù.</string>
     </group>
     <group id="218">
         <string id="0">Emaon o vont d'ar monumant da venañ mein.</string>
         <string id="1">Ma labour a zalc'ho mat ouzh an amzer.</string>
     </group>
     <group id="219">
-        <string id="0">Kalz tud emañ klañv. Emichañs ez aio buan o yec'hed war wellaat a-raok m'en em stalfe ar vosenn e-barzh du-mañ.</string>
-        <string id="1">O vervel gant an naon emaon. Boued a vez goulennet gant ma fratikoù ouzhin met a-boan em eus a-walc'h evidon-me.</string>
+        <string id="0">Kalz tud emañ klañv. Emichañs ez aio buan o yec'hed war wellaat a-raok m'en em stalfe ar vosenn e kêr.</string>
+        <string id="1">O vervel gant an naon emaon. Ma fratikoù a c'houlenn boued diganin met n'em eus ket a-walc'h evidon dija.</string>
         <string id="2">Gwan eo hon difennerezhioù. Aes-tre e vefe aloubiñ ac'hanomp.</string>
-        <string id="3">Erbediñ ma skoazellerien a rankan abalamour d'an holl kinnigoù labour-se, Koll anezhe a c'hallfen.</string>
-        <string id="4">Ma ne zoujomp ket gwelloc'h an doued e c'hallfent hor c'hastizañ.</string>
-        <string id="5">A-benn nebeud e c'hallfemp paeañ brud fall ar gêr-se !</string>
-        <string id="6">Chañs am eus da labourat. Kalz tud emañ dilabour.</string>
+        <string id="3">Kalz kinnigoù labour a zo. Rankout a rankan ober war-dro ma skoazellerien evit ma chomfe ganin. Koll anezhe a c'hallfen.</string>
+        <string id="4">Ma ne zoujomp ket gwelloc'h ouzh an doued e c'hallfent hor c'hastizañ.</string>
+        <string id="5">A-benn nebeud e c'hallfemp paeañ brud fall ar gêr !</string>
+        <string id="6">Chañs am eus da labourat. Kalz tud a zo dilabour.</string>
         <string id="7">Ne c'hoarvez netra amañ. A-faot ma vefe muioc'h dudioù.</string>
         <string id="8">Ne faot ket din pismigañ diwar-benn ar gêr-se... met…</string>
         <string id="9">Ekstra-beuz eo ar gêr-mañ !</string>
@@ -5761,61 +5761,61 @@
     </group>
     <group id="222">
         <string id="0">Ne fiñvo ket ar marc'hadourezhioù-se keit ha ma ne vint ket diskarget gant unan bennak.</string>
-        <string id="1">Den ne fell dezhañ kaout ar marc'hadourezhioù-se ! Mat, ar peurrest a gemeran evidon.</string>
-        <string id="2">Treuziñ ar gêr gant ar marc'hadourezhioù-se a rankan. An devezh pad a gemero !</string>
+        <string id="1">Den ne fell dezhañ kaout ar marc'hadourezhioù-se ! Mat-tre, ar peurrest a gemeran evidon.</string>
+        <string id="2">Treuziñ ar gêr gant ar marc'hadourezhioù-se a rankan. Kemer a raio tout an devezh !</string>
     </group>
     <group id="223">
         <string id="0">Re a labour hon eus. Skoazell a rankomp kaout.</string>
-        <string id="1">Gortoz a rin betek ma vo dieub ul lec'h bennak evit ar marc'hadourezhioù-se.</string>
+        <string id="1">Gortoz a rin amañ betek ma vo prest ul lec'h bennak evit degemer ar marc'hadourezhioù-se.</string>
         <string id="2">Amañ emañ ? A-benn nebeud ne c'hallin ket dougen ken ar marc'hadourezhioù-se.</string>
     </group>
     <group id="224">
-        <string id="0">Marteze e c'hallfen ober un dro e kêr e-pad ma vez diskarget ma lestr.</string>
+        <string id="0">Marteze e c'hallfen ober un dro e kêr e-pad ma tiskarger ma lestr.</string>
         <string id="1">Ur c'hargad a c'hortozomp evit hol lestr.</string>
-        <string id="2">N'ouzon ket perak omp amañ. Ar gêr-mañ ne ra ket kenwerzh hag an trowardroioù ne ginnigont tamm diduell ebet.</string>
-        <string id="3">Sot on gant ar c'henwerzh ! Mall a zo warnon da gellout gwezhañ ma marc'hadourezhioù.</string>
+        <string id="2">N'ouzon ket perak omp amañ. Ar gêr-mañ ne ra ket kenwerzh hag an trowardroioù ne ginnigont tamm dudioù ebet.</string>
+        <string id="3">Sot on gant ar c'henwerzh ! Mall a zo warnon da c'hellout gwerzhañ ma marc'hadourezhioù.</string>
         <string id="4">Nag ur vrav a veaj !</string>
     </group>
     <group id="225">
         <string id="0">Hon hir hag arvarus a veaj n'en deus servijet da netra ! Ar gêr-mañ ne ra tamm kenwerzh ebet.</string>
         <string id="1">Prenañ marc'had-mat, gwerzhañ ker-ruz. Setu ma ger stur !</string>
         <string id="2">Ur gwir vuhez a genwerzher emañ dirazon !</string>
-        <string id="3">Degemeret e vint evel un haroz pa zegasin ar marc'hadourezhioù-se ganin d'am zouar c'henidik.</string>
+        <string id="3">Degemeret e vin evel un haroz pa zegasin ar marc'hadourezhioù-se ganin d'am zouar c'henidik.</string>
         <string id="4">N'out ket aes evit ober an treuz, mignon. Diaes e vo din ober ma frejoù.</string>
     </group>
     <group id="226">
-        <string id="0">Kement tud klañv am eus gwelet. Aon am eus rak ur vosenn-red.</string>
+        <string id="0">Kement a dud klañv am eus gwelet. Aon am eus rak ur vosenn-red.</string>
         <string id="1">Diaes eo tapout polotennoù p'emañ glaz stomok ennomp.</string>
-        <string id="2">Ar polotennoù-se a rankfen implijout evel Je devrais utiliser ces balles comme bannadelloù e ken kaz e vefe un arsailh enebourien. Didalvoudus eo difennerezhioù ar gêr.</string>
-        <string id="3">Klasket e vez dorn-labour e pep lec'h ! Marteze e c'hallfen c'hoari gant meur e labour.</string>
-        <string id="4">Ar washañ a c'hortozan. Sur a-walc'h en em sentont an doueed un tamm disoñjet.</string>
+        <string id="2">Ar polotennoù-se a rankfen implijout evel bannadelloù e ken kaz e vefemp arsailhet. Didalvoudus eo difennerezhioù ar gêr.</string>
+        <string id="3">Klasket e vez dorn-labour e pep lec'h ! Marteze e c'hallfen c'hoari gant meur a labour.</string>
+        <string id="4">Ar washañ a c'hortozan. Sur a-walc'h en em sentont un tamm disoñjet an doueed .</string>
         <string id="5">Gwashoc'h eo brud ar gêr-mañ eget ma hini. Diwall d'an aloubadeg !</string>
-        <string id="6">A-faot ma vefe muoc'h a labour evit an dud... Den n'eo pinvidik a-walc'h evit ma goprañ.</string>
-        <string id="7">Ma zalantoù emaint er janglerezh nemetken. Dav e vefe d'ar gêr-mañ degemer arzourien-all.</string>
+        <string id="6">A-faot ma vefe muioc'h a labour evit an dud... N'eus den ebet pinvidik a-walc'h evit ma goprañ.</string>
+        <string id="7">Barrek on evit jangliñ nemetken. Dav e vefe d'ar gêr-mañ degemer arzourien-all.</string>
         <string id="8">N'eo ket displijus ar gêr-mañ.</string>
         <string id="9">Jañgliñ amañ a blij din kalz.</string>
         <string id="10">Sot on gant al lidoù. Na laouen emañ an dud gante !</string>
     </group>
     <group id="227">
-        <string id="0">Ma n'ez a ket ar yec'hed war wellaat ne chomo ganin nemet c'hoari tonioù kañv.</string>
+        <string id="0">Ma n'ez a ket ar yec'hed war wellaat ne c'hoariin tonioù kañv nemetken.</string>
         <string id="1">Kanañ evit ma boued a blijfe din met n'eus ket boued a-walc'h er gêr-mañ.</string>
         <string id="2">Marteze e c'hallfen skeiñ war an enebourien gant ma sistr. Difennet mat eo ar gêr-mañ.</string>
-        <string id="3">Ma unan e rin ma holl abadennoù. N'eus ket dorn-labour a-walc'h er gêr-mañ.</string>
+        <string id="3">Ma unan e rin ma holl sonadegoù. N'eus ket dorn-labour a-walc'h er gêr-mañ.</string>
         <string id="4">Emichañs e vo distannet an doueed gant ma sonerezh. Kounnar anezhe a c'hallfe kouezhañ warnomp a-benn nebeud.</string>
-        <string id="5">Hor brud spontus a c'hallfe degas arsailhoù war hor c'hêr !</string>
+        <string id="5">Hor brud spontus a c'hallfe degas evezh an alouberien !</string>
         <string id="6">Evit ar wech diwezhañ, ne gemeran oberourien ebet ken ! Nag a dud emañ o klask ul labour.</string>
         <string id="7">An arzourien a fell dezhe bout diduet ivez ! N'eus ket diduelloù a-walc'h amañ.</string>
         <string id="8">Gwasoc'h e c'hallfe bout ar gêr-mañ 'gred din.</string>
-        <string id="9">Emichañs e c'hallin kendalc'h da seniñ e-pad pell er vrav a gêr-mañ.</string>
+        <string id="9">Emichañs e c'hallin kenderc'hel da seniñ e-pad pell er vrav a gêr-mañ.</string>
         <string id="10">Dreist eo al lidoù-se ! Pep hini a gan.</string>
     </group>
     <group id="228">
         <string id="0">Kalz tud emañ klañv er gêr. Emichañs ne dapin netra !</string>
-        <string id="1">N'on ket lemm gant ar c'hof goulo !</string>
-        <string id="2">Ne vo ket diaes evit an enebourien da vestroniañ hor gêr. N'eo ket difennet.</string>
-        <string id="3">Hag ur c'hendansour nebeutoc'h ! Euzhet on ouzh dañsal ma-unan.</string>
-        <string id="4">Mat e vefe deomp distannañ an doueed buan !</string>
-        <string id="5">Gwasoc'h eo brud ar gper-mañ eget hini ur jangler ! Ra ne vimp ket taget.</string>
+        <string id="1">N'on ket lemm ma spered gant ar c'hof goulo !</string>
+        <string id="2">Hon enebourien a c'hallo kemer hor gêr digudenn. N'eo ket difennet.</string>
+        <string id="3">Hag ur c'hendansour nebeutoc'h ! Ne blij ket din dañsal ma-unan.</string>
+        <string id="4">Mat e vefe deomp distannañ an doueed... ha buan !</string>
+        <string id="5">Gwasoc'h eo brud ar gêr-mañ eget hini ur jangler ! Ra ne vimp ket taget.</string>
         <string id="6">Kement a dud emañ o klask ul labour hag e c'hallfemp teukañ oute !</string>
         <string id="7">(bazailhadenn) Diduit ac'hanon !</string>
         <string id="8">Na welloc'h na falloc'h eget ur gêr-all eo hemañ 'gred din.</string>
@@ -6056,7 +6056,7 @@
         <string id="1">N'em eus debret tamm tra ebet abaoe deizioù. A-benn nebeud e rankin laerañ evit debriñ !</string>
         <string id="2">Ma vefemp aloubet e vin an hini nemetañ gouest da zifenn ar gêr.</string>
         <string id="3">Ma ne vefen ket sot gant ar justis e tibabfen unan all e-touez an holl re vak.</string>
-        <string id="4">Ma oan reizhourien ar gêr 'm bije muioc'h a zoujañs e-keñver an doueed.</string>
+        <string id="4">Ma oan rener ar gêr 'm bije muioc'h a zoujañs e-keñver an doueed.</string>
         <string id="5">Aes e vefe evit hon enebourien aloubiñ ar gêr. Brud fall a zo warnomp.</string>
         <string id="6">Ne blij ket din an holl dud dilabour-se. Ne c'hallan ket mont da labourat hep gwelout anezhe !</string>
         <string id="7">Divuhez e seblant bout ar gêr-mañ. N'eus tamm dudi ebet.</string>
@@ -7323,17 +7323,17 @@
     </group>
     <group id="306">
         <string id="0">Ti-feurm henne</string>
-        <string id="1">Le henné le plus fin est cultivé ici, puis transformé en peinture pour la décoration des tombes funéraires.</string>
+        <string id="1">Gwellañ henne a hadomp amañ. Troet e vez da livaj evit klinkañ ar bezioù.</string>
         <string id="2">Eostad :</string>
         <string id="3">echuet.</string>
-        <string id="4">Le penn ar c'henwerzh a décrété l'arrêt de la production de henné.</string>
-        <string id="5">Sans ouvriers, cette ferme ne peut pas produire de henné.</string>
-        <string id="6">L'exploitation a assez de main-d'œuvre. Ils cultivent les plantes dans les champs.</string>
-        <string id="7">La faible main-d'œuvre gêne l'extension de l'exploitation.</string>
-        <string id="8">Cette exploitation manque de main-d'œuvre pour produire assez de henné.</string>
-        <string id="9">Peu d'employés travaillent ici. La récolte de henné risque d'en souffrir.</string>
-        <string id="10">Cette exploitation aride nécessite davantage d'ouvriers pour produire du henné.</string>
-        <string id="11">Des marc'h-radens ont dévoré les récoltes et les champs doivent bremañ être mis au repos.</string>
+        <string id="4">Penn ar c'henwerzh en deus dibabet paouez ar produiñ henne.</string>
+        <string id="5">Hep oberourien ne c'hall ket bezañ produet henne amañ.</string>
+        <string id="6">Labourerien a-walc'h a vez implijet gant an ti-feurm. Ober a reont war-dro ar plantoù er parkoù.</string>
+        <string id="7">Izel eo an dorn-labour amañ hag ur skoilh eo evit ar produiñ.</string>
+        <string id="8">Mankout a ra labourerien en ti-feurm-mañ evit produiñ henne a-walc'h.</string>
+        <string id="9">Nebeud tud a labour amañ. Ne vo ket dreist an eostad.</string>
+        <string id="10">Sec'h eo an ti-feurm. Ezhomm a zo da gaout muioc'h a labourerien evit produiñ henne.</string>
+        <string id="11">Marc'h-radened o deus debret pep tra er parkoù hag an douar a rank diskuizhañ bremañ.</string>
         <string id="12">Douar :</string>
         <string id="13">frouezhus.</string>
         <string id="14">Eostad henne kentañ a-benn</string>
@@ -7342,7 +7342,7 @@
         <string id="0">0,0,0,0   // mission 0</string>
         <string id="1">0,0,0,0</string>
         <string id="2">0,0,0,0</string>
-        <string id="3">0,0,0,0   // Nekhen: première mission avec salaire personnel</string>
+        <string id="3">0,0,0,0   // Nekhen: kentañ senario gant ur gopr personel</string>
         <string id="4">1,0,0,0</string>
         <string id="5">1,0,0,0</string>
         <string id="6">1,0,0,0</string>
@@ -7395,33 +7395,33 @@
     </group>
     <group id="308">
         <string id="0">Zoo</string>
-        <string id="1">Les animaux exotiques font la joie de tous les visiteurs du zoo.</string>
-        <string id="2">Ce zoo dispose d'employés mais nécessite une réserve de gibier pour que les animaux s'y sentent chez eux.</string>
-        <string id="3">Ce zoo dispose d'employés mais n'a plus de paille pour le confort des animaux.</string>
-        <string id="4">Les gens hésitent à visiter un zoo sans gardien. Si cette situation ne s'améliore pas, l'attrait du quartier risque d'en pâtir.</string>
-        <string id="5">Sans animaux, ce zoo est un endroit vraiment triste.</string>
+        <string id="1">Plijet e vez ar gweladennerien ar zoo gant al loened a bell vro.</string>
+        <string id="2">Labourerien a-walc'h a vez implijet amañ met mankout a ra jiboez evit ma vefe al loened en o bleud.</string>
+        <string id="3">Labourerien a-walc'h a vez implijet amañ met mankout a ra plouz evit ma vefe al loened en o bleud.</string>
+        <string id="4">An dud ne gredont ket mont e-barzh ar zoo peogwir e vank gwarded. Ma n'ez a ket gwelloc'h ez aio war fallaat dedenn ar c'harter.</string>
+        <string id="5">Hep loened eo trist-tre al lec'h-mañ.</string>
         <string id="6">Jiboez :</string>
         <string id="7">Plouz :</string>
     </group>
     <group id="309">
-        <string id="0">Le risque d'épidémie est si grand que même les animaux sauvages ont peur.</string>
-        <string id="1">Comment nourrir les animaux si nous avons le ventre vide ?</string>
-        <string id="2">Nos défenses sont très faibles. Comment pouvons-nous lutter ?</string>
-        <string id="3">Nous n'avions jamais rencontré un tel manque de main-d'œuvre.</string>
-        <string id="4">Il vaut mieux ne pas trop se montrer lorsque les dieux sont en colère !</string>
-        <string id="5">Le pharaon est accablé, tous les animaux du zoo sont en danger !</string>
-        <string id="6">Trouver du travail dans cette ville relève de l'exploit !</string>
-        <string id="7">Les possibilités de se divertir dans cette ville sont vraiment pitoyables !</string>
-        <string id="8">La vie ici n'est quand même pas trop désagréable .</string>
-        <string id="9">Je vis dans cette ville comme un poisson dans l'eau.</string>
+        <string id="0">Ar riskl kleñved-ret a zo izel-tre. Al loened gouez o deus tec'het zoken.</string>
+        <string id="1">Penaos magañ al loened m'emañ goullo hor c'hof ?</string>
+        <string id="2">Gwann-tre eo hon difennerezh. Penaos talañ ?</string>
+        <string id="3">Biken n'hor boa bevet ur diouer dorn labour ken bras.</string>
+        <string id="4">Gwelloc'h eo chom kuzhet p'emañ fuloret an doueed !</string>
+        <string id="5">Mantret eo ar faraon, en arvar emañ loened ar zoo !</string>
+        <string id="6">Kavout labour a-walc'h evit tout an dud er gêr a vefe ur gwir vurzhud !</string>
+        <string id="7">Truezus int an dudioù e kêr !</string>
+        <string id="8">N'eo ket fall ar vuhez amañ.</string>
+        <string id="9">Em bleud emaon er gêr-mañ.</string>
     </group>
     <group id="310">
         <string id="0">Lagadadennoù-titouriñ</string>
-        <string id="1">Les kemennadennoù ne s'affichent qu'en haut de l'écran.</string>
+        <string id="1">Ar c'hemennadennoù a vez diskouezet e-krec'h ar skramm nemetken.</string>
         <string id="2">Titouroù diwar-benn an dourioù-beuz</string>
         <string id="3">Titouroù poblañsel</string>
         <string id="4">C'hoant bastet</string>
-        <string id="5">Meilleur niveau ar rouantelezh</string>
+        <string id="5">Live rouantelezh gwellañ</string>
         <string id="6">Lidoù</string>
         <string id="7">Bennigadennoù izel</string>
         <string id="8">Diorren ar prizioù</string>
@@ -7442,47 +7442,47 @@
     </group>
     <group id="312">
         <string id="0">Gild an artizaned</string>
-        <string id="1">Les artizaned préparent ici un plâtre à base d'argile et des peintures pour décorer la tombe. </string>
-        <string id="2">Sans employé, cette guilde ne peut envoyer aucun artisan.</string>
-        <string id="3">Cette guilde dispose de toute an dorn-labour nécessaire pour décorer l'intérieur des tombes.</string>
-        <string id="4">La guilde recherche un ou deux artizaned pour finir la peinture des tombes.</string>
-        <string id="5">Cette guilde s'efforce de trouver des artizaned pour décorer la tombe mais elle manque de main-d'œuvre.</string>
-        <string id="6">Cette guilde manque de main-d'œuvre. En attendant, les quelques ouvriers disponibles font de leur mieux pour décorer la tombe.</string>
-        <string id="7">La peinture des tombes est sérieusement ralentie. Cette guilde recherche des ouvriers pour pouvoir finir les travaux à temps.</string>
-        <string id="8">Les artizaned attendent de la peinture venant d'une fabrique ou d'un entrepôt pour pouvoir peindre la tombe.</string>
-        <string id="9">La guilde attend la livraison d'argile pour envoyer des artizaned sur le chantier.</string>
+        <string id="1">Prientet e vez plastr gant pri ha livaj evit ma 'z aent an artizaned da glinkañ ar bez. </string>
+        <string id="2">Hep implijidi ne c'hall ket ar gild-mañ kas artizaned.</string>
+        <string id="3">Ar gild-mañ he deus an holl dorn-labour ret da gaout evit klinkañ diabarzh ar bezioù.</string>
+        <string id="4">Klasket e vez war-lerc'h un artizan pe zaou evit echuiñ livadur ar bezioù.</string>
+        <string id="5">Ar gild-mañ a glask artizaned evit klinkañ ar bezioù met ne gav ket dorn-labour dieub.</string>
+        <string id="6">Mankout a ra dorn-labour er gild-mañ. En ur c'hortoz e reont an artizaned dieub o seizh gellañ evit klinkañ ar bez.</string>
+        <string id="7">Gorrekaet-tre eo livadur ar bezioù. Ar gild-mañ he deus ezhomm da gaout labourerien-all evit gellout echuiñ al labourioù dindan an amzer raktreset.</string>
+        <string id="8">An artizaned a c'hortoz livaj digant perzh ur stal-liv pe un etrepaouez evit gellout livaat ar bez.</string>
+        <string id="9">Ar gild a c'hortoz pri a-raok kas artizaned da labourat.</string>
         <string id="10">Livaj :</string>
         <string id="11">Pri:</string>
     </group>
     <group id="313">
         <string id="0">Stal-liv</string>
-        <string id="1">Le henné est ici écrasé puis transformé en peinture dont les artizaned se servent pour décorer les tombes royales.</string>
+        <string id="1">Flastret e vez an henne evit ober livioù. Implijet e vo gant an artizaned evit klinkañ ar bezioù roueel.</string>
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
-        <string id="4">Le penn ar c'henwerzh a arrêté la production de peinture.</string>
-        <string id="5">Ce fabricant de peinture n'a pas d'ouvrier.  La production est complètement asséchée.</string>
-        <string id="6">Ce fabricant de peinture ne manque pas d'ouvriers et la production est importante.</string>
-        <string id="7">Cette fabrique de peinture pourrait augmenter sa production en employant davantage d'ouvriers.</string>
-        <string id="8">Ce fabricant de peinture emploie peu d'ouvriers ce qui ralentit la production.</string>
-        <string id="9">Ce fabricant de peinture a besoin de main-d'œuvre car la production a fortement chuté.</string>
-        <string id="10">La production de ce fabricant de peinture reste faible car il manque de main-d'œuvre.</string>
-        <string id="11">Cette fabrique nécessite du henné provenant d'une exploitation ou d'un entrepôt.</string>
+        <string id="4">Penn ar c'henwerzh en deus dibabet paouez ar produiñ livioù.</string>
+        <string id="5">N'eus dorn-labour ebet amañ. Paouezet eo ar produiñ.</string>
+        <string id="6">Ne vank ket tud amañ ha produet e vez kalz.</string>
+        <string id="7">Gant oberourien ouzhpenn e vefe produet muioc'h c'hoazh.</string>
+        <string id="8">Mankout a ra oberourien amañ ha gorrekaat a ra ar produiñ.</string>
+        <string id="9">Dorn labour a zo ezhomm amañ peogwir eo izel-tre ar produiñ.</string>
+        <string id="10">Chom a ra izel ar produiñ livioù peogwir e vank tud evit labourat.</string>
+        <string id="11">Ar stal-liv he deus ezhomm da gaout henne digant perzh un ti-feurm pe un etrepaouez.</string>
         <string id="12">Henne :</string>
     </group>
     <group id="314">
         <string id="0">Lamperezh</string>
-        <string id="1">Les poteries sont remplies d'huile pour servir de lampoù.</string>
+        <string id="1">Leuniet e vez ar podoù gant eoul evit ober lampoù.</string>
         <string id="2">Produiñ da</string>
         <string id="3">echuet.</string>
-        <string id="4">Le penn ar c'henwerzh a fait cesser la production de lampoù.</string>
-        <string id="5">Ce fabricant ne produit aucune lampe faute d'ouvriers.</string>
-        <string id="6">Ce fabricant de lampoù ne manque pas de main-d'œuvre et produit un grand nombre d'articles.</string>
-        <string id="7">Ce fabriquant de lampoù manque de main-d'œuvre, ce qui ralentit sa production.</string>
-        <string id="8">Ce fabricant manque d'ouvriers et produit peu de lampoù.</string>
-        <string id="9">Ce fabricant de lampoù manque de main-d'œuvre. Les ouvriers font de leur mieux mais la production a sensiblement baissé.</string>
-        <string id="10">Ce fabricant produit très peu de lampoù car il manque sérieusement de main-d'œuvre pour accroître sa production.</string>
-        <string id="11">Pour produire des lampoù, cet atelier a besoin d'huile d'un entrepôt.</string>
-        <string id="12">Pour produire des lampoù, cet atelier a besoin de poteries d'un entrepôt ou d'un potier.</string>
+        <string id="4">Penn ar c'henwerzh en deus dibabet paouez ar produiñ lampoù.</string>
+        <string id="5">N'eus dorn-labour ebet amañ. Paouezet eo ar produiñ.</string>
+        <string id="6">Ne vank ket tud amañ ha produet e vez kalz.</string>
+        <string id="7">Mankout a ra oberourien amañ ha gorrekaat a ra ar produiñ.</string>
+        <string id="8">Mankout a ra oberourien amañ ha produet e vez un nebeud lampoù nemetken.</string>
+        <string id="9">Mankout a ra oberourien amañ. An oberourien a reont o seizh gwellañ met erruet eo izel ar produiñ.</string>
+        <string id="10">Al lamperezh-mañ a brodu nebeud-tre peogwir e vank kalzi dorn-labour.</string>
+        <string id="11">Evit produiñ lampoù e rank al lamperezh-mañ kaout eoul digant perzh un etrepaouez.</string>
+        <string id="12">Evit produiñ lampoù e rank al lamperezh-mañ kaout podoù digant perzh un etrepaouez pe ur boderezh.</string>
         <string id="13">Eoul:</string>
         <string id="14">Podoù:</string>
     </group>
