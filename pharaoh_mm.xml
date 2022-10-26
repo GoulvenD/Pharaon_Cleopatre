@@ -119,8 +119,8 @@
     <message id="10" type="0" subtype="0">
         <dialog x="0" y="24" width="30" height="28"/>
         <image graphic="47" x="15" y="15"/>
-        <title x="0" y="0">Table des matières</title>
-        <subtitle x="0" y="0">Cliquez sur une rubrique pour afficher l'aide correspondante</subtitle>
+        <title x="0" y="0">Taolenn</title>
+        <subtitle x="0" y="0">Klikit war ur rubrikenn evit diskouez ar skoazell liammet outi</subtitle>
         <content> @9Goulennoù&amp;savet&amp;an&amp;aliesañ @L@LRubrikennoù skoazell @L@L@492Abou&amp;Simbel @L@88Akademiezh @L@39Kresk&amp;ar@boblañs @L@17Diskwel&amp;an&amp;deiziad @L@16Diskwel&amp;ar&amp;boblañs @L@15Diskwel&amp;an&amp;arc'hant @L@45Labour-douar (sellout ivez ouzh ar rubrikenn gouestlet d'ar c'horvoerezhioù) @L@81Arkitektour @L@48Arc'hant @L@60Stal&amp;wiaderezh @L@56Dedenn @L@L@358Stankell-hent @L@2Bazar @L@70Levraoueg @L@488Levraoueg&amp;Aleksañdri @L@94Koad @L@33Boutonoù&amp;sevel @L@96Breserezh @L@364Brikennerezh @L@L@490Caesareum @L@95Mengleuz @L@95Mengleuz&amp;raz @L@95Mengleuz&amp;greunit @L@95Mengleuz&amp;krag @L@9Mengleuz&amp;mein @L@18Kartennoù @L@355Kazarn&amp;ar&amp;bomperien @L@88Kreizenn&amp;tuta @L@75Kreizenn&amp;bleustriñ @L@75kreizennoù&amp;pleustriñ (dudioù) @L@8Chanter @L@20Penn&amp;an&amp;dorn-labour @L@25Penn&amp;ar&amp;boued @L@27Penn&amp;an&amp;deskadurezh @L@26Penn&amp;ar&amp;yec'hed @L@30Penn&amp;an&amp;arc'hant @L@28Penn&amp;an&amp;dudioù @L@373Penn&amp;ar&amp;monumantoù @L@23Penn&amp;al&amp;liveoù @L@29Penn&amp;an&amp;temploù @L@24Penn&amp;ar&amp;c'henwerzh @L@21Penn&amp;milourel @L@22Penn&amp;ar&amp;politikerezh @L@7Lankerioù&amp;an&amp;douchennaoueg @L@47Kenwerzh @L@37Kompagnunezhioù @L@370Sevel&amp;monumantoù @L@369Mestr-micherour @L@85Korf&amp;gward @L@36Torfederezh @L@L@78Demeurañs @L@63Dentour @L@48Dleadoù @L@83Dok @L@L@44Dour&amp;mat&amp;da&amp;evañ @L@68Skol&amp;skriberien @L@50Deskadurezh @L@43Implij @L@354Hollad&amp;temploù&amp;gouestlet&amp;da&amp;Bastet @L@350Hollad&amp;temploù&amp;gouestlet&amp;da&amp;Osiris @L@352Hollad&amp;temploù&amp;gouestlet&amp;da&amp;Ptah @L@353Hollad&amp;temploù&amp;gouestlet&amp;da&amp;Seth @L@4Etrepaouez @L@71Stal @L@89Ti-feurm&amp;edaj @L@90Ti-feurm&amp;greunavaloù @L@91Ti-feurm&amp;henne @L@90Ti-feurm&amp;letuz @L@91Ti-feurm&amp;lin @L@90Ti-feurm&amp;piz-sisez @L@91Ti-feurm&amp;heiz @L@L@98Armerezh @L@82Lestrerezh @L@98Karrerezh @L@473Lamperezh @L@97Papiruzerezh @L@470Livajerezh @L@360Atant&amp;magañ&amp;chatal  L@393Lidoù @L@494Gwalennoù @L@37Kreñvlec'h @L@L@3Grignol @L@52Brezel @L@58Roudouz @L@363Gild&amp;an&amp;artizaned @L@363Gild&amp;ar&amp;saverien @L@363Gild&amp;ar&amp;mañsonerien @L@363Gild&amp;ar&amp;munuzerien @L@363Gild&amp;ar&amp;benerien-vein @L@L@53Yec'hed @L@L@46Greanterezh @L@59Dourañ @L@L@79Jardin @L@L@72Kiosk @L@L@56Tiez @L@49Dudioù @L@L@32Kartenn&amp;ar&amp;bed @L@371Mastaba @L@368Mozoleon @L@64Medisin @L@13Lañser&amp;Skoazell @L@14LañseréPennoù @L@11Lañser&amp;Restroù @L@12Lañser&amp;Arventennoù @L@34Kemennadennoù @L@93Mengleuz&amp;kouevr @L@361Mengleuz&amp;mein&amp;prizius @L@93Mengleuz&amp;aour @L@85Moger @L@L@58Bulzun @L@365Lestr&amp;brezel @L@35Live&amp;an&amp;arkitektouriezh @L@35Live&amp;ar&amp;sevenadurezh @L@35Live&amp;berzh @L@35Live&amp;ar&amp;rouantelezh @L@35Liveoù @L@45Boued @L@L@372Obeliskennoù @L@374Profadennoù&amp;kañv @L@39Alioù @L@19Arventenn&amp;Gwintañ&amp;an&amp;etrefas @L@87Urzhioù&amp;d'ar&amp;gompagnunezhioù @L@4Urzhioù&amp;ispisial&amp;d'an&amp;etrepaouez @L@2Urzhioù&amp;ispisial&amp;d'ar&amp;bazar @L@3Urzhioù&amp;ispisial&amp;d'ar&amp;grignol @L@99Orfeberezh @L@40Oberourien @L@L@77Palez @L@76Palez&amp;justis @L@73Pavilhon @L@359Pavilhon&amp;chaseal @L@80Tailhanter @L@489Tour-tan&amp;Pharos @L@65Apotikerezh @L@42Kerzhourien @L@477Preizherien&amp;bezoù @L@366Plasenn&amp;al&amp;lidoù @L@79Plaza @L@61Poent&amp;dour @L@86Post&amp;Polis @L@1Poderezh @L@62Puñsoù @L@92Puñsoù&amp;pri @L@375Piramidenn&amp;gant&amp;derezioù @L@55Piramidenn&amp;gant&amp;brikennoù @L@54Piramidenn&amp;stouet @L@L@84Kae @L@356Kae&amp;listri&amp;brezel @L@357Kae&amp;listri&amp;treuzdougener @L@L@51Relijion @L@31Atebeg @L@94Korz@L@57Hent&amp;ar&amp;rouantelezh @L@57Hentoù @L@L@66Sal&amp;ar&amp;balzamerien @L@67Santual @L@41Skribed @L@362Sfiñs @L@79Telwenn @L@85Frammoù&amp;difenn @L@L@74Tavarn&amp;c'hoarioù @L@67Templ @L@69Templ&amp;an&amp;heol @L@478Bezioù&amp;roueel @L@85Tour @L@367Treuzdougener @L@48Truaj @L@L@38Gwir&amp;piramidenn @L@L@479Zoo @L@LIstor @L@L@493Abou&amp;Simbel @L@150Labour-douar @L@190Pri @L@184Arme @L@196Armoù @L@197Traezadoù&amp;lorc'h @L@472Artizaned @L@396Monumantoù&amp;all @L@L@380Bastet,&amp;Isis&amp;ha&amp;Hathor @L@179Listri&amp;ha&amp;fardañ&amp;listri @L@199Bazar @L@481Levraoueg&amp;Aleksañdri @L@164Levraoueg&amp;ha&amp;lennegezh @L@194Bier @L@390Brikennoù @L@L@482Caesareum @L@193Mengleuzioù @L@185Edaj&amp;ha&amp;heiz @L@383Chaseal @L@177Kenwerzh @L@L@171Dañs @L@175Demeurañs&amp;ar&amp;faraon @L@158Dentouriezh @L@L@163Skol&amp;ha&amp;deskadurezh @L@161Balzamadenn @L@176Kaeradurioù @L@166Bugale @L@181Enebourien @L@6Etrepaouez @L@L@195Papiruserezh @L@186Atant&amp;magañ&amp;chatal&amp;ha&amp;pesketa @L@393Lidoù @L@495Gwalennoù @L@187Frouezh&amp;ha&amp;legumaj @L@L@5Grignoloù @L@L@469Henne @L@476Eoul @L@L@388Enbroerezh @L@173Tailhoù&amp;hag&amp;arc'hant @L@151Greanterezh @L@154Dourañ @L@L@176Liorzhoù&amp;ha&amp;kaeradurioù @L@169Janglerezh @L@L@474Lampoù @L@189Lien @L@152Tiez @L@183Lezenn @L@165DUdioù @L@L@386Mañsonerien @L@155Dorn-labour @L@381Malaria @L@394Mastaba @L@160Medisinerezh @L@389Munuzerien @L@191Mengleuzioù&amp;aour&amp;ha&amp;kouevr @L@170Sonerezh @L@L@157Nil @L@L@397Obeliskenn @L@395Profadennoù&amp;kañv @L@382Orfeberezh @L@376Osiris,&amp;Sebek&amp;ha&amp;Min @L@L@487Tourtan&amp;Pharos @L@159Apotikerezh @L@174Politikerezh&amp;ha&amp;burevierezh @L@167Poblañs @L@198Poderezh @L@384Beleien @L@378Ptah,&amp;Amon&amp;ha&amp;Thot @L@156Puñsoù&amp;ha&amp;poentoù&amp;dour @L@392Piramidennoù @L@L@377Rê,&amp;Maât&amp;ha&amp;Horus @L@399Relijion @L@188Korz @L@153Hentoù @L@L@162Santual&amp;ha&amp;templ @L@387Skribed @L@172Senet @L@379Seth,&amp;Anubis&amp;ha&amp;Sekhmet @L@168Kevredigezh @L@391Sfiñs @L@182Frammoù&amp;difenn @L@L@385Benerien-vein @L@398Lien&amp;ha&amp;gwiaderezh @L@L@192Implij&amp;ar&amp;c'hoad @L@L@475Traonienn&amp;ar&amp;roueed @L@L@480Zoo</content>
     </message>
     <message id="11" type="0" subtype="0">
@@ -260,13 +260,13 @@
         <dialog x="0" y="24" width="30" height="28"/>
         <title x="0" y="0">Kartenn ar rouantelezh</title>
         <subtitle x="0" y="0">Lankerioù ar c'hoari</subtitle>
-        <content>La carte du royaume affiche les cités environnantes. Sa fonction la plus importante consiste probablement à identifier des partenaires pour le @47commerce. @PCliquez sur un nom de cité pour prendre connaissance du type de commerce proposé. Vous trouverez en dessous du nom de la cité les produits qu'elle achète et revend, ainsi que le coût d'ouverture d'une route commerciale. Cliquez sur le bouton 'Ouvrir une route de commerce' pour activer les relations. @PVous recevrez fréquemment des demandes d'approvisionnement en provenance d'autres cités ou vous apprendrez que des combats ont lieu ailleurs. La carte du royaume est un outil de référence pratique permettant de situer les autres cités. Si un envahisseur attaque une cité près de la vôtre, mieux vaut préparer votre défense. @PLisez les entrées @47commerce, @52guerre&amp;et&amp;paix et @24Chef&amp;du&amp;commerce pour plus de détails sur l'utilisation de la carte du royaume.</content>
+        <content>Ar c'hêrioù nepell emañ diskouezet war gartenn ar rouantelezh. He roll pennañ a zo gwelout piv a c'hall ober @47kenwerzh. @PKlikit war anv ur gêr evit gouzout petra a vez gwerzhet ha prennet du-se. Anv ar produioù a vez kinniget ha klasket a gavoc'h hag ivez koust digeriñ an hent kenwerzh. Klikit war ar bouton 'Digeriñ un hent kenwerzh' evit lakaat ar c'henwerzh da vont en-dro etrezoc'h. @PAlies e resevoc'h goulennoù danvezioù a-berzh kêrioù-all pe keloù deus emgannoù e lec'hioù-all. Kartenn ar rouantelezh eo ur benveg talvoudus evit lec'hiañ ar c'hêrioù-all. M'emañ taget ur c'hêr amezek gant un alouber, mat e vefe deoc'h prientiñ ho tifennerezh. @PLennit ar pennadoù @47kenwerzh, @52brezel&amp;ha&amp;peoc'h ha @24Penn&amp;ar&amp;c'henwerzh evit gouzout hiroc'h diwar-benn implij kartenn ar rouantelezh.</content>
     </message>
     <message id="33" type="0" subtype="0">
         <dialog x="0" y="24" width="30" height="28"/>
         <title x="0" y="0">Boutonioù saverezh</title>
         <subtitle x="0" y="0">Lankerioù ar c'hoari</subtitle>
-        <content>Ces boutons permettent de placer des structures sur la carte. Le prix du bâtiment est affiché sur le bouton. Lorsque vous sélectionnez une structure à construire, une image verte en transparence remplace le curseur de la souris. Déplacez cette image sur la carte. Si le terrain est constructible l'image reste verte, sinon elle est remplacée par un losange rouge. @L@LConsultez l'aide relative aux différents bâtiments en cliquant sur les structures existantes avec le bouton droit de la souris ou sélectionnez-les dans la section 'Bâtiments' de la @10Table&amp;des&amp;matières.</content>
+        <content>Gant ar boutonioù-se e c'halit staliañ savadurioù war ar gartenn. Priz ar savadur emañ diskouezet war ar bouton. Ur skeudenn wer ha treuzwelus deus ar savadur a c'hallit gwelout e-lerc'h al logodenn. Diblasit ar skeudenn-se war ar gartenn. M'eo aotreet sevel traoù war al lec'h ho peus dibabet e chomo gwer ar skeudenn, mod-all e weloc'h ur romb ruz. @L@LLennit ar skoazell liammet ouzh ar savadurioù en ur c'hlikañ war ar savadurioù a zo anezhe dija gant bouton dehou ho logodenn, mod-all e c'hallit dibab anezhe e-barzh ar pennad 'Savadurioù' e-barzh an @10Daolenn.</content>
     </message>
     <message id="34" type="0" subtype="0">
         <dialog x="0" y="24" width="30" height="28"/>
@@ -283,17 +283,17 @@
     <message id="36" type="0" subtype="0">
         <dialog x="0" y="24" width="30" height="28"/>
         <title x="0" y="0">Torfederezh</title>
-        <content>Lorsque les citoyens sont vraiment en colère, ils commettent des crimes. Leur objectif est de voler de l'argent, que ce soit dans le coffre de la cité ou dans vos propres économies. @PPour identifier les habitations susceptibles d'abriter de futurs voleurs, utilisez l'option Criminalité de la carte des risques. Sur cette carte, les logements sont représentés par des colonnes. Plus la colonne est haute, plus les chances sont grandes que cette habitation abrite un criminel. @PLorsqu'un criminel erre dans les rues, les @76magistrats ne peuvent rien faire pour l'arrêter. @86Les&amp;agents, par contre, peuvent appréhender et arrêter les criminels avant qu'ils ne sévissent. @PIl est ainsi possible d'éviter un crime si un agent rencontre un criminel dans les rues de la cité. Le meilleur remède contre la criminalité reste cependant la prévention. Pour cela, veillez au bonheur des citoyens. @PLa criminalité peut également provoquer l'apparition de @477pilleurs&amp;de&amp;tombes, mais uniquement si votre cité abrite le tombeau d'un membre de l'une des plus prestigieuses familles d'Egypte (pyramide, mastaba, mausolée ou tombe royale). Les pilleurs de tombes ont une aptitude particulière pour pénétrer dans les tombes royales et voler les trésors qu'elles contiennent. @PIl arrive que la cupidité corrompe même les plus heureux des citoyens. Ces citoyens cupides se rassemblent entre amis et évoquent les somptueuses offrandes funéraires placées dans les tombes des nobles. Lorsqu'ils succombent à leur cupidité, ces citoyens provoquent une vague de criminalité et deviennent des pilleurs de tombes ! Puisque vous ne pouvez pas sonder le coeur de tous vos citoyens, vous ne pouvez pas prévoir l'éventualité d'une vague de criminalité. Cependant, les agents n'hésiteront pas à frapper quiconque se hasarderait à profaner une tombe pour en piller les offrandes funéraires.</content>
+        <content>Pa vez fuloret ho keodedourien e c'hellont ober torfedoù. Laerañ arc'hant eo o fal hag ez aint da furchal e kofroù ho kêr pe en ho kofroù prevez zoken. @Evit gouzout e peseurt tiez emañ torfedourien an dazont e c'hallit implijout an arventenn 'torfederezh' war gartenn ar riskoù. War ar gartenn-mañ e vez diskouezet an tiez gant kolonennoù. Seul uheloc'h eo ar golonenn seul kreñv eo ar risk torfed. @PAr @76reizhaouerien ne c'hallont obet netra p'emañ un torfedour o vont dre ar straedoù. @86Ans&amp;archerien a c'hall herzel anezhañ araok ma ne rafe tra-pe-dra. @PGallout a rit ho kwareziñ a-enep an torfedoù gant an archerien. An dizarbenn a chom an doare wellañ da chom hep torfederezh en ho kêr. Grit ho seizh gwellañ evit ma vefe laouen ho keodedourien. @PGant an torfederezh e c'hallit ivez gwelout @477preizherien&amp;bezioù, nemet m'emañ en ho kêr bez un den a renk uhel (piramidenn, mastaba, mozoleon pe bez roueel). Ar preizherien bezioù a zo barreg-tre evit en em silañ er bezioù ha laerañ an holl pinvidigezhioù a zo enne.</content>
     </message>
     <message id="37" type="0" subtype="0">
         <dialog x="0" y="24" width="30" height="28"/>
         <title x="0" y="0">Kompagnunezhioù ha kreñvlec'hioù</title>
-        <content>Chaque soldat fait partie d'une compagnie, stationnée dans son propre fort. Il existe plusieurs types de compagnies et de forts : @L@LInfanterie @LL'infanterie constitue la base de l'armée. Entraînés pour le combat rapproché, les fantassins se battent sur la ligne de front et se déplacent à une vitesse moyenne. Ils quittent le centre de recrutement armés de lances. @L@LArchers @LGrâce à leurs flèches, les archers peuvent attaquer des ennemis à longue distance, mais ils sont très vulnérables en combat rapproché. Ils se déplacent légèrement moins vite que les fantassins et peuvent fabriquer eux-mêmes leurs arcs et leurs flèches. @L@LConducteurs de char @LRien n'est plus effrayant pour les fantassins que la vue d'une grande rangée de chars fonçant droit sur eux. Les chars sont très efficaces contre les lignes de défense ennemies qui, une fois percées, fragilisent beaucoup l'adversaire. Chaque conducteur reçoit un char lorsqu'il quitte le centre de recrutement. @L@LLes soldats restent dans leur fort en temps de paix et attendent un ordre de combat pour se rendre sur le champ de bataille. Les soldats apprécient l'esprit de camaraderie qui règne au sein du fort. Les longues campagnes militaires nuisent au moral des troupes. @PLes forts n'ont pas besoin d'un accès à la route ou à la main-d'oeuvre. Ces bâtiments exercent une très mauvaise influence sur la cité. Il est donc conseillé de les construire à l'écart de toute habitation. @L@LPour en savoir plus sur la militaires dans l'Egypte ancienne, cliquez @184ici.</content>
+        <content>Pep soudard eo un ezel deus ur gompagnunezh, lec'hiet en he chreñvlec'h dezhi. Kreñvelc'hioù ha kompagnunezhioù disheñvel a zo : @L@LTroadeien @LAn troadeien a zo diazez un armead. Stummet int evit en emgannañ a-dost a-hed al linenn dal ha fiñval a reont goustad a-walc'h. Loc'hañ a reont ar greizenn stummañ gant ur goaf. @L@LGwaregerien @LA-drugarez d'o biroù e c'hallont ar gwaregerien tagañ n enebourien a-bell met gwan-tre int en un emgann a-dost. Fiñval a reont un tamm goustadikoc'h eget an troadeien ha sevel a reont o-unan o gwareg hag o biroù. @L@LBlenerien kirri @LN'eus ket spontusoc'h evit troadeien eget sellout ouzh ur renkennad kirri o vont d'an druilh betek enne. Efedus-kenañ int ar c'hirri a-enep al linennoù soudarded enebour. Gwanaet-tre int ur wech ma n'int ket aozet ken. Pep bleiner a resev ur c'harr pa 'z a kuit deus ar greizenn stummañ. @L@LChom a reont ar soudarded en o c'hreñvelc'h pa vez peoc'hus an amzer ha gortoz a reont un urzh evit mont betek an dachenn emgann. Plijet int ar soudarded gant aergelc'h ar c'hreñvlec'hioù. Fall int ar c'houlzadoù brezel hir evit o spered. @PAr c'hreñvelc'hioù n'o deus ket ezhomm da vout liammet ouzh un hent pe da vezañ savet tost ouzh an dorn-labour. Ul levezon fall-tre o deus ar savadurioù-se war ar gêr. Gwelloc'h eo sevel anezhe pell diouzh an tiez. @L@LEvit gouzout hiroc'h diwar-benn ar bed milourel en Egipt kozh, klikit @184amañ.</content>
     </message>
     <message id="38" type="0" subtype="0">
         <dialog x="0" y="24" width="30" height="28"/>
         <title x="0" y="0">Gwir biramidenn</title>
-        <content>La vraie pyramide est constituée principalement de @95blocs&amp;de&amp;pierre recouverts d'une couche de @95calcaire&amp;poli.  Les @363tailleurs&amp;de&amp;pierre posent ces pierres et les polissent, tandis que les @363menuisiers construisent les rampes pour accéder au sommet de la pyramide au fur et à mesure que celle-ci s'élève. Lorsqu'un @4entrepôt contient quatre blocs de pierre, les paysans amènent leur cargaison aux tailleurs de pierre sur le chantier. @PIl existe cinq types de vraies pyramides : petite, moyenne, grande, ensemble de pyramides et grand ensemble de pyramides.  @LReportez-vous aux sections @370construction&amp;de&amp;monuments, @373chef&amp;des&amp;monuments et @369contremaître pour obtenir des renseignements supplémentaires.  @LLes pyramides ont fait la célébrité de l'Egypte. Plus que toute autre image, elles symbolisent l'Egypte aux yeux du monde. @L@LPour en savoir plus sur la vraie pyramide dans l'Egypte ancienne, cliquez @392ici.</content>
+        <content>Ar gwir biramidenn a zo savet gant @95blokoù&amp;mein dreistholl, goloet gant ur strad @95mein-raz&amp;levnet. Ar @363benerien&amp;mein a lak ar blokoù mein e plas ha levnañ a reont anezhe war-lerc'h p'emañ ar @363munuzerien o sevel ar c'hrapennoù evit mont betek poent uhelañ ar biramidenn a-hed al labour sevel. P'emañ peder blok mein en ur @4etrepaouez e teuio ar beizanteed da gerc'hat anezhe evit kas pep tra d'ar benerien mein war ar chanter. @PPemp doare piramidenn wir a zo : bihan, etre, bras, hollad piramidennoù hag hollad bras a biramidennoù.  @LLennit ar pennadoù @370sevel&amp;monumantoù, @373penn&amp;ar&amp;monumantoù ha @369mestr&amp;micherour evit gouzout hiroc'h.  @LAr biramidennoù o deus graet brud an Egipt. Skeudenn ar Egipt int er bed a-bezh. @L@LEvit gouzout hiroc'h diwar-benn ar gwir biramidenn en Egipt kozh, klikit @392amañ.</content>
     </message>
     <message id="39" type="0" subtype="0">
         <dialog x="0" y="24" width="30" height="28"/>
@@ -329,7 +329,7 @@
         <dialog x="0" y="24" width="30" height="28"/>
         <title x="0" y="0">Dour mat da evañ</title>
         <subtitle x="0" y="0">Concept du jeu</subtitle>
-        <content>Kaout dour mat da evañ a zo ar c'hentañ tra goulennet gant ar pobl. Ne c'hallont ket gwellaat o zi hep dour. @PAr @62puñsoù hag ar @61poentoù&amp;dour a bourvez an annezidi gant dour mat da evañ. Ar puñsoù a zo ur vammenn zour rust ha simpl-kenañ. A-walc'h int evit an annezidi p'emañ ar gêr e penn kentañ hec'h istor nemetken, met mammennoù dour gwelloc'h a vo ret kaout war-lerc'h. Buan-tre e vo goulennet poentoù dour gant an annezidi. @PDougerien dour a vez kaset gant ar poentoù dour ha pourveziñ a reont an tiez. Ur wech m'eo tremenet un doguer dour e-kichen un ti, pourvezet eo-hi gant dour mat da evañ. Sellit gant evezh ouzh ar pezh a ra an dougerien dour : @42kerzhourien int ha ne heuliont ket atav ar memes hent. Ma cheñchit an hentoù e c'hallfe an tiez pourvezet chom hep bezañ pourvezet ken. Ur poent dour a c'hall mont war wellaat (ur c'helc'h mein a vo warnañ) ha kas a raio dougerien dour ouzhpenn er straedoù. @PGant @56dedenn ar c'harter e vez gwelaet ar poentoù dour. @PAr Puñsoù hag ar poentoù dour ne c'hallont ket savet war douaroù gant geleadoù dour dindan-douar nemetken, an tammoù douar gant geot int. @PKit da lenn ar rubrikenn @53Yec'hed evit gouzout hiroc'h war madoberoù an douar mat da evañ.</content>
+        <content>Kaout dour mat da evañ a zo ar c'hentañ tra goulennet gant ar bobl. Ne c'hallont ket gwellaat o zi hep dour. @PAr @62puñsoù hag ar @61poentoù&amp;dour a bourvez an annezidi gant dour mat da evañ. Ar puñsoù a zo ur vammenn zour rust ha simpl-kenañ. A-walc'h int evit an annezidi p'emañ ar gêr e penn kentañ hec'h istor nemetken, met mammennoù dour gwelloc'h a vo ret kaout war-lerc'h. Buan-tre e vo goulennet poentoù dour gant an annezidi. @PDougerien dour a vez kaset gant ar poentoù dour ha pourveziñ a reont an tiez. Ur wech m'eo tremenet un doguer dour e-kichen un ti, pourvezet eo-hi gant dour mat da evañ. Sellit gant evezh ouzh ar pezh a ra an dougerien dour : @42kerzhourien int ha ne heuliont ket atav ar memes hent. Ma cheñchit an hentoù e c'hallfe an tiez pourvezet chom hep bezañ pourvezet ken. Ur poent dour a c'hall mont war wellaat (ur c'helc'h mein a vo warnañ) ha kas a raio dougerien dour ouzhpenn er straedoù. @PGant @56dedenn ar c'harter e vez gwelaet ar poentoù dour. @PAr Puñsoù hag ar poentoù dour ne c'hallont ket savet war douaroù gant geleadoù dour dindan-douar nemetken, an tammoù douar gant geot int. @PKit da lenn ar rubrikenn @53Yec'hed evit gouzout hiroc'h war madoberoù an douar mat da evañ.</content>
     </message>
     <message id="45" type="0" subtype="0">
         <dialog x="0" y="24" width="30" height="28"/>
@@ -417,7 +417,7 @@
     </message>
     <message id="60" type="0" subtype="0">
         <dialog x="0" y="24" width="30" height="28"/>
-        <title x="0" y="0">Stal-wiaderezh</title>
+        <title x="0" y="0">Gwiaderezh</title>
         <content>Les ateliers de tissage servent à transformer les fibres de lin en toile. Le lin peut être cultivé sur des @91exploitations&amp;de&amp;lin ou importé par le biais d'un @47partenaire&amp;commercial. Les ateliers de tissage ont besoin de main-d'oeuvre et d'un accès à la route. De petites quantités de lin peuvent être stockées sur site pour occuper la main-d'oeuvre continuellement malgré quelques problèmes d'approvisionnement. @PLa toile est d'une importante valeur marchande pour une cité. Cet élément est essentiel pour l'embaumement et les @66salles&amp;des&amp;embaumeurs ont besoin de toile pour fonctionner correctement. En outre, les citoyens apprécient d'avoir un stock de toile chez eux pour leur habillement.  @L@LPour en savoir plus sur l'importance de la toile dans l'Egypte ancienne et le tissage, cliquez @398ici.</content>
     </message>
     <message id="61" type="0" subtype="0">
@@ -732,28 +732,28 @@
     </message>
     <message id="122" type="2" subtype="7" urgent="true">
         <dialog x="0" y="88" width="30" height="20"/>
-        <title x="0" y="0">Barbarians attack!</title>
+        <title x="0" y="0">Arsailh ar barbared!</title>
         <video x="0" y="0">smk\Spy_Barbarian.smk</video>
     </message>
     <message id="123" type="2" subtype="7" urgent="true">
         <dialog x="0" y="88" width="30" height="20"/>
-        <title x="0" y="0">Legion attacks</title>
+        <title x="0" y="0">Arsailh al lejion</title>
     </message>
     <message id="124" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
-        <title x="0" y="0">Distant battle</title>
+        <title x="0" y="0">Emgann pell</title>
         <video x="0" y="0">@10</video>
         <content>xxxx see eventmsg.txt</content>
     </message>
     <message id="125" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
-        <title x="0" y="0">Enemies closing</title>
+        <title x="0" y="0">Enebourien tost</title>
         <video x="0" y="0">@10</video>
         <content>xxxx see eventmsg.txt</content>
     </message>
     <message id="126" type="2" subtype="0" urgent="true">
         <dialog x="0" y="88" width="30" height="20"/>
-        <title x="0" y="0">Enemies at the door</title>
+        <title x="0" y="0">Enebourien tost-tre</title>
         <video x="0" y="0">@10</video>
         <content>xxxx see eventmsg.txt</content>
     </message>
@@ -796,13 +796,13 @@
     </message>
     <message id="136" type="0" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
-        <title x="0" y="0">Labourerien 'zo ezhomm</title>
-        <content>N'int ket niverus a-walc'h an dud en oad da laabourat. Ma ne gavit ket dorn-labour dindan berr amzer ez aio servijoù ar gêr war washaat ha lakaet e vo diaes ar produiñ greantel.</content>
+        <title x="0" y="0">Labourerien a zo ezhomm</title>
+        <content>N'int ket niverus a-walc'h an dud en oad da labourat. Ma ne gavit ket dorn-labour dindan berr amzer ez aio servijoù ar gêr war washaat ha lakaet e vo diaes ar produiñ greantel.</content>
     </message>
     <message id="137" type="0" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Lid boutin</title>
-        <content>Pep hini a vez laouen da loc'hañ abred al labour evit mont da blasenn da lidoù da zistannañ ur prantadig. Plijet e vez ho toue ivez.</content>
+        <content>Pep hini a zo laouen da loc'hañ abretoc'h al labour evit mont da blasenn al lidoù da zistannañ ur prantadig. Plijet e vez ho toue ivez.</content>
     </message>
     <message id="138" type="0" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
@@ -812,11 +812,11 @@
     <message id="139" type="0" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Lid bras-kenañ</title>
-        <content>Kroget o deus an daou zevezhiad lid gortozet gant an holl ! An daou zevezh lid gortozet gant holl a grog ! Pep hini az a war blasenn al lidoù evit evañ banneoù bier ha c'hoarzhiñ. Trugarezus eo an doue enoret evit kement tra.</content>
+        <content>Kroget eo bet gant an daou zevezhiad lid ! Gortozet e oant gant an holl ! Pep hini az a war blasenn al lidoù evit evañ banneoù bier ha c'hoarzhiñ. Trugarezus eo an doue enoret evit kement tra.</content>
     </message>
     <message id="140" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
-        <title x="0" y="0">Fulor d'Osiris</title>
+        <title x="0" y="0">Fulor Osiris</title>
         <video x="0" y="0">@24</video>
         <content>Dipitet eo Osiris gant an diouer a zoujañs bet diskouezet outañ en ho kêr. Ma ne rit netra evit sioulaat anezhañ dindan berr amzer e c'hallfe an dour-beuz bout gwanoc'h eget diouganet, pe gwashoc'h zoken !</content>
     </message>
@@ -836,19 +836,19 @@
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fulor Seth</title>
         <video x="0" y="0">@21</video>
-        <content>Votre cité a échappé à la colère de Seth en raison de son manque de structures militaires à détruire. Evitez néanmoins de provoquer le dieu de la destruction, car sa colère peut prendre diverses formes et sa mémoire est grande.</content>
+        <content>N'eo ket bet tizhet ho kêr gant fulor Seth peogwir n'ho peus ket a savadurioù milourel da zistrujañ. Met diwallit da entantañ fulor doue an distruj. Liesdoare eo e fulor ha bras e vemor.</content>
     </message>
     <message id="144" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fulor Bastet</title>
         <video x="0" y="0">@20</video>
-        <content> De terribles nouvelles ! Votre cité ayant négligé de lui porter les honneurs qui lui étaient dus, Bastet, déesse du foyer, a détruit une partie des demeures principales de votre cité !</content>
+        <content> Keloù spontus ! Chomet hoc'h hep enoriñ anezhi ha Bastet, doueez an oaled he deus distrujet ul lodenn deus tiez pennañ ho kêr !</content>
     </message>
     <message id="145" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Bennozh Ptah</title>
         <video x="0" y="0">@22</video>
-        <content>Ptah voulait agrandir l'entrepôt pour qu'il puisse contenir davantage de pierres précieuses, d'argile, de poteries, de lin, de toile et de bijoux. S'il avait réussi, les magasins de votre cité auraient pu se développer.</content>
+        <content>Ptah en doa c'hoant brasaat un etrepaouez evit ma stokfe muioc'h a vein prizius, pri, podoù, lin, lien ha bravigoù. Ma oa eñ deuet a-benn d'en ober o dije gellet stalioù ho kêr mont war ziorreiñ.</content>
     </message>
     <message id="146" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
@@ -857,19 +857,19 @@
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fulor Osiris</title>
         <video x="0" y="0">@24</video>
-        <content>Ô, jour maudit ! Exaspéré par par votre refus de lui vouer le culte qui lui est dû, Osiris a envoyé un essaim de criquets dévorer vos récoltes.</content>
+        <content>Ô, devezh milliget ! E walc'h en deus bet Osiris gant ho tiouer a zoujañs. Kaset en deus ur c'houmoul mirc'hed-raden war tiez-feurm ho kêr.</content>
     </message>
     <message id="148" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fulor Ptah</title>
         <video x="0" y="0">@22</video>
-        <content> Ptah est indigné que vous refusiez de le vénérer. Il a donc fait abattre un orage de grenouilles sur votre cité. Avec leur peau visqueuse et leur odeur fétide, ces grenouilles vont chasser plus d'un habitant de sa maison.</content>
+        <content> Heüget eo Ptah gant ho tiouer a zoujañs. Kaset en deus un arnev raned war ho kêr. Gant o c'hroc'hen gludennek hag o c'hwezh fall da zisloñkañ ez dec'ho kuit kalzig annezidi deus ho kêr.</content>
     </message>
     <message id="149" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fulor Seth</title>
         <video x="0" y="0">@21</video>
-        <content>Furieux que vous refusiez de lui rendre hommage, Seth a lancé un orage de grêle sur votre cité, frappant et tuant tous ceux qui se trouvent sur son passage !</content>
+        <content>Fuloret eo Seth peogwit n'oc'h ket doujus outañ. Kaset en deus un arnev grizilh war ho kêr, lazhañ a raio an nep a vo war e hent !</content>
     </message>
     <message id="150" type="0" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
@@ -1447,53 +1447,53 @@
     <message id="238" type="3" subtype="0">
         <dialog x="0" y="0" width="40" height="30"/>
         <title x="50" y="80">Perwadjyt</title>
-        <subtitle x="10" y="30">Les berges du Nil</subtitle>
-        <content>@PAvec l'aide de votre famille, le roi thinite Horus Aha est parvenu à unir les royaumes de Haute et de Basse-Egypte, se proclamant pharaon de toute l'Egypte et fondant une capitale imposante à Men-néfer.    @PVotre clan a de nouveau migré, cette fois-ci dans une région humide du Delta de Basse-Egypte, appelée Perwadjyt. Les navires de guerre cananéens ont menacé cette région et vous voudriez bien y envoyer quelques-uns de vos propres navires de guerre, le moment venu. @PVotre famille est entrée dans la noblesse. De ce fait, avant que vous ne passiez de vie à trépas, vous devez entreprendre la construction d'une superbe tombe en briques - un mastaba - qui abritera votre corps durant son voyage dans l'au-delà. @PAuparavant, vous devez installer des fermes sur les berges du Nil, afin d'exploiter le sol riche et fertile engendré par an dour-beuz annuelle du fleuve. Votre population pourra ainsi croître et prospérer, jusqu'à devenir suffisamment nombreuse pour achever la construction de ce monument sacré. Mais attention : les eaux du Nil cachent de nombreux dangers, tels que des crocodiles assoiffés de sang, des hippopotames et des moustiques porteurs de malaria. @L@LAgriculture en bordure du Nil @PVous devez construire des fermes directement sur la plaine inondable, afin de bénéficier de sa fertilité croissante. Contrairement à la plupart des structures de travail, ces fermes n'ont pas besoin d'un accès direct aux employés, mais d'une main-d'oeuvre paysanne régulière, fournie par les chantiers. Vous devez construire des chantiers à proximité des fermes de la plaine inondable, afin que les paysans n'aient pas un trop long trajet à effectuer. @G56 @L@LLa moisson annuelle @L@PLa crue annuelle du Nil fertilise la terre dévastée de la plaine inondable. Les paysans moissonnent la récolte annuelle juste avant an dour-beuz, puis la stockent dans vos greniers. Comme il n'y a qu'une moisson par an, vérifiez que vous disposez d'un nombre suffisant de greniers pour stocker la quantité de nourriture nécessaire à votre population en plein essor.</content>
+        <subtitle x="10" y="30">Ribloù ar stêr Nil</subtitle>
+        <content>@PGant skoazell ho familh eo deuet a-benn ar roue thinit Horus Aha da unvaniñ an Egipt Uhel hag an Egipt Izel. Bremañ eo faraon war an Egipt a-bezh ha savet en deus ur gêr-vamm vras e Men-Nefer.    @PTreuzvroet en deus ho klan ha bremañ emañ-eñ en ur c'horn gleb deus Delta an Egipt Izel anvet Perwadjyt. Gourdrouz al listri brezel kananean emañ amañ c'hoazh ha faotañ a rafe deoc'h kas un nebeud deus ho listri deoc'h du-se, d'ar poent mat. @PHo familh a zo deuet da vezañ nobl. Neuze e rankit sevel ur mastaba a-raok ma 'z afec'h d'an Anaon, ur bez mentek savet gant brikennoù, evit gwareziñ ho korf e-pad e veaj d'ar bed-all. @PA-raok hen ober e vo ret deoc'h staliañ parkoù ha tiez feurm war ribloù ar stêr Nil, evit tennañ gounid deus an douar, frouezhus anezhi a-drugarez da zour-beuz bloaziek ar stêr. Mod-se e c'hallo ho poblañs mont war greskiñ ha bezañ niverus a-walc'h evit echuiñ da sevelar monumant sakr-se. Met diwallit mat : dañjerus int dourioù ar stêr Nil, krokodiled ferv, dourvarc'hed ha moustiked gant ar malaria. @L@LAl labour-douar war ribl ar stêr Nil @PParkoù a rankit sevel war ar plaenennoù-izel evit tennañ gounid deus o frouezhusted. Ar parkoù n'o deus ket ezhomm da vezañ liammet war-eeun ouzh an dorn-labour, ar chanterioù eo a gaso ar beizanted. Chanterioù a rankit sevel e-kichen parkoù ar plaenennoù-izel evit ma vefe berr hen ar beizanted. @G56 @L@LEostad ar bloaz @L@PDour-beuz ar stêr Nil a lak douar ar plaenennoù izel da vezañ frouezhus. Ar beizanted a ra war-dro eostad ar bloaz just a-raok an dour-beuz, ha kas a reont frouezh o labour d'ar grignoloù. Un eostad a c'haller ober bep bloaz neuze diwallit mat ho pefe savet grignoloù a-walc'h evit mirout tout ar boued he deus ezhomm ho poblañs kaout.</content>
     </message>
     <message id="239" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Nourriture ou famine ?</title>
-        <content>@PUne population croissante a besoin d'une source de nourriture fiable, ainsi que de moyens pour stocker et distribuer cette nourriture. Vous pouvez dans cette région chasser le gibier (comme les autruches). Les greniers permettent de stocker la viande et d'autres aliments, tandis que les bazars distribuent la nourriture aux habitants du village. Comme toutes les structures de travail, ces bâtiments doivent se trouver à proximité des habitations, et la cité doit disposer d'une main-d'oeuvre suffisante pour y travailler. @L@LChasse  @L@PConstruisez un pavillon de chasse à proximité des troupeaux d'autruches, pour que les chasseurs s'y installent. S'ils trouvent du gibier, ils le ramèneront au pavillon de chasse pour qu'il y soit préparé, après quoi un charretier le livrera au grenier le plus proche.   @PLes employés du bazar satisfont aux besoins des habitations dont ils ont la charge, se procurent de la nourriture auprès des greniers voisins et livrent cette nourriture aux habitations des environs immédiats. @G60 @PConstruisez des greniers et des bazars en cliquant sur le bouton 'Structures de stockage et de distribution'. @G77 @L@PEnfin, votre but dans cette mission est de transformer certaines de vos 'huttes' en 'petites cabanes'. Pour cela, vous devez les alimenter en nourriture en provenance du bazar. Vous devez en outre vous assurer que ces structures ne sont pas trop proches de bâtiments industriels disgracieux, ce qui risquerait de gêner l'évolution de l'habitat en limitant l'attrait de la région.   @L@LRapports @L@PUn rapport sur la nourriture et la population est maintenant disponible pour vous fournir des informations et vous conseiller. Vous aurez bientôt de nombreux rapports à votre disposition pour vous aider à diriger votre cité. @G76  @L@PPour y accéder, cliquez sur l'icône 'Rapports' ou cliquez avec le bouton droit de la souris sur le bâtiment en question.</content>
+        <title x="0" y="15">Boued pe naonegezh ?</title>
+        <content>@PUr boblañs o kreskiñ en deus ezhomm deus ur vammenn voued stabil ha deus loc'hioù evit mirout ha dasparzhañ ar boued-se. Amañ e c'hallit chaseal (ar struskañvaled da skouer). Er grignoloù er c'haller mirout ar c'hig ha doareoù boued-all, hag dre ar bazarioù ez eo e vez dasparzhet ar boued da annezidi ho kêriadenn. Evel pep lec'h-labour e rank ar savadurioù-se bezañ e-kichen tiez hag ho kêriadenn a rank kaout dorn-labour a-walc'h evit labourat enne. @L@LChaseal  @L@PSAvit ur pavilhon chaseal e-kichen an tropelladoù struskañvaled. Ma kavont jiboez e kasint anezhañ gante er pavilhon evit ma vefe fardet ar c'hig, ha goude-se e vo kaset pep tra d'ar grignol tostañ gant ur c'harrigeller.   @PImplijidi ar bazar a glask bastañ ouzh ezhommoù an tiez war o hent, mont a reont da gerc'hat boued evit kas anezhi betek an tiez tostañ. @G60 @PSavit grignoloù ha bazarioù en ur c'hlikañ war ar bouton 'Savadurioù mirout ha dasparzh'. @G77 @L@PA-benn ar fin, pal ar senario-mañ a zo lakaat un nebeud deus ho 'foukennoù simpl' da ziorren en 'lochenn simpl'. Evit hen ober e rankit pourveziñ anezhe gant boued dr eur bazar. Rankout a rit diwall ne vefe ket re dost an tiez diouzh ar savadurioù labour ha greantel. Fall int evit dedenn ar c'harter ha mirout a rafe ouzh an tiez da ziorreiñ.   @L@LDanevelloù @L@PUn danevell diwar-benn ar boued hag ar boblañs a c'hallit kavout evit kaout muioc'h a ditouroù ha kuzulioù ouzhpenn. A-benn nebeud ho po kalzig danevelloù-all evit ho skoazellañ a-benn merañ mat ho kêr. @G76  @L@PEvit gwelout anezhe e c'hallit klikañ war an arlun 'Danevelloù' pe klikit dehou gant al logodenn war ar savadur.</content>
     </message>
     <message id="240" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Divertissements</title>
-        <content>A mesure que votre cité se développe, certains citoyens pratiquent des activités de loisirs. Une vaste gamme de divertissements prouve le riche patrimoine culturel d'une cité. Pour le moment toutefois, le seul divertissement que vous puissiez fournir aux habitants de votre cité est la jonglerie. @L@LLieux de divertissement et jongleurs  @PUn jongleur a besoin d'un lieu où pratiquer son art, le plus petit étant appelé 'étal'. Construisez un étal à un emplacement central pour les représentations des jongleurs, ainsi qu'une école de jonglerie à proximité. Ces deux bâtiments doivent avoir accès aux habitations des employés et doivent disposer d'une main-d'oeuvre suffisante. @PLes jongleurs formés à l'école de jonglerie se rendent à l'étal le plus proche pour effectuer des représentations, divertissant ainsi les habitants de la région. @G61 @L@LConsultez le rapport sur les divertissements pour en savoir plus sur les besoins en divertissements de votre cité. Cliquez sur 'Cartes : Loisirs' pour voir quelles habitations de votre cité ont accès aux activités de divertissement.</content>
+        <title x="0" y="15">Dudioù</title>
+        <content>A-feur ma 'z aio a ho kêr war ziorreiñ e vo tud o c'houlenn dudioù. Dudioù a bep seurt a ziskouez pegen pinvidik eo glad sevenadurezhel ur gêr. Evit ar poent eo ar janglerezh an dudi nemetañ a c'hallit kinnig d'ho keodedourien. @L@LLec'hioù dudiañ ha janglerien  @PUr jangler en deus ezhomm da gaout ul lec'h evit pleustriñ ha diskouez e arz, ar bihanañ hini a zo anvet 'stal'. Savit ur stal janglerezh en ul lec'h e-kreiz kêr evit arvestoù ar janglerien ha savit ivez ur skol janglerezh e-kichen. An daou savadur-mañ a rank bezañ lakaet nepell diouzh an tiez evit kavout dorn-labour. @PAr janglerien a vez stummet er skol kanglerezj ha mont a raeont da ginnig arvestoù war ar stalioù tostañ evit dudiañ tud ar c'harter. @G61 @L@LLennit an danevel war an dudioù evit gouzout hiroc'h diwar-benn ezhomm dudiañ ho kêr. Klikit war 'Kartennoù : Dudioù' evit gwelout peseurt tiez a vez liammet ouzh peseurt dudi.</content>
     </message>
     <message id="241" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Extraction de l'or</title>
-        <content>@L@LExtraction de l'or @L@PRecherchez des zones rocheuses contenant du minerai ; vous les reconnaîtrez grâce à leurs taches métalliques brillantes. Pour extraire le minerai, vous devez construire des mines d'or à proximité. @G53 @L@LPalais @L@PUn palais est nécessaire pour la transformation du minerai d'or, ainsi que pour le stockage des lingots. Le palais est le siège du gouvernement de la cité. Il doit donc être construit à proximité d'une nappe phréatique (zones herbeuses). @PUne fois votre palais construit, les mineurs livrent le minerai d'or depuis les mines d'or pour qu'il soit converti en espèces, que l'on subdivise en 'debens'. @G54 @L@LCriminalité @L@PUne réserve d'or engendre un risque de vol. Les officiers de police vous aident à limiter les pertes dues au vol en patrouillant les rues pour empêcher la criminalité et en soumettant tous les criminels qu'ils rencontrent. @G55 @L@PLa meilleure façon d'empêcher la criminalité est, toutefois, de satisfaire votre population, en lui offrant nourriture, soins et travail.</content>
+        <title x="0" y="15">Eztennañ aour</title>
+        <content>@L@LEztennañ aour @L@PKlaskit lec'hioù gant roc'h ha kailh ; anavezout a rit anezhe a-drugarez d'o livioù. Evit eztennañ kailh e rankit sevel ur mengleuz aour e-kichen. @G53 @L@LPalez @L@PRet eo kaout ur palez evit treuzfurmiñ ar c'hailh aour ha mirout an tolzennoù. Ar palez eo kreizenn ar gouarnamant en ho kêr. Neuze e rank bezañ staliet war un douar gant dour a-zindan (douar gant geot). @PUr wech ma vo savet ho palez e vo kaset ar c'hailh aour gant ho mengleuzerien betek ar palez ha treuzfurmet e vo en 'debened'. @G54 @L@LTorfederezh @L@PUr mirad aour a sach an torfed hag al laer. An archerien a glask herzel al laerien hag ur skoazell e vint evit disteraat ar c'holloù a-denn d'al laeroñsi. @G55 @L@PAn doare gwellañ evit chom hep kaout torfederezh a zo bastañ ouzh ezhommoù ho poblañs ha reiñ dezhañ boued, servijoù yec'hed ha labour.</content>
     </message>
     <message id="242" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Cultures le long du Nil</title>
-        <content>Cultures le long du Nil @L@PConstruisez les fermes sur des plaines inondables où la terre y est très fertile. Contrairement à d'autres structures, ces fermes n'ont pas besoin d'un accès direct à la main-d'oeuvre, mais vous devez construire des chantiers afin que les paysans puissent venir cultiver la terre. Placez les chantiers à proximité des fermes pour éviter que les paysans n'aient à parcourir de longues distances. @G56 @L@PChaque année, an dour-beuz du Nil apporte sur les rives du fleuve de riches limons qui permettent de fertiliser les terres appauvries par les cultures. Auparavant, les paysans procèdent à la récolte et stockent leurs produits dans des greniers. Avec une seule récolte par an, veillez à construire suffisamment de greniers pour emmagasiner toute la nourriture nécessaire à la population.</content>
+        <title x="0" y="15">Labour-douar a-hed an Nil</title>
+        <content>Labour-douar a-hed an Nil @L@PSavit ar parkoù war ar plaenennoù izel, an douar a zo frouezhus kenañ du-se. Ar parkoù-se n'o deus ket ezhomm da vezañ liammet ouzh an dorn-labour met rankout ar it sevel chanterioù evit stummañ ar beizanted ha kas anezhe betek ar parkoù evit labourat an douar. Staliit chanterioù e-kichen ar parkoù evit bihanaat an hent etreze. @G56 @L@PBep bloaz e vez laosket gant dour-beuz an Nil bernioù limoñs frouezhus war ar plaenennoù izel, bet labouret kalzig e-pad ar bloaz. A-raok an dour-beuz e vez dastumet an eostadoù gant ar beizanted ha kas a reont an danvezioù-se er grignoloù hag etrepaouezoù. Gant un eostad pep bloaz e rankit diwall mat sevel grignoloù a-walc'h evit mirout an holl boued a vo ezhomm gant ar boblañs.</content>
     </message>
     <message id="243" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Cultures</title>
-        <content>Bière @LLes Egyptiens sont passés maîtres dans l'art de brasser la bière, une boisson particulièrement appréciée dans tout le royaume ! Apportez l'orge cultivée dans les fermes locales aux brasseurs afin qu'ils produisent de la bière. Cette bière sera ensuite stockée dans l'entrepôt puis distribuée par les employés du bazar (comme pour la nourriture et la poterie). @L@LDivinités @LLe dieu protecteur de votre région est Rê, Osiris et Bastet étant des divinités locales. Construisez plusieurs temples et sanctuaires en l'honneur de Rê mais n'oubliez pas les autres divinités ! Pour le bien-être de vos citoyens, offrez leurs des temples en l'honneur de ces différents dieux. @L@LLoisirs @LLes Egyptiens aiment se détendre en écoutant de la musique ou en assistant à des spectacles de jongleurs. L'étal est réservé aux jongleurs, tandis que le kiosque peut accueillir des jongleurs et des musiciens. Construisez un kiosque à une intersection de routes et installez un conservatoire à proximité afin de former des musiciens. La variété des loisirs proposés dans une cité accroît considérablement la qualité de vie de ses habitants. @L@LLois et ordre @LVous pouvez réduire la criminalité en construisant des palais de justice afin que les magistrats sillonnent les rues de la cité à l'écoute des plaintes des citoyens.</content>
+        <title x="0" y="15">Gounidoù an douar</title>
+        <content>Bier @LAn Egiptiz a zo deuet da vout arbennik evit bresañ bier. Un evaj brudet kenañ eo er rouantelezh ! Degasit an heiz bet labouret e-barzh an tiez-feurm lec'hel d'ar vreserien evit ma produfent bier. Goude-se e vo miret ar banneoù bier en un etrepaouez ha dasparzhet e vo gant impliji ar bazar (evel ar boued hag ar podoù). @L@LAn Doueed @LDoue gwarezour ho rannvro eo Rê, Osiris ha Bastet a zo doueed lec'hel. Savit temploù ha santualioù en enor Rê met arabat disoñjal an doueed all ! Evit mat ho keodedourien e c'hallit profañ dezhe temploù en enor an doueed. @L@LDudioù @LPlijout a ra d'an Egiptiz alaniñ o spered en ur selaou sonerezh pe en ur welout arvestoù janglerezh. Ar stal janglerezh a c'hall degemer ar janglerien hag ar c'hiosk a zegemero ivez ar sonerien. Savit ur c'hiosk war ur c'hroashent ha staliit ur skol sonerezh nepell evit stummañ sonerien. Liested an dudioù en ho kêr a lakao kalite buhez ho keodedourien da greskiñ. @L@LLezennoù hag urzh @LGallout a rit lakaat an dorferezh da zigreskiñ en ur sevel palezioù justis, ar reizhaouerien az aio dre ar straedoù evit klevout klemmoù ar c'heodedourien.</content>
     </message>
     <message id="244" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Début de la partie</title>
-        <content>Commencez à prévoir des zones constructibles et des zones industrielles. En plus des éléments vitaux tels que la nourriture et l'eau, vous devez satisfaire les différents besoins de vos concitoyens (poterie, bière, loisirs et accès aux cultes religieux) avant d'envisager la construction de bâtiments éducatifs et de songer au commerce.</content>
+        <title x="0" y="15">Penn kentañ ar c'hoariadenn</title>
+        <content>Krogit en ur soñjal en a-raok e-barzh an tachennoù da sevel hag an tachennoù greanterezh. Rankout a rit bastañ ouzh ezhommoù kentañ (boued, dour) hag eil ezhommoù ho keodedourien (podoù, bier, dudioù, liamm betek an doueed) a-raok soñjal er skolioù hag er c'henwerzh.</content>
     </message>
     <message id="245" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Soldats et forts</title>
-        <content>Construisez un fort et un centre de recrutement pour lever une armée. Le centre de recrutement envoie les jeunes soldats, un par un, au fort jusqu'à ce que celui-ci soit complet. Il existe deux types de forts : les forts d'infanterie et les forts d'archers, chacun abritant une compagnie de seize soldats. Lorsque les soldats meurent au combat, le centre de recrutement convoque d'autres appelés. @G57 @L@LArmes @PLes archers fabriquent leurs propres arcs et flèches, tandis que les fantassins doivent être équipés de lances cuivrées. Pour confectionner ces lances, approvisionnez la fabrique d'armes en minerai de cuivre. Les nouvelles armes sont envoyées au centre de recrutement, qui les distribue ensuite aux jeunes soldats. @L@LObjectifs des missions @PDésormais, vos objectifs n'apparaissent plus en haut de l'écran. Cliquez sur le symbole 'ankh' de l'interface pour afficher les objectifs de votre mission, puis consultez vos chefs pour connaître votre progression.</content>
+        <title x="0" y="15">Soudarded ha kreñvlec'hioù</title>
+        <content>Savit ur c'hreñvlec'h ha ur greizenn duta evit stummañ ur armead. Ar greizenn duta a gaso pep soudarded yaouank d'ar c'hreñvlec'h betek ma vo leun. Daou zoare kreñvlec'h a zo : ar c'hreñvelc'hioù troadeien hag ar c'hreñvlec'hioù gwaregerien, pep hini a zegemer ur gompagnunezh 16 soudarded. Ar greizenn duta a gaso soudarded nevez er gompagnunezh pa varvo tud. @G57 @L@LArmoù @PAr gwaregerien a sav o gwareg hag o biroù met an troadeien a rank kaout goafioù kouevr. Evit ober goafioù e rankit sevel un armerezh ha reiñ kouevr dezhi. An armoù nevez a vo roet d'ar greizenn duta ha reiñ a raio anezhe d'ar soudarded yaouank. @L@LPalioù ar senario @PBremañ n'emañ ket ken ho palioù e krec'h ar skramm. Klikit war arrouez an 'ankh' war an etrefas evit diskouez palioù ho senario ha kit da welout ho pennoù evit gouzout penaos ez it war-raok.</content>
     </message>
     <message id="246" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Sur les rives du fleuve</title>
-        <content>Commerce maritime @LVous pouvez établir des voies commerciales maritimes à condition que la cité soit construite sur une rive. Pour cela, consultez la mappemonde. Pour utiliser une route maritime, votre cité doit disposer d'un dock. @L@LPêche sur le Nil @LLe Nil regorge de poissons, un mets très prisé par les Egyptiens. Pour être heureux et en bonne santé, les habitants doivent avoir une alimentation variée. Construisez des bateaux pour partir pêcher du poisson sur le Nil. @L@LConstruction de bateaux et de navires @LLa fabrique de bateaux assemble des navires de guerre et des bateaux de pêche. Construisez un quai pour chaque embarcation. Chaque fois que vous bâtissez un quai, la fabrique entame la construction d'un bateau. Les quais sont indispensables à la fabrication des bateaux.   @LUne fabrique de bateaux suffit à construire tous les navires dont votre cité a besoin. Vous pouvez néanmoins bâtir plusieurs fabriques pour remplacer rapidement les navires détruits. Pour assembler des bateaux de pêche, la fabrique n'utilise aucune matière première. Pour les navires de guerre et les transporteurs, vous devez régulièrement l'approvisionner en bois. @LLes navires de guerre, les bateaux de commerce ou de pêche sont larges et profonds pour naviguer sur les eaux du Nil et le long des côtes d'Egypte. Ils ne peuvent pas emprunter des voies d'eau resserrées telles que des canaux ou des rivières. Rien ne vous empêche de construire des fabriques de bateaux, des docks ou des quais à ces endroits, mais vous ne pourrez pas utiliser les bateaux. @LLorsque vous choisissez un emplacement pour construire un port, veillez à ce que les bateaux puissent facilement entrer dans le port et en sortir. Il est par exemple inutile de construire un quai sur un lac si les bateaux de pêche ne peuvent pas accéder aux rives du Nil, même si ce lac est relié au fleuve par un étroit canal.</content>
+        <title x="0" y="15">War ribl ar stêr</title>
+        <content>Kenwerzh war ar mor @LGallout a rit krouiñ liammoù kenwerzh war vor m'eo savet ho kêr war ribl ur stêr. Evit gouzout, kit da welout kartenn ar bed. Evit implijout un hent kenwerzh war vor e rank ho kêr kaout un dok. @L@LPesketa war an Nil @LUr bern pesked emañ e-barzh an Nil hag an Egiptiz int sot gante. Evit bezañ laouen ha yac'h e rank ho keodedourien debriñ boued lies. Savit listri pesketa evit ma tistrofent gant boued. @L@LLestrerezh ha listri @LAl lestrerezh a sav al listri brezel hag al listri pesketa. Savit ur c'hae evit pep lestr. Bewech ma savit ur c'hae e vo savet gant al lestrerezh ul lestr nevez evit ar c'hae-se. Ne c'haller ket sevel listri hep ul lestrerezh.   @LUl lestrerezh eo a-walc'h evit sevel holl listri ho kêr. Koulskoude e c'hallit sevel meur a lestrerezh evit sevel buanoc'h en-dro al listri bet distrujet. Evit sevel al listri pesketa n'ho peus ket ezhomm a zanvezioù kentañ. Evit al listri brezel ha treuzdougañ e rankoc'h pourveziñ al lestrerezh gant koad. @LAl listri brezel, al listri kenwerzh pe pesketa a zo pounner ha ledan evit merdeiñ dre zourioù an Nil hag a-hed aodoù an Egipt. Ne c'hallont ket mont a-dreuz ar c'hanolioù, pe ar stêrioù re vihan. Lestrerezh, dokoù pe kaeoù a c'hallit sevel du-se met ne c'halloc'h ket implijout al listri. @LPA dibabit ul lec'h evit sevel ur porzh, diwallit mat e vefe plas a-walc'h evit ma c'hallfe mont ha dont al listri en un doare aes. Da skouer ne servijo da netra sevel ur c'hae war ul lenn ma ne c'hallont ket al listri pesketa mont betek ribloù an Nil, ha p'emañ liammet al lenn-se ouzh ar stêr dre ur c'hanol vihan zoken.</content>
     </message>
     <message id="247" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Sur les rives du fleuve</title>
-        <content>Commerce maritime  @LVous pouvez établir des voies commerciales maritimes à condition que la cité soit construite sur une rive. Pour cela, consultez la mappemonde. Pour utiliser une route maritime, votre cité doit disposer d'un dock. @L@LPêche sur le Nil @LLe Nil regorge de poissons, un met très prisé par les Egyptiens. Pour être heureux et en bonne santé, les habitants doivent avoir une alimentation variée. Construisez des bateaux pour partir pêcher du poisson sur le Nil. @L@LConstruction de bateaux et de navires @LLa fabrique de bateaux assemble des navires de guerre et des bateaux de pêche. Construisez un quai pour chaque embarcation. Chaque fois que vous bâtissez un quai, la fabrique entame la construction d'un bateau. Les quais sont indispensables à la fabrication des bateaux.   @LUne fabrique de bateaux suffit à construire tous les navires dont votre cité a besoin. Vous pouvez néanmoins bâtir plusieurs fabriques pour remplacer rapidement les navires détruits. Pour assembler des bateaux de pêche, la fabrique n'utilise aucune matière première. Pour les navires de guerre et les transporteurs, vous devez régulièrement l'approvisionner en bois. @LLes navires de guerre, les bateaux de commerce ou de pêche sont larges et profonds pour naviguer sur les eaux du Nil et le long des côtes d'Egypte. Ils ne peuvent pas emprunter des voies d'eau resserrées telles que des canaux ou des rivières. Rien ne vous empêche de construire des fabriques de bateaux, des docks ou des quais à ces endroits, mais vous ne pourrez pas utiliser les bateaux. @LLorsque vous choisissez un emplacement pour construire un port, veillez à ce que les bateaux puissent facilement entrer dans le port et en sortir. Il est par exemple inutile de construire un quai sur un lac si les bateaux de pêche ne peuvent pas accéder aux rives du Nil, même si ce lac est relié au fleuve par un étroit canal. @L@LFabrication de briques @LLa brique, utilisée dans certaines tombes, est le matériau de construction le moins coûteux. Pour fabriquer des briques, vous devez construire une briqueterie et l'approvisionner en argile et en paille.</content>
+        <title x="0" y="15">A-hed ribloù ar stêr</title>
+        <content>Kenwerzh war vor  @LHentoù kenwerzh war vor a c'hallit kaout m'emañ staliet ho kêr e-kichen ribl ur stêr. Evit gouzout, kit da welout kartenn ar bed. Un dok a rank kaout ho kêr evit implijout un hent kenwerzh war vor. @L@LPesketaerezh a-hed ribloù an Nil @LLeun a besked eo ar stêr Nil ha plijet tre int an Egiptiz gant ar boued-se. Evit bezañ eürus ha yac'h e rankont an annezidi kaout ur reol voued lies. Savit listri pesketa evit tapout pesked diwar ar stêr Nil. @L@LLestrerezh @LAl lestrerezh eo a sav al listri pesketa hag al listri brezel. Evit ur c'hae evit pep lestr. Bewech ma savit ur c'hae e savo al lestrerezh ul lestr evitañ. Hollbouezus int ar c'haeoù evit sevel listri.   @LUl lestrerezh eo trawalc'h evit sevel an holl listri ho po ezhomm. Koulskoude e c'hallit sevel meur a lestrerezh evit ma vefe adsavet buanoc'h ho listri aet d'ar strad. Evit sevel listri pesketa n'he deus ket ezhomm al lestrerezh da gaout danvezioù kentañ. Evit sevel listri brezel ha treuzdougerien he do ezhomm da gaout koad. @LAl listri brezel, listri kenwerzh ha listri pesketa a zo ledan ha pounner evit gellet merdeiñ war dourioù an Nil hag a-hed aodoù an Egipt. Ne c'hallont ket mont war ar stêrioù vihan ha strizh, evel ar c'hanolioù pe ar stêrioù vihan. Gallout a rit sevel lestrerezhioù ha kaeoù el lec'hioù-se memestra met ne c'hallint ket bezañ implijet. @LPa zibabit ul lec'h evit sevel ur porzh, diwallit mat e vefe aes evit al listri da vont ha dont. Da skouer ne servij da netra sevel ur c'hae war ribl ul lenn ma ne c'hallont ket al listri mont betek ribl ar stêr Nil, ha p'emañ liammet al lenn-se ouzh ar stêr Nil dre ur c'hanol vihan zoken. @L@LBrikerezh @LAr vrikenn a vez implijet evit bezioù zo hag an danvez marc'had-matañ eo evit ar sevel. Evit fardañ brikennoù e rankit sevel ur vrikennerezh ha pourveziñ anezhi gant pri ha plouz.</content>
     </message>
     <message id="248" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
@@ -1502,43 +1502,43 @@
     </message>
     <message id="249" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Logements et routes</title>
-        <content>@PLorsque vous construisez une cité, vous devez penser d'abord à bâtir des logements pour abriter les immigrants, et des routes pour leur permettre de circuler rapidement. @PLes immigrants affluent vers les zones constructibles que vous construisez. @G50 @L@LRoutes @L@PAppuyez sur le bouton gauche de la souris et faites glisser le curseur pour bâtir de longues portions de route. @G51 @PA chaque croisement, les passants doivent choisir une direction, ce qui peut allonger leur trajet et donc les ralentir. @G52 @PEvitez autant que possible les intersections lorsque vous construisez des routes afin que les promeneurs puissent circuler rapidement.  @PPour venir dans votre cité, les immigrants suivent la route du royaume. Les habitants des différentes zones constructibles doivent toujours avoir accès à cette route. Sinon, vous risquez de les isoler et de faire disparaître leurs logements. @L@LPour quitter un panneau de message (comme celui-ci), cliquez sur le bouton droit de la souris.</content>
+        <title x="0" y="15">Tiez hag hentoù</title>
+        <content>@PPa savit ur gêr e rankit soñjal er penn kentañ e-barzh an tiez a zegemero an envroidi hag e-barzh an hentoù evit ma c'hallint mont ha dont. @PAn envroidi az a betek an tachennoù da sevel a lakait. @G50 @L@LHentoù @L@PKlikit war ar bouton kleiz ha pouezit en ur fiñval al logodenn evit sevel hentoù hir. @G51 @PWar pep kroazhent e rank an dud dibab da belec'h mont, gallout a ra hiraat o beaj ha gorrekaet anezhe. @G52 @PGwelloc'h eo chom hep kaout re a groazhent pa savit hentoù evit ma 'z afe buan an dud.  @PEvit mont betek ho kêr ez eont an envroidi a-hed hent ar rouantelezh. Annezidi an tachennoù da sevel a rank-holl bezañ liammet ouzh an hent-se. Mod-all e vint digenvez, o-unan, hag o ziez az aio diwar wel. @L@LEvit kuitaat ur gemennadenn (evel houmañ) e c'hallit klikañ dehou gant ho logodenn.</content>
     </message>
     <message id="250" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="50">Médecine de base</title>
-        <content>Des problèmes de santé sévissent dans votre ville en raison de la croissance de la population. Les habitants sont particulièrement touchés par la malaria. En outre, la peste risque de se développer si les soins médicaux ne sont pas adaptés.  @PSi la malaria frappe un foyer, ses occupants mourront tous, et la demeure ne sera pas occupée pendant un certain temps. @G64 @L@LMalaria @L@PLa malaria sévit particulièrement dans les zones marécageuses. Risques : la carte de la malaria indique les foyers susceptibles d'être affectés par cette maladie.   @PL'accès à une source d'eau potable ainsi que l'utilisation d'un insecticide fourni par une pharmacie locale permettent de réduire considérablement le risque de malaria au sein d'un foyer. Comme la plupart des établissements, les pharmacies fonctionnent si elles bénéficient d'un accès routier et de main-d'oeuvre. @G63 @L@LMaladies @L@PLes médecins prescrivent des médicaments aux foyers qu'ils soignent afin de réduire le risque de maladie. Une alimentation régulière est également essentielle pour empêcher toute maladie. Risques : la carte des maladies indique les foyers susceptibles d'être touchés par une maladie.</content>
+        <title x="0" y="50">Diazez ar vedisinerezh</title>
+        <content>Kudennoù yec'hed a zo en ho kêr peogwir e kresk ar boblañs. An annezidi a zo tizhet fall gant ar malaria. Hag ar vosenn a c'hallfe tarzhañ ma n'int ket azaset ar servijoù yec'hedel.  @PM'emañ tizhet un ti gant ar malaria ez aio d'an Anaon pep annezad enni, hag an ti-se a vo laosket a-gostez e-pad ur prantadig. @G64 @L@LMalaria @L@PKreñv eo ar malaria e-kichen ar geunioù. Arvar : kartenn ar malaria a ziskouez titouroù pouezus diwar-benn an tiez a c'hallfe bezañ tizhet gant ar c'hleñved-se.   @PKaout ur poent dour mar da evañ hag un apotikerezh nepell int doareoù mat evit mirout ouzh ar malaria da darzhañ en un ti. An apotikerezhioù a rank bezañ lakaet e-kichen un hent hag an dorn-labour, evel lodenn vrasañ ar savadurioù. @G63 @L@LKleñvedoù @L@PAr medisined a stourm a-enep ar c'hleñvedoù en ur reiñ louzoù d'an tiez en trowardroioù. Debriñ mat hag en un doare reoliek a zo hollbouezus evit chom yac'h. Arvarioù : kartenn ar c'hleñvedoù a ziskouez peseurt tiez a c'hallfe bezañ taget gant ur c'hleñved bennak.</content>
     </message>
     <message id="251" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Requêtes d'autres villes</title>
-        <content>L'une des villes voisines a besoin d'aide, et vous a demandé assistance. Pour rester en bons termes avec le reste du royaume, il vous est conseillé de répondre rapidement et favorablement à une telle demande. @G65  @PUne fois que l'article requis est en votre possession dans la quantité voulue, consultez le Penn ar politikerezh pour effectuer une livraison dans la ville concernée. </content>
+        <title x="0" y="15">Rekedoù kêrioù-all</title>
+        <content>Ur gêr amezek he deus ezhomm da gaout skoazell, ha goulennet he deus ouzhoc'h un tamm sikour. Evit chom darempredet mat gant peurrest ar rouantelezh eo gwelloc'h degemer mat ar goulenn ha respont buan outi. @G65  @PUr wech m'ho peus ur sammad uhel a-walc'h deus an danvez goulennet e c'hallit mont da welout Penn ar politikerezh ha kas a raio pep tra d'ar gêr he deus savet ar goulenn. </content>
     </message>
     <message id="252" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Incendie dans le village !</title>
-        <content>Un incendie s'est déclaré dans le village ! @L@LMessages @L@PLorsque vous entendez le carillon indiquant l'apparition de ce panneau, c'est que vous avez reçu un message. Pour lire un message, cliquez sur le bouton correspondant. Certains messages urgents (comme celui-ci) vous sont présentés avant d'être stockés avec les autres messages. Les messages moins importants, qui signalent généralement des événements ne requérant pas une attention immédiate, sont directement stockés dans votre messagerie sans être affichés. Alors, restez attentif au carillon. @G66  @L@LPour vous protéger d'éventuels incendies, vous pouvez maintenant construire une caserne de pompiers.  @PComme la plupart des bâtiments non résidentiels du village, la caserne de pompiers a besoin de main-d'oeuvre pour fonctionner. Une personne est alors envoyée par la caserne pour trouver des maisons habitées. Lorsqu'un foyer est détecté, la main-d'oeuvre est alors disponible. La caserne peut envoyer les capitaines des pompiers patrouiller dans le village.  @PLes capitaines des pompiers inspectent les bâtiments en quête d'éventuels incendies, réduisant ainsi les risques d'incendie. Les capitaines des pompiers peuvent exercer leurs fonctions dans tout bâtiment situé à proximité d'une route. @PS'il découvre un incendie, le capitaine l'éteint à l'aide de seaux d'eau, puis reprend sa patrouille normale. @G67 @L@PSi un bâtiment est détruit par les flammes, cliquez avec le bouton droit de la souris sur le tas de gravats pour savoir ce qui se trouvait à cet endroit avant l'incendie.  </content>
+        <title x="0" y="15">Tan-gwall e kêr !</title>
+        <content>An tan en deus kroget en ur savadur er gêriadenn ! @L@LKemennadennoù @L@PUr gemennadenn ho peus resevet pa klevit ar c'harilhon ha pa welit ar panell-mañ. Evit lenn anezhañ e c'hallit klikañ war ar boutan azas. Ar c'hemennadennoù mallus (evel houmañ) a vo diskouezhet deoc'h diouhztu a-raok bezañ lakaet gant ar re all. Ar c'hemennadennoù ha n'int ket pouezus a vez lakaet en ho pouest lizhiri hep bezañ diskouezhet deoc'h. Neuze, chomit war evezh da-geñver ar c'harilhon. @G66  @L@LEvit mirout ouzh an tan da gregiñ en ur savadur e c'hallit sevel kazarnioù pomperien.  @PEvel lodenn vrasañ ar savadurioù ha n'int ket tiez e rank ar c'hazarn pomperien bezañ lakaet e-kichen an dorn-labour. Kas a raio un den evit kavout an tiez gant tud o vevañ enne. Pa en do-eñ kavet unan en do kavet an dorn-labour. ar c'hazarn a c'hall kas kabitened pomperien evit ober troiadoù-ged e kêr.  @PAr c'habitened pomperien a glask e pelec'h e c'hallfe an tan kregiñ hag izelaat a ra an arvar. Gallout a reont labourat ha gwareziñ an holl savadurioù staliet e-kichen un hent. @PP'o do kavet un tan-gwall ez aio ar c'habitened da lazho anezhañ gant sailhadoù dour ha distreiñ a raint d'o zroiadoù-ged war-lerc'h. @G67 @L@PMa kavit ur savadur devet penn-da-benn e c'hallit klikañ dehou warnañ evit gouzout petra a oa ar savadur-se a-raok.  </content>
     </message>
     <message id="253" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Bâtiment détruit</title>
-        <content>Certaines structures imposantes de votre ville risquent de s'effondrer si elles ne sont pas correctement entretenues. Pour empêcher cela, construisez une étude d'ingénieurs. Comme la caserne de pompiers, cette structure envoie des hommes - dans ce cas des ingénieurs - pour parcourir les rues et réparer tout bâtiment endommagé. @G68 @L@P  Les cartes des 'risques' vous indiquent les bâtiments susceptibles de prendre feu ou de s'effondrer.</content>
+        <title x="0" y="15">Savadur kouezhet en e boull</title>
+        <content>Savadurioù bras en ho kêr a c'hallfe kouezhañ en o foull ma n'int ket kempennet mat. Evit hen ober e c'hallit sevel ur c'habinet arkitektourien. Evel kazarn ar bomperien eo. Kas a ra arkitektourrien er straedoù evit kempenn an holl savadurioù a-dreuz. @G68 @L@P  Kartennoù an 'arvarioù' a ziskouezo deoc'h titouroù pouezus diwar-benn ar savadurioù a c'hallfe mont da ludu pe kouezhañ en o foull.</content>
     </message>
     <message id="254" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Dieux mécontents</title>
-        <content>Vos citoyens sont inquiets, car certaines divinités risquent d'être mécontentes. Certains ont eu des visions de calamités à venir. Vous devez satisfaire les dieux en leur construisant des temples ou en organisant des fêtes en leur honneur, sous peine de subir leur colère.</content>
+        <title x="0" y="15">Doueed fallgontant</title>
+        <content>Prederiet int ho keodedourien peogwir em c'hallfe doueed zo bezañ fallgontant. An nebeud anezhe o deus graet huñvreoù a walennoù. rankout a rit bastañ ouzh an doueed en ur sevel temploù pe en ur aozañ ul lid en o enor, peotramant e rankoc'h gouzañviñ o fulor.</content>
     </message>
     <message id="255" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Acheminement de l'eau</title>
-        <content>Bravo ! Vous avez réussi à fournir aux habitants de votre ville une source de nourriture fiable. Vous devez maintenant leur fournir une source d'eau potable, de préférence sans utiliser de puits.    @L@LPoints d'eau @LTout comme les puits, ces structures doivent être construites sur une terre contenant de l'eau en sous-sol, ce que vous indique la présence d'herbe verte. Ces points d'eau doivent également bénéficier d'une main-d'oeuvre résidant dans les environs. @G70   @LUne fois prêt à fonctionner, le point d'eau envoie des porteurs d'eau livrer des seaux d'eau potable à toutes les maisons situées dans les environs. </content>
+        <title x="0" y="15">Kas an dour</title>
+        <content>Gourc'hemennoù deoc'h ! Deuet oc'h a-benn da reiñ boued d'ho poblañs. Bremañ e rankit reiñ dezhe dour mat da evañ, gwelloc'h eo chom hep implijout ar puñsoù.    @L@LPoentoù dour @LAr savadurioù-se, evel ar puñsoù, a rank bezañ staliet war un douar gant dour a-zindan, an douar-se en deus geot glas warnañ. Ar poentoù-dour-se a rank kaout dorn-labour a chom nepell. @G70   @LUr wech ma vo prest da vont en-dro e vo kaset dougenerien-dour gant ar poent-dour evit kas d'an holl tiez tost sailhadoù dour mat da evañ. </content>
     </message>
     <message id="256" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Structures municipales</title>
-        <content>Outre un palais, une caserne de pompiers et un poste de police, d'autres structures municipales participent au bon fonctionnement de votre ville.  @L@LJardins @L@PLes jardins contribuent à rendre les environs plus attrayants et encouragent les Egyptiens à moderniser leurs habitations. Plusieurs jardinets placés les uns à côté des autres forment un parc. @G72 @L@LGués @G71 @PL'utilisation de navettes et de ponts permet aux habitants de votre ville d'atteindre des endroits autrement inaccessibles. Dans certains cas, ces structures améliorent le fonctionnement de la ville en écourtant les trajets des livreurs. Pour des raisons techniques, seules certaines sections droites sont adaptées aux gués. </content>
+        <title x="0" y="15">Savadurioù kêr</title>
+        <content>Estreget ar palez, ur c'hazarn pomperien hag ur post archerien a zo. Savadurioù kêr-all a c'hallit kavout ha pouezus int evit ma 'z afe mat ho kêr en dro.  @L@LLiorzhoù @L@PAl lirozhoù a lak an trowardroioù da vezañ bravoc'h ha lakaat a reont an Egiptiz da wellaat o zi. Un nebeud liorzhig lakaet kichen-a-gichen a grouo ur liorzh brasoc'h. @G72 @L@LRoudeier @G71 @PImplijout bulzunoù ha pontoù a lak pobl ho kêr da vont betek lec'hioù ha ne c'hallent ket tizhout a-raok. A-wechoù e vez berraet hent ar c'harrigellerien gant seurt savadurioù. Evit abegoù teknikel ne c'haller sevel arsavioù bulzun war ar ribloù eeun nemetken. </content>
     </message>
     <message id="257" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
@@ -1547,18 +1547,18 @@
     </message>
     <message id="258" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Culte des dieux</title>
-        <content>Une ville égyptienne ne peut réellement s'épanouir sans lieux de culte convenables, qu'il s'agisse de temples ou de sanctuaires. Ces lieux doivent se trouver à proximité des habitations, et doivent être dédiés à l'une des cinq divinités suivantes :  @L@POsiris - doue an Nil @PRê - dieu du royaume @PPtah - dieu des artisans @PSeth - dieu de la destruction @PBastet - déesse du foyer @L@PChaque ville a ses propres tendances religieuses. Dans chaque ville, un culte particulier est généralement voué à l'une de ces divinités - son 'dieu protecteur' - les autres dieux étant considérés comme de simples 'divinités locales' (ou totalement ignorés). La déesse protectrice de This est Bastet. @PUne divinité protectrice peut facilement se mettre en colère si elle considère qu'elle n'est pas suffisamment respectée. Même une divinité locale peut devenir hostile, si le nombre de temples et de sanctuaires qui lui sont dédiés est insuffisant pour la population de votre ville. @PLorsqu'un temple est accessible par route et bénéficie d'une main-d'oeuvre à proximité, il envoie un prêtre dans les environs, invitant les habitants à se rendre dans la demeure de son dieu. @G73  @L@LChef des temples @L@PConsultez votre Penn an temploù pour déterminer le statut de chaque divinité dans une ville en particulier, et pour savoir si les dieux sont suffisamment apaisés. Des éclairs vous indiquent que la divinité est d'un tempérament hostile envers votre ville, tandis que des étoiles indiquent qu'elle est d'un tempérament favorable. Plus vous voyez d'éclairs ou d'étoiles, plus votre ville est susceptible de sentir la présence de la divinité (pour le meilleur ou pour le pire !).</content>
+        <title x="0" y="15">Kult an doueed</title>
+        <content>Ur gêr egiptek ne c'hall ket mont war-raok hep lec'hioù kult, temploù pe santualioù. Rankout a reont bezañ staliet e-kichen an tiez ha bezañ gouestlet d'un doue e-touez ar 5 da-heul :  @L@POsiris - doue an Nil @PRê - doue ar rouantelezh @PPtah - doue an artizaned @PSeth - doue an distruj @PBastet - doueez an oaled @L@PPep kêr he deus he luskadoù relijiel dezhi. E-barzh pep kêr e vez enoret un 'doue gwarezour', an doueed-all a vez gwelet evel doueed lec'hel simpl (pe laosket a-gostez). An doueez a warez This eo Bastet. @PUn doue gwarezer a c'hall bezañ fuloret buan a-walc'h ma kav dezhi n'eo ket kreñv a-walc'h kult anezhañ er gêr. Un doue lec'hel a c'hall bezañ fuloret ivez, ma n'eus ket temploù ha santualioù a-walc'h gouestlet dezhañ e-keñver ment ar boblañs da skouer. @PP'emañ un templ staliet e-kichen un hent gant dorn-labour nepell e kaso ur beleg en trowardroioù evit pediñ an annezidi da zont da di an doue. @G73  @L@LPenn an temploù @L@PGoulennit kuzul Penn an temploù evit gouzout penaos emañ kont gant an doueed e kêr hag evit gouzout hag-eñ en em santont distannet pe get. Luc'hedennoù a weloc'h e-kichen anv un doue pa vo-eñ fuloret en-ho-keñver, ha steredennoù a weloc'h pa vo-eñ distannet ha plijet ganeoc'h. Seul niverus al luc'hedennoù pe steredennoù, seul fetisoc'h e teuio da vezañ bezañs an doue enho kêr (gwell-gwazh !).</content>
     </message>
     <message id="259" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Industrie</title>
-        <content>Maintenant que les habitants de votre ville sont alimentés en nourriture et en eau, vous pouvez améliorer leurs conditions de vie grâce à des biens plus modernes, tels que des poteries.  	 @L@LIndustrie et poterie @L@PConstruisez un puits d'argile à proximité d'une source d'eau, et installez une poterie dans les environs. Vérifiez qu'elle peut bénéficier de main-d'oeuvre, et vous verrez bientôt une charrette arriver pour livrer de l'argile à la poterie, qui pourra ainsi confectionner des poteries pour votre ville.  @PConstruisez un entrepôt pour stocker les produits finis ainsi que l'argile dont la poterie n'a pas besoin (un puits d'argile fournit généralement une quantité d'argile suffisante pour deux poteries).   @PLes employés du bazar récupèrent les poteries dans l'entrepôt et les distribuent de la même façon que la nourriture. @G74 @LLes industries telles que la poterie sont également une source d'emploi pour les habitants de votre ville. Le Chef de la main-d'oeuvre (désormais disponible) vous assiste dans l'attribution des tâches aux&lt; ouvriers.</content>
+        <title x="0" y="15">Greanterezh</title>
+        <content>Bremañ m'emañ pourvezet annezidi ho kêr gant boued ha dour mat da evañ e c'hallit gwellaat o flegennoù bevañ gant madoù mordernoc'h, evel ar podoù.  	 @L@LGreanterezh ha podoù @L@PSavit ur puñs pri e-kichen an dour ha staliit ur boderezh nepell. Gwiriekait mat ez eus dorn-labour e-kichen hag a-benn nebeud e weloc'h ur c'harrigell o tont evit reiñ pri d'ar boderezh, ganti e c'hallo an atalier poazhañ podoù evit ho kêr.  @PSavit un etrepaouez evit mirout ar produioù fardet hag ar pri ha n'eus ket ezhomm anezhi er boderezh (ur puñs pri a eztenn danvezioù a-walc'h evit div boderezh).   @PImplijidi ar bazar az aio da zastum ar podoù e-barzh an etrepaouez ha dasparzhañ a raint anezhe evel ar boued. @G74 @LAr greanterezhioù evel ar boderezh int mammennoù postoù labour evit annezidi ho kêr. Penn an dorn-labour (heverk diwar-vremañ) ho skoazello evit rannañ ar c'hefridioù labour etre an&lt; oberourien.</content>
     </message>
     <message id="260" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
         <title x="0" y="15">Kenwerzh etre kêrioù</title>
-        <content>Maintenant que vous avez réussi à éduquer une partie de la population, vous pouvez générer un revenu supplémentaire en vendant le surplus de papyrus aux cités avoisinantes. Vous pourrez également importer des briques de Perwadjyt pour la construction du mastaba. Lorsque vous serez prêt, cliquez sur l'icône de mappemonde [graphic here] pour savoir quelles autres cités sont disponibles et commencer une activité commerciale.</content>
+        <content>Deuet oc'h a-benn da reiñ un deskadurezh ziazez d'ul lodenn deus ho poblañs. Bremañ e c'hallit gounit arc'hant en ur werzhañ ho treistsammadoù papiruz d'ar c'hêrioù tost. Brikennoù a c'hallit ivez enporzhiañ deus Perwadjyt evit sevel ar mastaba. Pa vioc'h prest, klikit war kartenn ar bed [graphic here] evit gouzout hiroc'h diwar-benn ar c'hêrioù-all pa kregiñ gant ar c'henwerzh.</content>
     </message>
     <message id="261" type="2" subtype="1">
         <dialog x="0" y="88" width="30" height="20"/>
@@ -1654,29 +1654,29 @@
     <message id="279" type="2" subtype="1">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Mallus: hent stanket !</title>
-        <content>Les gravats bloquent la route. Vous devez retirer les gravats !</content>
+        <content>Stanket eo an hent gant dismantroù. Kempennit al lec'h-se !</content>
     </message>
     <message id="280" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fulor Rê</title>
         <video x="0" y="0">@23</video>
-        <content>Pour vous punir de votre arrogance, Rê a considérablement assombri votre réputation au sein du royaume. Comme vous avez négligé cette divinité, d'autres Egyptiens vont vous déprécier.</content>
+        <content>Evit ho kastizañ deus ho tismegañs en deus Rê fallaet ho prud er rouantelezh. Laosket ho peus a-gostez an doue-se neuze e vioc'h lakaet a-gostez gant an Egiptiz.</content>
     </message>
     <message id="281" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fulor Seth</title>
         <video x="0" y="0">@21</video>
-        <content>Votre manque de respect envers Seth l'incite à détruire tous vos navires !</content>
+        <content>Seth en deus distrujet ho listri peogwir n'ho peus ket diskouezet doujañsa-walc'h en e geñver !</content>
     </message>
     <message id="282" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Carte du royaume</title>
-        <content>La carte du royaume affiche les cités environnantes. Sa fonction la plus importante consiste probablement à identifier des partenaires pour le @47commerce. @PCliquez sur un nom de cité pour prendre connaissance du type de commerce proposé. Vous trouverez en dessous du nom de la cité les produits qu'elle achète et revend, ainsi que le coût d'ouverture d'une route commerciale. Cliquez sur le bouton 'Ouvrir une route de commerce' pour activer les relations. @PVous recevrez fréquemment des demandes d'approvisionnement en provenance d'autres cités ou vous apprendrez que des combats ont lieu ailleurs. La carte du royaume est un outil de référence pratique permettant de situer les autres cités. Si un envahisseur attaque une cité près de la vôtre, mieux vaut préparer votre défense. @PLisez les entrées @47commerce, @52guerre&amp;et&amp;paix et @24Chef&amp;du&amp;commerce pour plus de détails sur l'utilisation de la carte du royaume.</content>
+        <title x="0" y="15">Kartenn ar rouantelezh</title>
+        <content>War gartenn ar rouantelezh emañ diskouezet ar c'hêrioù to-war-dro. Pouezus eo ar gartenn-se evit gouzout gant piv e c'haller @47kenwerzhañ. @PKlikit war anv ur gêr evit gouzout peseurt doare kenwerzh e c'hall ober. Dindan anv ar gêr e kavoc'h an danvezioù a vez prenet ha gwerzhet du-se, ha priz an hent kenwerzh. Klikit war ar bouton 'Digeriñ un hent kenwerzh' evit digeriñ han hent ha kenwerzhañ. @PAlies a-walc'h e c'halloc'h resevout goulennoù pourveziñ evit danvezioù a bep seurt digant perzh kêrioù-all pe keloù brezel e lec'hioù-all. Kartenn ar rouantelezh a zo ar benveg diazez evit gouzout pelec'h emañ ar c'hêrioù-all. Ma 'z eo aloubet ur gêr nepell gant un enebour e vo ret deoc'h printiñ ho tifennerezhioù. @PLennit an pennadoù @47kenwerzh, @52brezel&amp;ha&amp;peoc'h ha @24Penn&amp;ar&amp;c'henwerzh evit gouzout hiroc'h diwar-benn implij kartenn ar rouantelezh.</content>
     </message>
     <message id="283" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
-        <title x="0" y="15">Monuments</title>
-        <content>Avec un chargement de briques, vous pouvez à présent travailler à la construction du mastaba sacré.  La plupart des monuments réclament des ouvriers qualifiés et non-qualifiés.   @L@LGuildes de construction.  @LLes Guildes de construction fournissent la main-d'oeuvre qualifiée nécessaire à la construction des monuments. Le mastaba est entièrement constitué de briques, et seule la Guilde des maçons est indispensable à sa construction. Vous pouvez utiliser autant de Guildes de maçons qu'il vous plaira, à condition que votre économie puisse subvenir à leurs besoins. Assurez-vous toutefois que suffisamment de briques sont livrées sur le chantier afin de maintenir occupés tous vos maçons.  @PLa Guilde des maçons répartira la main d'oeuvre sur le chantier de construction. Chaque poseur attendra alors de recevoir un chargement livré par des paysans non qualifiés.  @L@LLes paysans @LUne fois vos maçons sur le chantier, des groupes de paysans commenceront à leur livrer des briques. Ces même paysans retourneront à leur champ dès que possible. Vous remarquerez donc que le travail sur le chantier ralentit lorsque le Nil décroît.  Vous pouvez construire des chantiers supplémentaires. Ainsi tous les paysans non nécessaires à l'entretien des champs pourront travailler sur les monuments tout au long de l'année. @G75 @L@LCommencez par cliquer sur l'icône Structures Religieuses, puis cherchez un lieu qui puisse accueillir ce grand bâtiment.</content>
+        <title x="0" y="15">Monumantoù</title>
+        <content>Gant ur c'hargadenn vrikennoù e c'hallit bremañ labourat war savidigezh ar mastaba santel.  Lodenn vrasañ ar monumantoù o deus ezhomm da gaout oberourien a-vicher ha labourerien boutin.   @L@LGildoù saverien.  @LAr gildoù saverien a stumm an oberourien a-vicher ret da gaout evit sevel moumantoù. Gant brikennoù nemetken e vez savet ar mastaba, ha n'eus ezhomm nemet deus gildar mañsonerien. Gallout a rit implijout kement a gild mañsonerien a blij deoc'h, mont a raio diouzh startijenn hoc'h ekonomiezh. Bezit sur e vo kaset brikennoù a-walc'h d'ar mañsonerien er monumant evit ma labourfent.  @PGilg ar mañsonerien a ranno an dorn-labour war tachenn ar monumant. Pep mañsoner a c'hortozo ur c'hargadenn vrikennoù bet kaset gant peizanted.  @L@LAr beizanted @LUr wech ma erruo ho mañsonerien war dachenn ar monumant e vo kaset dezhe ar brikennoù gant ar beizanted. Ar beizanted-se a zistroio d'o farkoù an abretañ ar gwellañ. Al labour war ar monumant az aio gorrekoc'h pa vo izel dour an Nil.  Ma savit chanterioù ouzhpenn e vo kaset an holl peizanted hep park d'ar monumant ha gellet a raint labourat war ar monumant a-hed ar bloaz. @G75 @L@LEvit kregiñ, klikit war arlun ar Savadurioù Relijiel, ha klaskit ul lec'h evit sevel ar savadur bras-se.</content>
     </message>
     <message id="284" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
@@ -1695,12 +1695,12 @@
     <message id="287" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Distro ar gompagnunezh</title>
-        <content>Protégés par la nuit, les membres rescapés de votre malheureuse compagnie regagnent les forts confortables de la cité, bien décidés à ne plus jamais subir d'humiliation au combat.</content>
+        <content>Izili diwezhañ ho paour kaezh kompagnuniezh a zo deuet a-benn da zistreiñ, gwarezet gant teñvalijenn an noz, betek o c'hreñvlec'h ha mennet int evit chom hep bout mezhekaet en emgann biken ken.</content>
     </message>
     <message id="288" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Distro an harozed !</title>
-        <content>Vos victorieux soldats sont de retour de la guerre. Ils sont un peu moins nombreux qu'au départ, mais leurs camarades se sont sacrifiés pour le bien de l'Egypte ! </content>
+        <content>Trec'h eo bet ho soudarded ha distro int. Nebeutoc'hig int eget a-raok met o c'hamaraded o deus roet o buhez evit mat an Egipt ! </content>
     </message>
     <message id="289" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
@@ -1710,66 +1710,66 @@
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fallgontant eo Osiris</title>
         <video x="0" y="0">@24</video>
-        <content>A moins que vous ne réussissiez à l'apaiser, le dieu de an dour-beuz du Nil punira cette cité pour son manque de dévotion et, l'année prochaine, an dour-beuz détruira toutes les exploitations de la région !</content>
+        <content>Sabatuet eo Osiris gant an diouer a zoujañs diskouezet outañ e kêr. Ma ne zistannit ket doue dour-beuz an Nil e vo kastizet ho kêr hag ar bloaz o tont e c'hallfe bezañ distrujet an holl parkeier er vro !</content>
     </message>
     <message id="291" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fallgontant eo Rê</title>
         <video x="0" y="0">@23</video>
-        <content>Irrité par votre manque de respect envers sa personne, Rê ternit votre propre réputation au sein du royaume.</content>
+        <content>Sabatuet eo Rê gant an diouer a zoujañs diskouezet outañ en ho kêr. Fallaet en deus ho prud er rouantelezh.</content>
     </message>
     <message id="292" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fallgontant eo Ptah</title>
         <video x="0" y="0">@22</video>
-        <content>Consterné par votre manque d'intérêt envers sa personne, Ptah a détruit l'un de vos entrepôts.</content>
+        <content>Sabatuet eo Ptah gant an diouer a zoujañs a ziskouezhit outañ. Distrujet en deus un etrepaouez.</content>
     </message>
     <message id="293" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fallgontant eo Seth</title>
         <video x="0" y="0">@21</video>
-        <content>Seth a anéanti votre meilleure compagnie et son fort.</content>
+        <content>Seth en deus lazhet ho kwellañ kompagnunezh ha distrujet eo he c'hreñvlec'h.</content>
     </message>
     <message id="294" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fallgontant eo Bastet</title>
         <video x="0" y="0">@20</video>
-        <content>La déesse Bastet est fort mécontente du manque de respect de cette cité envers elle. Elle a donc projeté un sombre nuage de calamités sur ses habitants.</content>
+        <content>Drouklaouen eo Bastet abalamour d'an diouer a zoujañs en he c'heñver en ho kêr. Raktreset he deus kas ur berniad dizeurioù ha gwalleurioù war an annezidi.</content>
     </message>
     <message id="295" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Bennozh Osiris</title>
         <video x="0" y="0">@24</video>
-        <content>Osiris, dieu de an dour-beuz du Nil, désire bénir cette cité pour la remercier de sa sincère dévotion. La prochaine récolte sera deux fois supérieure à la normale pour toutes les exploitations de la plaine inondable !</content>
+        <content>Osiris, doue dour-beuz an Nil, a fell dezhañ bennigañ ar gêr-mañ. Frommet eo gant ho tevosion bras. An eostad kentañ a vo div wech brasoc'h eget boaz evit pep park war ar plaenennoù izel  !</content>
     </message>
     <message id="296" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Bennozh Rê</title>
         <video x="0" y="0">@23</video>
-        <content>Rê récompense ceux qui lui sont fidèles ! Pendant les 12 mois à venir, votre cité pourra vendre ses produits d'exportation pour 50 % de plus que leur valeur normale.</content>
+        <content>Rê a zo aketus e-keñver ar re feal outañ ! E-pad an 12 miz o tont e werzhoc'h 50% keroc'h produioù esporzhiañ ho kêr.</content>
     </message>
     <message id="297" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Bennozh Ptah</title>
         <video x="0" y="0">@22</video>
-        <content>Ptah choisit un entrepôt particulièrement performant et augmente la quantité de pierres précieuses, argile, poteries, lin et bijoux qu'il contient déjà.</content>
+        <content>Ptah en deus dibabet un etrepaouez efedus ha leuniet en deus ar bernioù mein prizius, pri, podoù, lin ha bravigoù a oa ennañ dija.</content>
     </message>
     <message id="298" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Bennozh Seth</title>
         <video x="0" y="0">@21</video>
-        <content>Seth apprécie votre humilité et votre obéissance. En guise de récompense, il terrassera les prochains ennemis qui oseront attaquer votre cité.</content>
+        <content>Seth a zo plijet gant ho uvelded hag ho sentidigezh. Flastrañ a raio ar c'hentañ enebourien a gredo tagañ ho kêr.</content>
     </message>
     <message id="299" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Bennozh Bastet</title>
         <video x="0" y="0">@20</video>
-        <content> En raison de la fidélité et de la dévotion de cette cité envers sa personne, Bastet a comblé ses habitations et ses bazars d'une abondance de nourriture et d'autres marchandises !</content>
+        <content>Bastet he deus bastet ouzh ezhommoù an annezidi ha leuniet he deus ar bazarioù gant forzh boued ha danvezioù-all evit ho trugarekaat deus devosion bras ho kêr en-he-c'heñver !</content>
     </message>
     <message id="300" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fallgontant eo an doueed</title>
-        <content>Au moins une divinité est en colère contre cette cité. Votre peuple exige la construction d'autres temples... et l'organisation d'une fête.</content>
+        <content>Un doue d'an nebeutañ a zo fuloret a-enep ho kêr. Ho poblañs a c'houlenn groñs e vefe savet temploù-all... hag aozet ul lid.</content>
     </message>
     <message id="301" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
@@ -1790,7 +1790,7 @@
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Spered Seth</title>
         <video x="0" y="0">@21</video>
-        <content>Seth se souvient qu'il a promis de vous protéger et il se fera un plaisir de terrasser tous ceux qui auront l'inconscience de s'attaquer à votre cité.</content>
+        <content>Seth en deus dalc'het soñj deus e bromesa ha laouen ez eo e zistrujo pep den sot a-walc'h evit krediñ tagañ ho kêr.</content>
     </message>
     <message id="305" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
@@ -1812,17 +1812,17 @@
     <message id="309" type="2" subtype="2">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">C'hoant bastet</title>
-        <content>Votre chef politique annonce que cette cité dispose désormais d'une quantité suffisante de debens pour répondre aux récentes exigences.</content>
+        <content>Hervez penn ho politikerezh ez eus debenoù a-walc'h e teñzor ar gêr evit respont d'ar rekedoù diwezhañ.</content>
     </message>
     <message id="310" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
         <title x="0" y="15">Arc'hant</title>
-        <content>Impôts @LUne grande cité a besoin de générer un revenu supplémentaire par rapport à son investissement initial. Les impôts sont un moyen d'y parvenir. La collecte des impôts nécessite un palais et des percepteurs. Assurez-vous de prévoir un nombre suffisant de percepteurs pour toute la ville, en particulier pour les quartiers riches. Plus la qualité de vie est grande dans un foyer, plus ses occupants paient d'impôts. @L@LVotre salaire personnel @LSi vous construisez une demeure luxueuse pour votre propre usage, vous pouvez générer un salaire personnel à partir des caisses de la cité. Les fonds personnels sont conservés par votre famille, en cas de besoin, comme lors des missions à venir. Attention, toutefois, car, si vous percevez un salaire correspondant à une position plus élevée que la vôtre, celà risque d'avoir des effets négatifs sur votre réputation au sein du royaume.</content>
+        <content>Tailhoù @LUr gêr vras he deus ezhomm da c'hounid muioc'h a arc'hant eget ar sammad roet dezhi evit en em ziazezañ. Gant an tailhoù e c'haller gounid sammadoù ouzhpenn. Evit tailhanteriñ eo ret kaout ur palez ha tailhanterien. Bezit sur da gaout tailhanterien a-walc'h evit ho kêr a-bezh, ha dreist holl evit ar c'harterioù pinvidik. Seul uheloc'h eo kalite buhez un oaled, seul pinvidik int an annezidi hag uhel an tailhoù. @L@LHo kopr personel @LMa savit un demeurañs lorc'hus personel evidoc'h-c'hwi e c'halloc'h resevout ur gopr personel diouzh teñzor ar gêr. Ar fontoù personel a vo miret gant ho familh, ma 'z eus ezhomm, evit ar senarioioù da zont da skouer. Diwallit mat da chom hep resevout ur gopr re uhel da-geñver ho renk koulskoude peogwir en do efedoù negativel war ho prud er rouantelezh.</content>
     </message>
     <message id="311" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Trec'het !</title>
-        <content>Ô, jour funeste ! Votre fin n'aurait pu être pire. Vous avez failli à votre peuple, à vos ancêtres et à vos descendants. Maintenant, l'Egypte attend qu'un autre champion prenne votre place...</content>
+        <content>Ô, devezh milliget ! N'eus ket fin gwashoc'h. Faziet ho peus d'ho tever e-keñver ho pobl, ho kourdadoù hag ho tiskennidi. Bremañ emañ an Egipt o c'hortoz e kemerfe ur c'hampion all ho plas...</content>
     </message>
     <message id="312" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
@@ -1837,22 +1837,22 @@
     <message id="314" type="2" subtype="2">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">C'hoant bastet</title>
-        <content> Votre chef politique annonce que les entrepôts de votre cité disposent désormais d'une quantité suffisante de biens pour répondre aux récentes exigences.</content>
+        <content> Hervez penn ho politikerezh ez eus danvezioù a-walc'h e etrepaouezoù ar gêr evit respont d'ar rekedoù diwezhañ.</content>
     </message>
     <message id="315" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Mallus: hent stanket</title>
-        <content>Les architectes ont dû détruire des constructions récentes pour rétablir l'accès à la @57route&amp;du&amp;royaume. Vous devez immédiatement enlever les gravats.</content>
+        <content>Rankout o deus an arkitektourien distrujañ savadurioù nevez evit gwarantiñ ar mont-ha-dont war @57hent&amp;ar&amp;rouantelezh. An dismantroù a rankit tennañ diouzhtu.</content>
     </message>
     <message id="316" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">N'eus ket a zok oberiant</title>
-        <content>Bien que vous ayez demandé à votre chef du commerce d'établir des relations commerciales avec un marchand de mer, ce dernier ne peut pas accoster sur les rives de notre cité ! Vous devez construire un dock et prévoir une main-d'oeuvre pour y travailler. Une fois que votre cité disposera d'un dock opérationnel, les navires pourront accoster et les échanges commerciaux pourront commencer.</content>
+        <content>Goulennet ho peus ouzh penn ar c'henwerzh da liammañ darempredoù gant ur c'henwerzhour war vor met hemañ ne c'hall ket kaeañ ouzh aodoù ar gêr ! Un dok a rankit sevel ha ret e vo kas dorn-labour du-se evit labourat. Ur wech m'ho po un dok oberiant e c'hallo al listri kenwerzh mont outañ hag e c'hallo bezañ kroget ar c'henwerzh.</content>
     </message>
     <message id="317" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Al listri pesketa ne c'hallont ket mont ha dont</title>
-        <content>Nos pêcheurs rapportent qu'un pont bloque le passage ! Les navires ne peuvent pas passer sous les ponts. Supprimez ce pont afin que les navires de pêche puissent approvisionner votre cité en poisson frais.</content>
+        <content>Hervez hor pesketaerien ez eus ur pont o stankañ o hent ! Al listri ne c'hallont ket tremen dindan ar pontoù. Distrujit anezhañ evit ma c'hallfent mont, dont, pesketa ha pourveziñ ho kêr gant pesk fresk.</content>
     </message>
     <message id="318" type="3" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
@@ -1867,57 +1867,57 @@
     <message id="320" type="2" subtype="7" urgent="true">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Emsavadeg lec'hel</title>
-        <content>Inspirés par Seth, certains citoyens ont décidé de manifester leur ressentiment à votre encontre !!</content>
+        <content>Gant Seth eo aet keodedourien da vanifestiñ evit diskouez n'int ket a-du ganeoc'h !</content>
     </message>
     <message id="321" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Ur vadig digant Osiris</title>
-        <content>La ferveur du culte d'Osiris, doue an Nil, dans votre cité a été remarquée. Continuez à honorer Osiris de cette façon et an dour-beuz de l'an prochain sera parfaite, déposant du limon fertile en abondance dans la plaine.</content>
+        <content>Merzhet eo bet kreñvded kult Osiris, doue an Nil, en ho kêr. Kendalc'hit da enoriñ Osiris giz-se hag e vo peurvat dour-beuz ar bloaz o tont, leuskel a raio limoñs frouezhus e pep lec'h war ar plaenennoù izel.</content>
     </message>
     <message id="322" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Ur vadig digant Rê</title>
         <video x="0" y="0">@23</video>
-        <content>Encouragé par le respect que vous lui témoigné, Rê a quelque peu amélioré votre réputation au sein du royaume.</content>
+        <content>Rê en deus un tamm gwellaet brud ho kêr er rouantelezh peogwir ho peus kreñvaet kult anezhañ en ho kêr.</content>
     </message>
     <message id="323" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Ur vadig digant Ptah</title>
         <video x="0" y="0">@22</video>
-        <content>Ptah est touché par votre sollicitude et assure que les fabriques de bateaux, les ateliers de tissage et les orfèvreries de votre ville disposent de toutes les matières premières voulues.</content>
+        <content>Ptah en deus gwelet pegen aketus oc'h da-geñver e gult. Graet en deus e seizh gwellañ evit ma vefe leun miradoù danvezioù kentañ ho lestrerezhioù, gwiaderezhioù hag orfebrerezhioù.</content>
     </message>
     <message id="324" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Ur vadig digant Seth</title>
         <video x="0" y="0">@21</video>
-        <content>Pour vous remercier de votre obéissance, Seth protégera tous vos soldats lors d'une bataille lointaine.</content>
+        <content>Seth en deus gwelet pegen doujus eo ho kêr en-e-genver ha gwareziñ a raio ho soudarded e-pad an emgann kentañ.</content>
     </message>
     <message id="325" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Ur vadig digant Bastet</title>
         <video x="0" y="0">@20</video>
-        <content>Bastet est satisfaite du culte de votre cité. Elle a organisé une fête pour que toutes les divinités puissent se rendre compte de votre piété.</content>
+        <content>Bastet a zo plijet-tre gant kreñvded he c'hult en ho kêr. Aozet he deus ur fest evit ma c'hallfe an holl doueed all gwelout pegen doujus oc'h.</content>
     </message>
     <message id="326" type="2" subtype="1">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Kleñved red</title>
-        <content>Une épidémie s'est répandue dans un foyer qui ne bénéficie pas d'un bon accès aux soins médicaux. Les gens meurent sans que vous ne puissiez rien y faire. Vous devez améliorer les conditions d'hygiène dans les quartiers insalubres afin d'éviter une nouvelle épidémie.</content>
+        <content>Tarzet he deus ur c'hleñved-red en un oaled ha ne oa ket liammet mat ouzh ar servijoù yec'hed. Mont a reont an dud d'an Anaon ha ne c'hallit ober netra. Gwellaat yec'hed hollek ar c'harterioù tizhet a rankit ober evit chom e-kichen an eil gwagenn.</content>
     </message>
     <message id="327" type="2" subtype="1">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Bosenn</title>
-        <content>La peste envahit la cité ! C'est ce que nous craignions, compte tenu des conditions générales d'@53hygiène dans la cité. Il reste à espérer que nos pharmacies soient à la hauteur.</content>
+        <content>Bosenn e kêr ! N'eo ket souezhus ma seller ouzh stad hollek ar @53yec'hed e kêr. Ne c'hellomp nemet kaout fiziañs en hol louzaouerezhioù.</content>
     </message>
     <message id="328" type="2" subtype="1">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Malaria</title>
-        <content>Certains foyers sont touchés par la malaria. De meilleures conditions d'hygiène éviteraient de gaspiller tant de vies humaines !</content>
+        <content>Tarzhet he deus ar malaria e diabarzh tiez zo. Ur yec'hed gwelloc'h a savetfe kalzig tud !</content>
     </message>
     <message id="329" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Bennozh Rê</title>
         <video x="0" y="0">@23</video>
-        <content>Vous avez honoré Rê, et votre réputation s'est considérablement améliorée au sein du royaume !</content>
+        <content>Enoret ho peus Rê ha ho prud en deus kresket mat er rouantelezh !</content>
     </message>
     <message id="330" type="2" subtype="2">
         <dialog x="0" y="24" width="30" height="28"/>
@@ -1927,25 +1927,25 @@
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Ur vadig digant Rê</title>
         <video x="0" y="0">@23</video>
-        <content>Pour vous récompenser de votre dévotion, Rê incite vos partenaires commerciaux à acheter vos produits en plus grandes quantités.</content>
+        <content>Rê en deus merzhet pegen doujus oc'h neuze en deus kendrec'het ho kevelerien kenwerzh da brenañ muioc'h en ho kêr.</content>
     </message>
     <message id="332" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fulor Rê</title>
         <video x="0" y="0">@23</video>
-        <content>Vous avez provoqué la colère de Rê ! En conséquence, ce dieu a fait baisser la réputation des produits de votre cité et vos partenaires commerciaux en achèteront de moins en moins.</content>
+        <content>Atahinet ho peus fulor Rê ! Lakaet en deus da zigreskiñ brud produioù ho kêr hag ho kevelerien kenwerzh a breno nebeutoc'h nebeutañ.</content>
     </message>
     <message id="333" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fulor Rê</title>
         <video x="0" y="0">@23</video>
-        <content>Comme vous avez négligé Rê, vos partenaires commerciaux vont vous négliger à leur tour.</content>
+        <content>N'oc'h ket bet doujus a-walc'h ouzh Rê neuze ne vint ket doujus ho kevelerien kenwerzh ouzhoc'h.</content>
     </message>
     <message id="334" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fallgontant eo Rê</title>
         <video x="0" y="0">@23</video>
-        <content>Comme vous avez négligé Rê, vos partenaires commerciaux vont à leur tour négliger vos marchandises. Ils ont décidé de réduire leur activité commerciale avec vous.</content>
+        <content>Dre ma n'oc'h ket bet doujus ouzh Rê ne vint ket ho kevelerien kenwerzh doujus ouzh ho produioù. Dibabet o deus izelaat ar c'henwerzh ganeoc'h.</content>
     </message>
     <message id="335" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
@@ -1959,9 +1959,9 @@
     </message>
     <message id="337" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
-        <title x="0" y="0">Wrath of Osiris</title>
+        <title x="0" y="0">Fulor Osiris</title>
         <video x="0" y="0">@24</video>
-        <content>Osiris is outraged, though he is powerless to punish your city.  Enjoy this while you can, for your city may not be so lucky next time.</content>
+        <content>Fuloret eo Osiris met ne dago ket ho kêr hiziv. Profitit mat peogwir ne vioc'h ket ken chañsus ar c'hentañ gwech.</content>
     </message>
     <message id="338" type="0" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
@@ -1975,13 +1975,13 @@
         <dialog x="0" y="24" width="30" height="28"/>
         <title x="0" y="0">Benniget hoc'h gant Osiris</title>
         <video x="0" y="0">@24</video>
-        <content>Osiris récompense ceux qui le vénèrent. La prochaine dour-beuz sera bien meilleure que prévue.</content>
+        <content>Osiris a zigoll ar re a zo feal outañ. An dour-beuz kentañ a vo kalz gwelloc'h.</content>
     </message>
     <message id="341" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fulor Osiris</title>
         <video x="0" y="0">@24</video>
-        <content> Osiris a zegas d'ho soñj e rankit kaout doujañs outañ. Gwanoc'h e vo an dour-beuz o tont eget ar pezh a oa diouganet.</content>
+        <content> Osiris a zegas d'ho soñj e rankit kaout doujañs outañ. Gwanoc'h e vo an dour-beuz o tont.</content>
     </message>
     <message id="342" type="2" subtype="0" urgent="true">
         <dialog x="0" y="88" width="30" height="20"/>
@@ -1996,7 +1996,7 @@
     <message id="344" type="2" subtype="0" urgent="true">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Diougan an nilaouer</title>
-        <content>Keloù spontus ! Hervez an diouganerien e c'hallfemp tremen ur bloavezh hep bour-beuz !</content>
+        <content>Keloù spontus ! Hervez an diouganerien e c'hallfemp tremen ur bloavezh hep dour-beuz !</content>
     </message>
     <message id="345" type="2" subtype="0" urgent="true">
         <dialog x="0" y="88" width="30" height="20"/>
@@ -2823,23 +2823,23 @@
     </message>
     <message id="483" type="2" subtype="0" urgent="true">
         <dialog x="0" y="88" width="30" height="20"/>
-        <title x="0" y="0">Attaque de criquets</title>
-        <content>Des nuées de criquets déciment les cultures à travers toute l'Egypte. Veillez à ce qu'ils n'anéantissent pas la prochaine récolte !</content>
+        <title x="0" y="0">Mirc'hed-raden</title>
+        <content>Mirc'hen-raden e-leiz emaint o kuzhat an heol ! Distrujañ a reont ar struj hag ar pezh bet hadet ha ne chom netra war-o-lerc'h. Diwallit mat oute evit ma ne zistrujfent ket an eostad kentañ !</content>
     </message>
     <message id="484" type="2" subtype="0" urgent="true">
         <dialog x="0" y="88" width="30" height="20"/>
-        <title x="0" y="0">Attaque de grenouilles</title>
-        <content>Un mauvais sort s'est abattu sur nos terres ! Une multitude de grenouilles polluent nos rues et nos habitations, forçant les résidents à chercher refuge ailleurs.</content>
+        <title x="0" y="0">Raned</title>
+        <content>Milliget omp ! Aloubet eo straedoù ar gêr gant raned a vil vern ! An annezidi emaint o klask repu e lec'h-all.</content>
     </message>
     <message id="485" type="2" subtype="0" urgent="true">
         <dialog x="0" y="88" width="30" height="20"/>
-        <title x="0" y="0">Orage de grêle</title>
-        <content>La mort et la destruction sont dans l'air ! Un violent orage de grêle s'est abattu sur nous, avec son cortège d'eau glacée. Puissent les dieux avoir pitié de ceux qui n'ont pas d'abri, car leurs chances de survie sont très minces !</content>
+        <title x="0" y="0">Arnev grizilh</title>
+        <content>Ar marv hag an distruj emañ amañ ! Un arnev grizilh feulz-kenañ emañ o tont, gant e sac'hadoù galv skornet. Ra vo truezus an doueed e-keñver an dud hep goudor peogwir eo izel izel o chañsoù da zreistvevañ !</content>
     </message>
     <message id="486" type="2" subtype="0" urgent="true">
         <dialog x="0" y="88" width="30" height="20"/>
-        <title x="0" y="0">Fleuve de sang</title>
-        <content>Malheur à nous ! Les eaux, autrefois source de vie et de nutriments, sont empoisonnées de sang. Combien de temps faudra-t-il pour mettre fin à ce fléau ?</content>
+        <title x="0" y="0">Ur stêr gwad</title>
+        <content>Mallozh doue ! An dourioù, mammenn ar vuhez hag ar boued gwechall, a zo saotreet gant gwad. Peget amzer a bado c'hoazh ar walenn-se ?</content>
     </message>
     <message id="487" type="0" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
@@ -2865,8 +2865,8 @@
     </message>
     <message id="491" type="2" subtype="0" urgent="true">
         <dialog x="0" y="88" width="30" height="20"/>
-        <title x="0" y="0">Vague de criminalité</title>
-        <content>Puissent les dieux avoir pitié de nous ! Une bande de féroces criminels assoiffés de richesses a pris notre cité comme cible. Arrêtez-les avant que les trésors de notre cité ne soient à jamais perdus.</content>
+        <title x="0" y="0">Torfederezh uhel</title>
+        <content>Ra vo truezus an doueed en-hor-c'heñver ! Ur strollad torfedourien ferv o deus dibabet preizhañ pinvidigezhioù hor c'hêr. Talit oute a-raok ma ne vefe kollet da viken teñzorioù hor c'hêr.</content>
     </message>
     <message id="492" type="0" subtype="0">
         <dialog x="0" y="24" width="30" height="28"/>
@@ -2894,7 +2894,7 @@
     </message>
     <message id="496" type="2" subtype="0" urgent="true">
         <dialog x="0" y="88" width="30" height="20"/>
-        <title x="0" y="0">Au secours ! Des momies !</title>
-        <content>Une momie déambule dans les rues de votre ville. Arrêtez ce fléau avant qu'il ne se propage à travers le pays !</content>
+        <title x="0" y="0">Sikour ! Balzamegenned !</title>
+        <content>Ur valzamegenn emañ o pourmen e kêr. Lakait un dermen d'ar walenn-se a-raok n'en em skignfe pelloc'h dre ar vro !</content>
     </message>
 </messages>

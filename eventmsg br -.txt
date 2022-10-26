@@ -5,7 +5,7 @@
 ;*****Egyptian city under attack**********************
 PHRASE_egyptian_city_attacked_title_P						"Arsailhet eo ur ger"
 PHRASE_egyptian_city_attacked_title_C						"Arsailhet eo ur ger"
-PHRASE_egyptian_city_attacked_initial_announcement_P		"[greeting] [player_name],[reason_phrase] divadezidi a arsailh. Urzhiañ a ra ar faraon deoc'h kas soudardad da [city_name], ur ger Egiptek, evit talañ ouzh an enebour. Kasit soudarded dindan [travel_time] miz."
+PHRASE_egyptian_city_attacked_initial_announcement_P		"[greeting] [player_name],[reason_phrase] divadezidi a arsailh. Urzhiañ a ra ar faraon deoc'h kas soudarded da [city_name], ur ger Egiptian, evit talañ ouzh an enebour. Kasit soudarded dindan [travel_time] miz."
 PHRASE_egyptian_city_attacked_initial_announcement_C 	 	"[greeting] [player_name], [reason_phrase]  [city_name], ur ger Egiptek a zo taget hag ezhomm he deus da gaout ho skoazell. Kasit soudarded dindan [travel_time] miz."
 PHRASE_egyptian_city_attacked_first_reminder_P				"[greeting] [player_name], armeadoù ar faraon santel a stourm gant an enebour e [city_name]. Kasit soudarded dindan c'hwec'h miz pe e rankoc'h gouzañv fulor ar faraon."
 PHRASE_egyptian_city_attacked_first_reminder_C				"[greeting] [player_name], ha disoñjet ho peus [city_name] ? Kasit soudarded du-se dindan 6 miz pe e vo spontus an disoc'h."
@@ -85,7 +85,7 @@ PHRASE_distant_battle_no_reason_C_C				""
 ;Requests for goods
 ;*****General Request**********************************
 PHRASE_general_request_title_P 					"Reked ar faraon"
-PHRASE_general_request_title_C 					"Reked ur ger"
+PHRASE_general_request_title_C 					"Reked ur gêr"
 PHRASE_general_request_initial_announcement_P	"[greeting] [player_name], [reason_phrase] ar faraon dibar a c'houlenn diganeoc'h kas [amount] karrigellad [item] da [city_name] dindan [time_allotted] miz. Bastañ ouzh reked ar faraon a sacho anaoudegezh vat ar faraon warnoc'h."
 PHRASE_general_request_initial_announcement_C	"[greeting] [player_name], [reason_phrase] kêr [city_name] a c'houlenn diganeoc'h kas [amount] karrigellad [item] dindan [time_allotted] miz. Sikour [city_name] a c'hallfe treiñ ho tazont war an tu mat."
 PHRASE_general_request_reminder_P 				"[greeting] [player_name], en em c'houlenn a ra faraon perak [city_name] n'en deus ket resevet [amount] karrigellad [item]. C'hwec'h miz a chom ganeoc'h evit bastañ ouzh reked ar faraon."
@@ -470,7 +470,7 @@ PHRASE_earthquake_no_reason_C	  ""
 
 ;*****Sea trade problem/Stormy Seas**************************************
 PHRASE_stormy_seas_title 					"Korventennoù"
-PHRASE_stormy_seas_initial_announcement 	"[greeting] [player_name], [reason_phrase] ar mor dichadennet a ginnig lonkañ al listri kenwerzh. Un toullad mizioù a vo dav gortoz a-raok ne sioulfe ar mor hag a-raok kavout kenwerzherien prest da lakaat o buhez en arvar war ar mor bras. Da c'hortoz ne c'hall ket bezañ kenwerzhet war vor."
+PHRASE_stormy_seas_initial_announcement 	"[greeting] [player_name], [reason_phrase] ar mor dichadennet a ginnig lonkañ al listri kenwerzh. Un toullad mizioù a vo dav gortoz a-raok ma ne vefe sioul ar mor hag evit kavout kenwerzherien prest da lakaat o buhez en arvar war ar mor bras. Da c'hortoz ne c'hall ket bezañ kenwerzhet war vor."
 PHRASE_stormy_seas_reason_A  	 	 					"abalamour da gorventennoù ken spontus ha kreñv,"
 PHRASE_stormy_seas_reason_B	  "pa 'z omp net trubuilhet gant korventennoù n'eus ket pell,"
 PHRASE_stormy_seas_reason_C	  "en desped da gorventennoù spontus"
