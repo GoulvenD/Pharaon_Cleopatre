@@ -3770,20 +3770,20 @@
     </group>
     <group id="102">
         <string id="0">Kae</string>
-        <string id="1">Al listri a loc'h a lestrerezh evit mont d'ar c'haeoù. Ur bagad a lestro evit mont da besketa en trowardroioù. Ul lestr a c'hallit degemer war pep kae.</string>
-        <string id="2">Gortoz a reomp e savfe al lestrerezh ur lestr pesketa evidomp.</string>
+        <string id="1">Al lestrerezh a gas al listri d'ar c'haeoù. Ar martoloded a lestro evit mont da besketa en trowardroioù. Nemet ul lestr a c'hallit degemer war pep kae.</string>
+        <string id="2">Gortoz a reomp e kasfe al lestrerezh ul lestr pesketa deomp.</string>
         <string id="3">Hol lestr az a da besketa.</string>
         <string id="4">O pesketa emañ hol lestr.</string>
         <string id="5">O tistreiñ d'ar porzh emañ hol lestr.</string>
         <string id="6">O prientiñ hol lestr emaomp evit ur veaj nevez e tu all hor bevennoù.</string>
         <string id="7">O tistreiñ deus ul lec'h pesketa gant kalz pesked emañ hol lestr.</string>
-        <string id="8">Spi o deus hor pesketaerien e vo kavet pesked er c'horn bro-mañ dindan berr amzer. Peotramant o do mil boan evit gounit o bara pemdez.</string>
+        <string id="8">Spi o deus hor pesketaerien e vo kavet pesked dindan berr amzer er c'horn bro-mañ. Mod-all o do mil boan evit gounit o bara pemdez.</string>
         <string id="9">Penn ar c'henwerzh en deus goulennet paouez ar pesketa.</string>
         <string id="10">N'ez aio ket hol lestr pesketa war an dourioù saotreet-se !</string>
     </group>
     <group id="103">
         <string id="0">Palez</string>
-        <string id="1">Ho lec'h annez eo unan eus ar chomelc'hioù droukc'hoantaetañ. Ur gopr a c'hallit resevout gant ho temeurañs lorc'hus.</string>
+        <string id="1">Ho lec'h annez eo ar palez. Unan eus ar chomlec'hioù droukc'hoantaetañ eo ivez. Ur gopr a c'hallit resevout gant ho temeurañs lorc'hus.</string>
         <string id="2">bep miz</string>
         <string id="3">Gopr dean ar gêriadenn :</string>
         <string id="4">Gopr nobl ar gêriadenn :</string>
@@ -3799,19 +3799,19 @@
     </group>
     <group id="104">
         <string id="0">Kabined arkitektourien</string>
-        <string id="1">Doujet-tre e vez an arkitektourien Egiptad ha klasket e vez war o lerc'h. Ne gouezho ket ken alies en o foull ar savadurioù kempennet gante.</string>
+        <string id="1">Doujet-tre e vez an arkitektourien Egiptiz ha klasket e vez war o lerc'h. Aar savadurioù kempennet gante ne gouezhint ket alies en o foull.</string>
         <string id="2">O labourat er maez emañ hon arkitekt.</string>
         <string id="3">En em brientiñ a ra hon arkitekt evit mont er-maez.</string>
         <string id="4">N'hon eus ket amzer evidomp. O labourat diehan war washadennoù pe oc'h evezhiañ savadurioù ar gêr emañ hon arkitektourien.</string>
         <string id="5">Skuizh divi eo hon arkitektourien. A-benn un devezh pe zaou e adkrogont en dro el labour.</string>
-        <string id="6">Tud a vank en hor skipailh hag ur sizhun a vo dav gortoz a-raok mar c'hallfemp kas un arkitektour er-maez da labourat.</string>
-        <string id="7">Kalzig tud a vank en hor skipailh hag a wechoù e rank un arkitektour kemer div sizhunvezh evit ober e droiad.</string>
+        <string id="6">Tud a vank en hor skipailh hag ur sizhun a vo dav gortoz a-raok ma c'hallfemp kas un arkitektour er-maez da labourat.</string>
+        <string id="7">Kalzig tud a vank en hor skipailh hag a-wechoù e rank un arkitektour kemer div sizhunvezh evit ober e droiad.</string>
         <string id="8">Ur bern tud a vank en hor skipailh. Tost ur miz a vez kemeret gant un arkitektour evit ober e droiad.</string>
         <string id="9">N'eus arkitektour ebet o labourat amañ, ar savadur a c'hallfe kouezhañ en e boull.</string>
     </group>
     <group id="105">
         <string id="0">Palez</string>
-        <string id="1">E-touez bravañ savadurioù ho kêr emañ ar palez. Degemer a ra an tailhanterien hag o dastumadoù en ur virout roudennoù deus glad ar gêr.</string>
+        <string id="1">Ar palez a zo e-touez bravañ savadurioù ho kêr. Degemer a ra an tailhanterien hag o dastumadoù en ur virout roudennoù deus glad ar gêr.</string>
         <string id="2">Er c'hofroù</string>
         <string id="3">Goulenn ali penn al liveoù</string>
     </group>
@@ -3821,7 +3821,7 @@
         <string id="2">Er c'hofroù</string>
         <string id="3">Hon tailhanterien emañ o gwiriekaat kontoù poblañs ar rannvro.</string>
         <string id="4">En em brientiñ a ra hon tailhanter a-raok mont er maez.</string>
-        <string id="5">A lusk uhel e labouromp. An tailhanterien emaint o gwiriekaat eo bet paeet mat an holl tailhoù dleet.</string>
+        <string id="5">A lusk uhel e labouromp. An tailhanterien emaint o gwiriekaat hag eñ eo bet paeet mat an holl tailhoù dleet.</string>
         <string id="6">Ur skoilh hon eus bet hag e vo dav gortoz un deiz pe zaou a-raok na adkemerfe an tailhanterien o zroioù.</string>
         <string id="7">Tud a vank en hor skipailh hag ur sizhunvezh a vo dav gortoz a-raok ma ne adkemerfe an tailhanterien o zroioù.</string>
         <string id="8">Kalz-kalz tud a vank en hor skipailh ha div sizhunvezh a vo dav gortoz a-raok dastum an tailhoù.</string>
@@ -3833,18 +3833,18 @@
     <group id="107">
         <string id="0">Chadouf</string>
         <string id="1">Ar chadouf-mañ a gas ur c'hementad bras a zour evit pourveziñ skluzioù ho kêr.</string>
-        <string id="2">N'ez a ket en dro ar chadouf-mañ. Goulennit digant penn an dorn-labour gouestlañ oberourien ouzhpenn da servij an dour.</string>
+        <string id="2">N'ez a ket en dro ar chadouf-mañ. Goulennit digant penn an dorn-labour gouestlañ oberourien ouzhpenn da Servij an dour.</string>
         <string id="3">Ar chadouf-mañ a rank bout liammet ouzh ur poent dour pe ur chadouf oberiant gant ur rigolenn evit mont en-dro.</string>
     </group>
     <group id="108">
         <string id="0">Poent dour</string>
         <string id="1">An dougerien a denn dour er stivell-mañ. Gwellaat a reont yec'hed ha plegennoù bevañ annezidi ar c'harter.</string>
         <string id="2">Digudenn e vez pourvezet dour d'ar c'heodedourien.</string>
-        <string id="3">Dougerien dour a vank. A-wechoù e dremen un devezh pe zaou hep dour pourvezet.</string>
-        <string id="4">Kalzig dougerien a vank en hor skipailh hag a wechoù e dremen ur sizhunvezh hep dour pourvezet.</string>
-        <string id="5">Ur bern dougerien a vank en hor skipailh. A-wechoù n'eo ket pourvezet an dour e-pad div sizhunvezh.</string>
-        <string id="6">Re nebeud a zougerien a implijomp. A-wechoù n'eo ket pourvezet dour e-pad ur sizhunvezh.</string>
-        <string id="7">Hep dougerien ne servij da netra ar savadur-mañ.</string>
+        <string id="3">Dougerien dour a vank. A-wechoù ne vez ket pourvezet dour e-pad un deiz pe zaou.</string>
+        <string id="4">Kalzig dougerien a vank en hor skipailh hag a wechoù ne vez ket pourvezet dour e-pad ur sizhun.</string>
+        <string id="5">Ur bern dougerien a vank en hor skipailh. A-wechoù ne vez ket pourvezet an dour e-pad div sizhun.</string>
+        <string id="6">Re nebeud a zougerien a implijomp. A-wechoù ne vez ket pourvezet an dour e-pad ur sizhun.</string>
+        <string id="7">Hep dougerien eo didalvoud ar savadur-mañ.</string>
     </group>
     <group id="109">
         <string id="0">Puñsoù</string>
