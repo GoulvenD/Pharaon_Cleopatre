@@ -1660,13 +1660,13 @@
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fulor Rê</title>
         <video x="0" y="0">@23</video>
-        <content>Evit ho kastizañ deus ho tismegañs en deus Rê fallaet ho prud er rouantelezh. Laosket ho peus a-gostez an doue-se neuze e vioc'h lakaet a-gostez gant an Egiptiz.</content>
+        <content>Evit kastizañ ho tismegañs en deus Rê fallaet ho prud er rouantelezh. Laosket ho peus a-gostez an doue-se neuze e vioc'h lakaet a-gostez gant an Egiptiz.</content>
     </message>
     <message id="281" type="2" subtype="0">
         <dialog x="0" y="88" width="30" height="20"/>
         <title x="0" y="0">Fulor Seth</title>
         <video x="0" y="0">@21</video>
-        <content>Seth en deus distrujet ho listri peogwir n'ho peus ket diskouezet doujañsa-walc'h en e geñver !</content>
+        <content>Seth en deus distrujet ho listri peogwir n'ho peus ket diskouezet doujañs a-walc'h en e geñver !</content>
     </message>
     <message id="282" type="2" subtype="4">
         <dialog x="0" y="0" width="40" height="30"/>
