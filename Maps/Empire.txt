@@ -1,8 +1,8 @@
-"Empire"
-The perils of the civil war are over, and your family has triumphed.  You rule Egypt with an iron fist, and many cities cower under your great authority.  Some of these cities will provide you with the valuable wood you need to construct your magnificent Pyramid Complex in your new capital at Itjtawy.  You should acknowledge their obedience by helping them in their times of need.
+"An Impalaerezh"
+Pellaet eo bet arvar ar brezel diabarzh, ha trec'h eo bet ho familh. An Egipt a ouarnit en ur vezañ dir ho kraban ha kalzig kêrioù o deus pleget kein dirak hoc'h aotrouniezh veur. Un nebeud anezhe ho pourvezo gant ar c'hoad a-galite ho peus ezhomm a-benn sevel an hollad piramidennoù hollvrav en ho meur-gêr nevez Itjtawy. En digoll d'o sujidigezh e vefe fur da skoazellañ anezhe er prantadoù diaes.
 
-Other cities, however, chafe under your rule.  On, Khmun and Waset will rise up against you.  Be prepared to strike them down if they rebel.
+E-keit-se e vez gouzañvet ho kward gant kêrioù all. Khmun ha Waset en em brientont evit en em sevel en-oc'h-enep. Bezit prest da gabestrañ an emsavadeg.
 
-Itjtawy should offer just enough of the finer things in life to keep people in the city.  Your ratings goals are: Culture Rating of 30, Prosperity Rating of 40, Kingdom Rating of 40 and population of 5000.  Be forewarned: if you do not accomplish these goals quickly, trouble could arise.
+Itjtawy a rank kinnig un nebeud traoù plijus evit mirout he foblañs. Setu ho palioù liveoù : 30 a live sevenadurezh, 40 a live berzh, 40 a live rouantelezh hag ur boblañs a 5000 annezad. Gwelloc'h eo bezañ prest : ma ne dizhit ket ar palioù-se buan e c'hallfec'h kaout kudennoù.
 
 
